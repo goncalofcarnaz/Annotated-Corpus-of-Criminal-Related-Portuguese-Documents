@@ -1,10 +1,10 @@
 # SEMCrime
 
 Dataset and Machine Learning classifiers:
-	/Data collection
-		/CrimeNews - dataset built after a collection in online newspapers related to crime.
-		/PGrLisboa - dataset built after a collection in Procudoria Geral da Republica de Lisboa (Open Source News) related to crime.
-		/Criminal Investigation Reports - data built by police reports after being anonymized (the used names, locations, time, phone numbers, license plates are not related to original report).
+	- Folder: Data collection
+		- Folder: CrimeNews - dataset built after a collection in online newspapers related to crime.
+		- Folder: PGrLisboa - dataset built after a collection in Procudoria Geral da Republica de Lisboa (Open Source News) related to crime.
+		- Folder: Criminal Investigation Reports - data built by police reports after being anonymized (the used names, locations, time, phone numbers, license plates are not related to original report).
 					
 
 NER:
