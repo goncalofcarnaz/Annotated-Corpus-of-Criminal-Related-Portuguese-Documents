@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><news050>
+    <docname>news050</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>27 Setembro 2018</publicationdate>
+    <title>PSP detém "homem-aranha" por furtos após escalar edifícios.</title>
+    <newstext>Um homem, apelidado pela Polícia de "homem-aranha", foi detido na terça-feira na freguesia de Alcântara, em Lisboa, por furtar objetos após escalar os edifícios, anunciou a PSP esta quinta-feira. 
+	Com os furtos, o homem lucrou cerca de 10.600 euros, causando danos patrimoniais superiores a 47 mil euros. 
+	O detido, com 31 anos, é suspeito de arrombar e escalar locais situados no Seixal, Cascais, Oeiras e em Lisboa. 
+	O suspeito foi detido após uma investigação que durou cerca de meio ano, tendo a PSP recuperado diverso material relacionado com alguns dos crimes que praticou. 
+	O homem, indiciado por diversos crimes de furto qualificado e por burla informática, já tinha antecedentes criminais e ficou em prisão preventiva, a medida de coação mais gravosa.
+	</newstext>
+	
+	<Sentences num="5">
+	</Sentences>
+	
+	<sent1 desc="Um homem, apelidado pela Polícia de 'homem-aranha', foi detido na terça-feira na freguesia de Alcântara, em Lisboa, por furtar objetos após escalar os edifícios, anunciou a PSP esta quinta-feira.">
+		<NE>
+			<Organization>Polícia</Organization>
+			<Time>terça-feira</Time>
+			<Place>Alcântara</Place>
+			<Place>Lisboa</Place>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent1>
+	
+
+	
+	<sent2 desc="Com os furtos, o homem lucrou cerca de 10.600 euros, causando danos patrimoniais superiores a 47 mil euros. ">
+		<NE>
+			<Numeric>10.600</Numeric>
+			<Numeric>47</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O detido, com 31 anos, é suspeito de arrombar e escalar locais situados no Seixal, Cascais, Oeiras e em Lisboa. ">
+		<NE>
+			<Numeric>31</Numeric>
+			<Place>Seixal</Place>
+			<Place>Cascais</Place>
+			<Place>Oeiras</Place>
+			<Place>Lisboa</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O suspeito foi detido após uma investigação que durou cerca de meio ano, tendo a PSP recuperado diverso material relacionado com alguns dos crimes que praticou.">
+		<NE>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O homem, indiciado por diversos crimes de furto qualificado e por burla informática, já tinha antecedentes criminais e ficou em prisão preventiva, a medida de coação mais gravosa.">
+		<NE>
+			<crimetype>furto qualificado</crimetype>
+			<crimetype>burla informática</crimetype>
+		</NE>
+	</sent5>
+	
+</news050>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><news002>
+    <docname>news002</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>2019-07-17 20:34:00+00:00</publicationdate>
+    <title>Executado violador e assassino de criança de sete anos no Paquistão.</title>
+    <newstext> 
+	Imran Ali, condenado por violação e assassínio de uma menina de sete anos, num caso que provocou protestos violentos e um debate sobre a segurança dos menores em janeiro, foi executado esta quarta-feira no Paquistão. 
+	Ali, de 24 anos, foi enforcado às 05.30 horas locais (02 horas em Lisboa) na prisão de Lakhpat, na cidade de Lahore capital da província de Punjab, no leste do país, disse o porta-voz da prisão, Faraz Hussain, à agência de notícias espanhola EFE. 
+	O porta-voz declarou que o pai da criança assassinada, Amin Ansari, e três dos seus tios foram testemunhas da execução, juntamente com um magistrado. 
+	Após o enforcamento, Ansari lamentou que Imran Ali não tenha sido executado em público ou que a sua execução não tenha sido emitida pela televisão, em declarações aos meios de comunicação locais em frente à prisão. 
+	"Zainab teria completado sete anos e dois meses hoje", disse o pai da criança assassinada. 
+	O pai do condenado e outros membros da sua família deslocaram-se até a prisão, mas não estavam presentes no momento da execução porque a lei não o permite. 
+	Imran Ali foi preso suas semanas depois de o corpo da criança ter sido encontrado numa lixeira cinco dias após o seu desaparecimento, na cidade de Kasur.
+	Ali foi sentenciado em fevereiro a pena de morte por sequestro, violação, assassínio e terrorismo, e a prisão perpétua por "ato não natural" com uma criança de 7 anos, Zainab Ansari. 
+	Em agosto, foi condenado novamente à pena de morte pelo assassínio e violação de outras três raparigas, depois de confessar que matou oito menores. 
+	A execução de hoje refere-se apenas ao caso da Zainab, que chocou todo o país no início de janeiro. 
+	Zainab Ansari desapareceu quando estava sob os cuidados de um tio, enquanto os seus pais faziam uma peregrinação religiosa à Arábia Saudita. 
+	O aparecimento do corpo, cujo exame determinou que sofreu abuso sexual, desencadeou uma onda de protestos violentos em que duas pessoas morreram, além de manifestações e atos em diferentes partes do país. 
+	O Paquistão registou pelo menos 17.862 casos de abusos sexuais de menores entre 2013 e 2017, sendo 10.620 deles contra raparigas e os restantes 7242 contra rapazes, de acordo com um relatório do Ministério dos Direitos Humanos elaborado em conjunto com a organização não-governamental Sahil.</newstext>
+
+	<Sentences num="13">
+	</Sentences>
+	
+	<sent1 desc ="Imran Ali, condenado por violação e assassínio de uma menina de sete anos, num caso que provocou protestos violentos e um debate sobre a segurança dos menores em janeiro, foi executado esta quarta-feira no Paquistão.">
+		<NE>
+			<Person>Imran Ali</Person>
+			<crimetype>violação</crimetype>
+			<crimetype>assassínio</crimetype>
+			<Numeric>sete anos</Numeric>
+			<Time>janeiro</Time>
+			<Time>quarta-feira</Time>
+			<Place>Paquistão</Place>
+		</NE>
+	</sent1>
+	<sent2 desc ="Ali, de 24 anos, foi enforcado às 05.30 horas locais (02 horas em Lisboa) na prisão de Lakhpat, na cidade de Lahore capital da província de Punjab, no leste do país, disse o porta-voz da prisão, Faraz Hussain, à agência de notícias espanhola EFE.">
+		<NE>
+			<Person>Ali</Person>
+			<Time>05.30</Time>
+			<Numeric>02</Numeric>
+			<Numeric>24 anos</Numeric>
+			<Place>Lisboa</Place>
+			<Place>Lakhpat</Place>
+			<Place>Lahore</Place>
+			<Place>Punjab</Place>
+			<Place>Lisboa</Place>
+			<Person>Faraz Hussain</Person>
+			<Organization>EFE</Organization>
+		</NE>
+	</sent2>
+	<sent3 desc ="O porta-voz declarou que o pai da criança assassinada, Amin Ansari, e três dos seus tios foram testemunhas da execução, juntamente com um magistrado.">
+		<NE>
+			<Person>Amin Ansari</Person>
+			<Numeric>três</Numeric>
+			
+		</NE>
+	</sent3>
+	<sent4 desc ="Após o enforcamento, Ansari lamentou que Imran Ali não tenha sido executado em público ou que a sua execução não tenha sido emitida pela televisão, em declarações aos meios de comunicação locais em frente à prisão.">
+		<NE>
+			<Person>Ansari</Person>
+			<Person>Imran Ali</Person>
+		</NE>
+	</sent4>
+	<sent5 desc ="Zainab teria completado sete anos e dois meses hoje, disse o pai da criança assassinada.">
+		<NE>
+			<Person>Zainab</Person>
+			<Numeric>sete</Numeric>
+			<Numeric>dois</Numeric>
+		</NE>
+	</sent5>
+	<sent6 desc ="O pai do condenado e outros membros da sua família deslocaram-se até a prisão, mas não estavam presentes no momento da execução porque a lei não o permite.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	<sent7 desc ="Imran Ali foi preso suas semanas depois de o corpo da criança ter sido encontrado numa lixeira cinco dias após o seu desaparecimento, na cidade de Kasur.">
+		<NE>
+			<Person>Imran Ali</Person>
+			<Place>Kasur</Place>
+		</NE>
+	</sent7>
+	<sent8 desc ="Ali foi sentenciado em fevereiro a pena de morte por sequestro, violação, assassínio e terrorismo, e a prisão perpétua por 'ato não natural' com uma criança de 7 anos, Zainab Ansari.">
+		<NE>
+			<Person>Ali</Person>
+			<Time>fevereiro</Time>
+			<crimetype>sequestro</crimetype>
+			<crimetype>violação</crimetype>
+			<crimetype>assassínio</crimetype>
+			<crimetype>terrorismo</crimetype>
+			<Numeric>7</Numeric>
+			<Person>Zainab Ansari</Person>
+		</NE>
+	
+	</sent8>
+	<sent9 desc ="Em agosto, foi condenado novamente à pena de morte pelo assassínio e violação de outras três raparigas, depois de confessar que matou oito menores.">
+		<NE>
+			<Time>agosto</Time>
+			<crimetype>assassínio</crimetype>
+			<crimetype>violação</crimetype>
+			<Numeric>três</Numeric>
+			<Numeric>oito</Numeric>
+		</NE>
+	</sent9>
+	<sent10 desc ="A execução de hoje refere-se apenas ao caso da Zainab, que chocou todo o país no início de janeiro.">
+		<NE>
+			<Person>Zainab</Person>
+			<Time>janeiro</Time>
+		</NE>
+	</sent10>
+	<sent11 desc ="Zainab Ansari desapareceu quando estava sob os cuidados de um tio, enquanto os seus pais faziam uma peregrinação religiosa à Arábia Saudita.">
+		<NE>
+			<Person>Zainab Ansari</Person>
+			<Place>Arábia Saudita</Place>
+		</NE>
+	</sent11>
+	<sent12 desc ="O aparecimento do corpo, cujo exame determinou que sofreu abuso sexual, desencadeou uma onda de protestos violentos em que duas pessoas morreram, além de manifestações e atos em diferentes partes do país. ">
+		<NE>
+			<Numeric>duas</Numeric>
+		</NE>
+	</sent12>
+	<sent13 desc ="O Paquistão registou pelo menos 17.862 casos de abusos sexuais de menores entre 2013 e 2017, sendo 10.620 deles contra raparigas e os restantes 7242 contra rapazes, de acordo com um relatório do Ministério dos Direitos Humanos elaborado em conjunto com a organização não-governamental Sahil.">
+		<NE>
+			<Place>Paquistão</Place>
+			<Numeric>17.862</Numeric>
+			<Time>2013</Time>
+			<Time>2017</Time>
+			<Numeric>10.620</Numeric>
+			<Numeric>7242</Numeric>
+			<Organization>Ministério dos Direitos Humanos</Organization>
+		</NE>
+	</sent13>
+	
+	</news002>

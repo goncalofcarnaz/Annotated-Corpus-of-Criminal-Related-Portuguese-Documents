@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr020>
+    <docname>newspgr020</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>24-10-2019</publicationdate>
+    <title>  Detenção. Violência doméstica. DIAP de Cascais/Comarca de Lisboa Oeste.</title>
+    <text>  Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 23-10-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.
+	Segundo os fortes indícios recolhidos, o arguido, viveu com a sua companheira como se de marido e mulher se tratassem durante 5 anos, tendo-se separado em Janeiro de 2019.
+	Em 17 de Setembro de 2019, o arguido foi sujeito a primeiro interrogatório judicial no âmbito dos presentes autos, por estar fortemente indiciado a prática de um crime de violência doméstica e um crime de furto, cometidos pelo arguido contra a vítima, tendo sido sujeito às medidas coativas de proibição de contacto com a vítima, diretamente ou por interposta pessoa, ou por qualquer meio (telefone, eletrónico, etc…),e à proibição de se aproximar da residência da vítima ou de aí permanecer, medidas sujeitas a fiscalização eletrónica. 
+	Em 20 de Setembro de 2019, foi deduzida acusação nos presentes autos.
+	Sucede que, não obstante tal medida de coação, o arguido nos dias 9 e 16 de Outubro de 2019, contactou a vítima, diretamente ou por interposta pessoa e dirigiu-lhe expressões intimidatórias, bem sabendo que desta forma causava temor e inquietação à vítima.
+	A 23 de outubro de 2019, foi o arguido submetido a novo interrogatório judicial tendo ficado sujeito à medida de coação de prisão preventiva e de proibição de contactos com a vítima, por se verificar em concreto o perigo de continuação da atividade criminosa.
+	A investigação prossegue sob a direção do DIAP/Núcleo de Cascais, Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 23-10-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>23-10-2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, viveu com a sua companheira como se de marido e mulher se tratassem durante 5 anos, tendo-se separado em Janeiro de 2019.">
+		<NE>
+			<Numeric>5 anos</Numeric>
+			<Time>Janeiro de 2019</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Em 17 de Setembro de 2019, o arguido foi sujeito a primeiro interrogatório judicial no âmbito dos presentes autos, por estar fortemente indiciado a prática de um crime de violência doméstica e um crime de furto, cometidos pelo arguido contra a vítima, tendo sido sujeito às medidas coativas de proibição de contacto com a vítima, diretamente ou por interposta pessoa, ou por qualquer meio (telefone, eletrónico, etc…),e à proibição de se aproximar da residência da vítima ou de aí permanecer, medidas sujeitas a fiscalização eletrónica. ">
+		<NE>
+			<crimetype>violência doméstica</crimetype>
+			<crimetype>furto</crimetype>
+			<Time>17 de Setembro de 2019</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Em 20 de Setembro de 2019, foi deduzida acusação nos presentes autos.">
+		<NE>
+			<Time>20 de Setembro de 2019</Time>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Sucede que, não obstante tal medida de coação, o arguido nos dias 9 e 16 de Outubro de 2019, contactou a vítima, diretamente ou por interposta pessoa e dirigiu-lhe expressões intimidatórias, bem sabendo que desta forma causava temor e inquietação à vítima.">
+		<NE>
+			<Time>9 e 16 de Outubro de 2019</Time>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A 23 de outubro de 2019, foi o arguido submetido a novo interrogatório judicial tendo ficado sujeito à medida de coação de prisão preventiva e de proibição de contactos com a vítima, por se verificar em concreto o perigo de continuação da atividade criminosa.">
+		<NE>
+			<Time>23 de outubro de 2019</Time>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A investigação prossegue sob a direção do DIAP/Núcleo de Cascais, Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>DIAP/Núcleo de Cascais</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent7>
+	
+</newspgr020>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><news064>
+    <docname>news064</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>28 Agosto 2018</publicationdate>
+    <title>Portuguesa condenada a 13 anos de prisão por tentar matar marido na Suíça.</title>
+    <newstext>Telma Garcia, 31 anos, chegou a estar na lista dos criminosos mais procurados pela Interpol, mas foi finalmente capturada e condenada a pena de prisão pelo crime de tentativa de homicídio, na passada sexta-feira, na Suíça. 
+	A homicida, natural de Abrantes, em Santarém, vivia com o marido, de nacionalidade belga, em Rossens, no cantão de Friburgo, na Suíça. 
+	Em abril de 2014, tentou matá-lo com ajuda do amante, de nacionalidade brasileira. 
+	Apontou-lhe uma arma de fogo e obrigou-o a beber uma mistura de veneno para ratos com um pesticida. 
+	Para tentar simular o suicídio, ainda lhe cortou um dos pulsos, mas a vítima acabaria por recuperar os sentidos e sair de casa até ser vista por um vizinho que chamou os serviços de emergência. 
+	Segundo a imprensa suíça, Telma Garcia conseguiu fugir para o Brasil, onde acabou por ser localizada e capturada pelas autoridades, nesse mesmo ano, no Rio de Janeiro. 
+	Em tribunal, a portuguesa não mostrou sinais de arrependimento. 
+	O juiz sublinhou, em particular, a sua frieza, e concluiu que cometeu o crime movida por ódio e vingança. 
+	Foi condenada a 13 anos de prisão por um tribunal suíço.
+	</newstext>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Telma Garcia, 31 anos, chegou a estar na lista dos criminosos mais procurados pela Interpol, mas foi finalmente capturada e condenada a pena de prisão pelo crime de tentativa de homicídio, na passada sexta-feira, na Suíça.">
+		<NE>
+			<Person>Telma Garcia</Person>
+			<Numeric>31</Numeric>
+			<Organization>Interpol</Organization>
+			<Time>sexta-feira</Time>
+			<Place>Suíça</Place>
+		</NE>
+	</sent1>
+		
+	<sent2 desc="A homicida, natural de Abrantes, em Santarém, vivia com o marido, de nacionalidade belga, em Rossens, no cantão de Friburgo, na Suíça. ">
+		<NE>
+			<Place>Abrantes</Place>
+			<Place>Santarém</Place>
+			<Place>Rossens</Place>
+			<Place>Friburgo</Place>
+			<Place>Suiça</Place>
+			
+		</NE>
+	</sent2>
+
+	<sent3 desc="Em abril de 2014, tentou matá-lo com ajuda do amante, de nacionalidade brasileira. ">
+		<NE>
+			<Time>abril de 2014</Time>
+		</NE>
+	</sent3>	
+	
+	<sent4 desc="Apontou-lhe uma arma de fogo e obrigou-o a beber uma mistura de veneno para ratos com um pesticida.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Para tentar simular o suicídio, ainda lhe cortou um dos pulsos, mas a vítima acabaria por recuperar os sentidos e sair de casa até ser vista por um vizinho que chamou os serviços de emergência. ">
+		<NE>
+		
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Segundo a imprensa suíça, Telma Garcia conseguiu fugir para o Brasil, onde acabou por ser localizada e capturada pelas autoridades, nesse mesmo ano, no Rio de Janeiro. ">
+		<NE>
+			<Person> Telma Garcia</Person>
+			<Place>Brasil</Place>
+			<Place>Rio de Janeiro</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Em tribunal, a portuguesa não mostrou sinais de arrependimento. ">
+		<NE>
+			<Organization>tribunal</Organization>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="juiz sublinhou, em particular, a sua frieza, e concluiu que cometeu o crime movida por ódio e vingança. ">
+		<NE>
+		
+		</NE>
+	</sent8>
+		
+	<sent9 desc="Foi condenada a 13 anos de prisão por um tribunal suíço.">
+		<NE>
+			<Numeric>13</Numeric>
+			<Organization>tribunal</Organization>
+		</NE>
+	</sent9>
+	
+</news064>

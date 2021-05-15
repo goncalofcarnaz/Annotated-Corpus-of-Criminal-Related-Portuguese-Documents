@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr068>
+    <docname>newspgr068</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>19-07-2019</publicationdate>
+    <title>Acusação. Burla qualificada. Falsificação. DIAP de Lisboa/Sede.</title>
+    <text>O MP requereu o julgamento, em tribunal coletivo, contra 2 arguidos, pela prática de crimes de burla qualificada e de falsificação de documento.
+No essencial está indiciado que, durante o ano de 2017, os arguidos, engendraram um plano, tendo em vista ludibriar os cidadãos estrangeiros que se encontravam em situação irregular em território nacional e pretendiam efetuar um pedido de concessão/renovação de titulo de residência ao abrigo da lei de estrangeiros, aproveitando o facto de tal pedido demorar vários meses face aos milhares de requerimentos efetuados e à necessidade de análise das manifestações de interesse efetuadas. 
+Assim, um dos arguidos fez-se passar por advogado e o outro por inspetor do SEF, criando a aparência e a credibilidade das suas atividades e ludibriando os cidadãos estrangeiros que os procuravam, dizendo que lhe tratariam do processo junto do SEF, obtendo dessa forma benefício patrimonial ilegítimo e, assim, causando prejuízo aos ofendidos.
+Os arguidos encontram-se sujeitos à medida de coação de TIR.
+O inquérito foi dirigido pelo MP na 5ª secção do DIAP de Lisboa/sede, com a coadjuvação do SEF.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="O MP requereu o julgamento, em tribunal coletivo, contra 2 arguidos, pela prática de crimes de burla qualificada e de falsificação de documento.">
+		<NE>
+			<Organization>MP</Organization>
+			<Numeric>2</Numeric>
+			<crimetype>burla qualificada</crimetype>
+			<crimetype>falsificação de documento</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="No essencial está indiciado que, durante o ano de 2017, os arguidos, engendraram um plano, tendo em vista ludibriar os cidadãos estrangeiros que se encontravam em situação irregular em território nacional e pretendiam efetuar um pedido de concessão/renovação de titulo de residência ao abrigo da lei de estrangeiros, aproveitando o facto de tal pedido demorar vários meses face aos milhares de requerimentos efetuados e à necessidade de análise das manifestações de interesse efetuadas. ">
+		<NE>
+			<Time>2017</Time>
+		</NE>
+	</sent2>
+
+	<sent3 desc="Assim, um dos arguidos fez-se passar por advogado e o outro por inspetor do SEF, criando a aparência e a credibilidade das suas atividades e ludibriando os cidadãos estrangeiros que os procuravam, dizendo que lhe tratariam do processo junto do SEF, obtendo dessa forma benefício patrimonial ilegítimo e, assim, causando prejuízo aos ofendidos.">
+		<NE>
+			<Organization>SEF</Organization>
+		</NE>
+	</sent3>
+
+	<sent4 desc="Os arguidos encontram-se sujeitos à medida de coação de TIR.">
+		<NE>
+			<Organization>TIR</Organization>
+		</NE>
+	</sent4>
+
+	<sent5 desc="O inquérito foi dirigido pelo MP na 5ª secção do DIAP de Lisboa/sede, com a coadjuvação do SEF.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>DIAP de Lisboa/sede</Organization>
+			<Organization>SEF</Organization>
+		</NE>
+	</sent5>
+
+
+
+
+</newspgr068>

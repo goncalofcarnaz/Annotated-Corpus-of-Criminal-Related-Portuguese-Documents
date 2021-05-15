@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><news036>
+    <docname>news036</docname>
+    <authors>Diario de Leiria</authors>
+    <publicationdate>09 Fevereiro 2019</publicationdate>
+    <title>Detido homem que tentou matar a mulher a tiro.</title>
+    <newstext>O casamento já tinha acabado, mas mesmo divorciado, o casal vivia em tensão. 
+	A ponto de ele disparar sobre ela, atingindo-a na cabeça. 
+	Suspeito do crime de homicídio, na forma tentada, e também de detenção de arma de fogo, foi detido pela Polícia Judiciária ((PJ) e está, por ordem do Tribunal de Viseu, em prisão preventiva a aguardar julgamento. 
+	O crime aconteceu, como oportunamente noticiámos, em Nelas, na passada quarta-feira.
+	De acordo com fonte da Directoria do Centro da Polícia Judiciária, o suspeito, de 39 anos, trabalhador da construção civil, nunca se terá conformado com o fim da relação, consagrada com o divórcio, no ano passado, mas há muito considerada “sem futuro”. 
+	Tanto assim é que terá mesmo, em 2016, saído do país, estando emigrado durante algum tempo. 
+	Todavia, apesar da tensão existente, o casal continua a manter alguma relação, particularmente tendo em conta a existência de duas filhas menores, de 14 e 16 anos, e as visitas que o pai legalmente lhes fazia.
+</newstext>
+
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="O casamento já tinha acabado, mas mesmo divorciado, o casal vivia em tensão. ">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A ponto de ele disparar sobre ela, atingindo-a na cabeça. ">
+		<NE>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Suspeito do crime de homicídio, na forma tentada, e também de detenção de arma de fogo, foi detido pela Polícia Judiciária (PJ) e está, por ordem do Tribunal de Viseu, em prisão preventiva a aguardar julgamento.">
+		<NE>
+			<crimetype>homicídio</crimetype>
+			<crimetype>detenção de arma de fogo</crimetype>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>PJ</Organization>
+			<Organization>Tribunal de Viseu</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O crime aconteceu, como oportunamente noticiámos, em Nelas, na passada quarta-feira.">
+		<NE>
+			<Place>Nelas</Place>
+			<Time>quarta-feira</Time>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="De acordo com fonte da Directoria do Centro da Polícia Judiciária, o suspeito, de 39 anos, trabalhador da construção civil, nunca se terá conformado com o fim da relação, consagrada com o divórcio, no ano passado, mas há muito considerada “sem futuro”.">
+		<NE>
+			<Organization>Directoria do Centro da Polícia Judiciária</Organization>
+			<Numeric>39</Numeric>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Tanto assim é que terá mesmo, em 2016, saído do país, estando emigrado durante algum tempo. ">
+		<NE>
+			<Time>2016</Time>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Todavia, apesar da tensão existente, o casal continua a manter alguma relação, particularmente tendo em conta a existência de duas filhas menores, de 14 e 16 anos, e as visitas que o pai legalmente lhes fazia.">
+		<NE>
+			<Numeric>14</Numeric>
+			<Numeric>16</Numeric>
+		</NE>
+	</sent7>
+	
+</news036>

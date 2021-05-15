@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr001>
+    <docname>newspgr001</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>13-11-2019</publicationdate>
+    <title> Detenção. Associação de auxílio à imigração ilegal. Auxílio à imigração ilegal. Casamento ou união de conveniência. Extorsão. Ameaça agravada. Coação agravada. Sequestro. Falsificação. Prisão Preventiva. DIAP de Sintra/Comarca de Lisboa Oeste..</title>
+    <text>Informa-se ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, que foram detidos, a 08-11-2019 e posteriormente presentes ao JIC para primeiro interrogatório judicial, três arguidos que ficaram fortemente indiciados pela prática de crimes de associação de auxílio à imigração ilegal, de auxílio à imigração ilegal, de casamento ou união de conveniência, de extorsão, de ameaça agravada, de coação agravada, de sequestro e de falsificação.
+	Os arguidos são oriundos de Portugal e do Bangladesh. 
+	Segundo os fortes indícios recolhidos, a arguida, em data não concretamente apurada, mas anterior a 2014, criou uma associação com o objetivo de favorecer, a troco de dinheiro, a entrada de cidadãos nacionais de países fora do Espaço Schengen em território nacional, que sabia que não podiam legitimamente residir, permanecer e trabalhar no nosso país, agindo com o propósito e consciência de facilitar que tais cidadãos obtivessem autorização para permanecer no nosso país, através da celebração de casamentos com portuguesas que angariava propositadamente para o efeito.
+	Na concretização do plano, dois dos arguidos, oriundos do Bangladesh, aderiram ao grupo, com vista a celebrarem casamento e beneficiarem do mesmo para regularizarem a sua situação em território de um qualquer país do Espaço Schengen, solicitando, para o efeito à arguida que lhes arranjassem duas jovens portuguesas com quem pudessem casar, como forma de regularizar a sua permanência em território nacional.
+	Assim, em dezembro de 2014, a arguida apresentou uma proposta a dois indivíduos do sexo feminino que viviam em Portugal com dificuldades económicas, propondo-lhes que se deslocassem à Irlanda e aí casassem com uma pessoa estrangeira e ilegal em território europeu, recebendo em troca a quantia de € 5.000,00. 
+	Tais indivíduos do sexo feminino, viajaram algumas vezes até à Irlanda e, em 2015, casaram-se com os arguidos, recebendo, ambas em troca, cerca de €1.500,00.
+	As vezes que foram à Irlanda, as duas ofendidas, pernoitaram em casa dos arguidos, os quais, à noite, lhes fechavam a porta do quarto à chave, para que elas não fugissem e, durante o dia, quando não havia necessidade de se deslocarem a nenhum serviço para tratarem de documentos, fechavam a porta da residência à chave, ficando trancadas em casa contra a sua vontade.
+	Após os casamentos, por diversas vezes e com propósito de enriquecer o seu património à custa das ofendidas, os arguidos, dirigiram expressões ameaçadoras, compelindo-as, por medo, a entregar-lhes dinheiro, por ter receio pela sua vida e dos seus familiares.
+	No primeiro interrogatório foi aplicada aos arguidos a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de continuação da actividade criminosa e perigo de fuga.
+	O processo encontra-se em segredo de justiça. 
+A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sintra, com a coadjuvação da PJ.</text>
+
+
+<Sentences num="11">
+
+</Sentences>
+
+
+<sent1 desc="Informa-se ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, que foram detidos, a 08-11-2019 e posteriormente presentes ao JIC para primeiro interrogatório judicial, três arguidos que ficaram fortemente indiciados pela prática de crimes de associação de auxílio à imigração ilegal, de auxílio à imigração ilegal, de casamento ou união de conveniência, de extorsão, de ameaça agravada, de coação agravada, de sequestro e de falsificação.">
+	<NE>
+		<Time>08-11-2019</Time>
+		<Organization>JIC</Organization>
+		<crimetype>associação de auxílio à imigração ilegal</crimetype>
+		<crimetype>casamento ou união de conveniência</crimetype>
+		<crimetype>ameaça agravada</crimetype>
+		<crimetype>extorsão</crimetype>
+		<crimetype>coação agravada</crimetype>
+		<crimetype>sequestro</crimetype>
+		<crimetype>falsificação</crimetype>
+	</NE>
+	
+</sent1>
+
+<sent2 desc="Os arguidos são oriundos de Portugal e do Bangladesh.">
+	<NE>
+		<Place>Portugal</Place>
+		<Place>Bangladesh</Place>
+	</NE>
+</sent2>
+
+<sent3 desc="Segundo os fortes indícios recolhidos, a arguida, em data não concretamente apurada, mas anterior a 2014, criou uma associação com o objetivo de favorecer, a troco de dinheiro, a entrada de cidadãos nacionais de países fora do Espaço Schengen em território nacional, que sabia que não podiam legitimamente residir, permanecer e trabalhar no nosso país, agindo com o propósito e consciência de facilitar que tais cidadãos obtivessem autorização para permanecer no nosso país, através da celebração de casamentos com portuguesas que angariava propositadamente para o efeito.">
+	<NE>
+		<Time>2014</Time>
+	</NE>
+</sent3>
+
+<sent4 desc="Na concretização do plano, dois dos arguidos, oriundos do Bangladesh, aderiram ao grupo, com vista a celebrarem casamento e beneficiarem do mesmo para regularizarem a sua situação em território de um qualquer país do Espaço Schengen, solicitando, para o efeito à arguida que lhes arranjassem duas jovens portuguesas com quem pudessem casar, como forma de regularizar a sua permanência em território nacional.">
+	<NE>
+		<Place>Bangladesh</Place>
+	</NE>
+</sent4>
+
+<sent5 desc="Assim, em dezembro de 2014, a arguida apresentou uma proposta a dois indivíduos do sexo feminino que viviam em Portugal com dificuldades económicas, propondo-lhes que se deslocassem à Irlanda e aí casassem com uma pessoa estrangeira e ilegal em território europeu, recebendo em troca a quantia de € 5.000,00.">
+	<NE>
+		<Time>dezembro de 2014</Time>
+		<Place>Portugal</Place>
+		<Place>Irlanda</Place>
+		<Numeric>€ 5.000,00</Numeric>
+	</NE>
+</sent5>
+
+<sent6 desc="Tais indivíduos do sexo feminino, viajaram algumas vezes até à Irlanda e, em 2015, casaram-se com os arguidos, recebendo, ambas em troca, cerca de €1.500,00.">
+	<NE>
+		<Place>Irlanda</Place>
+		<Time>2015</Time>
+		<Numeric>€1.500,00</Numeric>
+	</NE>
+</sent6>
+
+<sent7 desc="As vezes que foram à Irlanda, as duas ofendidas, pernoitaram em casa dos arguidos, os quais, à noite, lhes fechavam a porta do quarto à chave, para que elas não fugissem e, durante o dia, quando não havia necessidade de se deslocarem a nenhum serviço para tratarem de documentos, fechavam a porta da residência à chave, ficando trancadas em casa contra a sua vontade.">
+	<NE>
+		<Place>Irlanda</Place>
+		
+	</NE>
+</sent7>
+
+<sent8 desc="Após os casamentos, por diversas vezes e com propósito de enriquecer o seu património à custa das ofendidas, os arguidos, dirigiram expressões ameaçadoras, compelindo-as, por medo, a entregar-lhes dinheiro, por ter receio pela sua vida e dos seus familiares">
+	<NE>
+	</NE>
+</sent8>
+
+<sent9 desc="No primeiro interrogatório foi aplicada aos arguidos a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de continuação da actividade criminosa e perigo de fuga.">
+	<NE>
+	</NE>
+</sent9>
+
+<sent10 desc="O processo encontra-se em segredo de justiça. ">
+	<NE>
+	</NE>
+</sent10>
+
+<sent11 desc="A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sintra, com a coadjuvação da PJ. ">
+	<NE>
+		<Organization>MP</Organization>
+		<Organization>4ª secção do DIAP de Sintra</Organization>
+		<Place>Sintra</Place>
+		<Organization>PJ</Organization>
+	</NE>
+</sent11>
+
+</newspgr001>

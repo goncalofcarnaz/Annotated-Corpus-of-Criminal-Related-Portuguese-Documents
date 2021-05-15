@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr030>
+    <docname>newspgr030</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>14-10-2019</publicationdate>
+    <title> Detenção. Tráfico de estupefacientes. Prisão preventiva. DIAP de Almada/Comarca de Lisboa</title>
+    <text>   Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público que foram detidos e presentes ao Juiz de Instrução Criminal para primeiro interrogatório judicial, dois arguidos, fortemente indiciados pela prática de um crime de tráfico de estupefacientes.
+		Os arguidos são suspeitos de se dedicarem desde data não concretamente apurada, mas anterior a 18.06.2019, à atividade de venda de substâncias estupefacientes na zona do Monte da Caparica, Trafaria e Almada e, de no âmbito dessa atividade, terem acordado entre si na realização, por um deles, de uma viagem ao Brasil, com o objetivo de adquirir e transportar para Portugal cocaína em estado puro (pasta base), a qual após, já em território nacional seria devidamente preparada com outros produtos associados (redrate, neo-sineferina, cafeína e outros), por forma a fazer aumentar exponencialmente a sua quantidade, que após seria dividida e destinada à venda, em doses individuais (quartas) aos consumidores que os procurassem para o efeito.
+		Na prossecução desses intentos, tal viagem veio a realizar-se no final do mês de Setembro de 2019, conseguindo um dos detidos, na execução do plano gizado, adquirir cocaína em estado puro (pasta base), com o peso aproximado de três quilogramas, a qual, após a futura divisão nos moldes acordados ascenderia a quantidade de produto estupefaciente correspondente a mais do que um milhão de euros. 
+		Fê-la transportar até território nacional em mala com fundo falso e de forma oculta, vindo a ser intercetado, após ter transposto as portas do Aeroporto em Lisboa e, por isso, detido no passado dia 8 de Outubro de 2019.
+		Para além disso, os arguidos tinham nas suas residências produto estupefaciente devidamente divido e acondicionado e destinado a ser vendido a quem o solicitasse, além de bens, objetos e substâncias destinados a preparar a substância estupefaciente para a venda, e quantias monetárias avultadas.
+		Aos arguidos foi aplicada a medida de coação de prisão preventiva.
+		O processo encontra-se em segredo de justiça.
+		A investigação prossegue sob direção do Ministério Público de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da GNR- Destacamento da Charneca da Caparica (NIC).
+		</text>
+		
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc=" Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público que foram detidos e presentes ao Juiz de Instrução Criminal para primeiro interrogatório judicial, dois arguidos, fortemente indiciados pela prática de um crime de tráfico de estupefacientes.">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+			<Organization>tráfico de estupefacientes</Organization>
+		</NE>
+	</sent1>	
+		
+	<sent2 desc="Os arguidos são suspeitos de se dedicarem desde data não concretamente apurada, mas anterior a 18.06.2019, à atividade de venda de substâncias estupefacientes na zona do Monte da Caparica, Trafaria e Almada e, de no âmbito dessa atividade, terem acordado entre si na realização, por um deles, de uma viagem ao Brasil, com o objetivo de adquirir e transportar para Portugal cocaína em estado puro (pasta base), a qual após, já em território nacional seria devidamente preparada com outros produtos associados (redrate, neo-sineferina, cafeína e outros), por forma a fazer aumentar exponencialmente a sua quantidade, que após seria dividida e destinada à venda, em doses individuais (quartas) aos consumidores que os procurassem para o efeito.">
+		<NE>
+			<Time>18.06.2019</Time>
+			<Place>Monte da Caparica</Place>
+			<Place>Trafaria</Place>
+			<Place>Almada</Place>
+			<Place>Brasil</Place>
+			<Place>Portugal</Place>
+			<narcotics>cocaína</narcotics>
+		</NE>
+	</sent2>	
+	
+	<sent3 desc="Na prossecução desses intentos, tal viagem veio a realizar-se no final do mês de Setembro de 2019, conseguindo um dos detidos, na execução do plano gizado, adquirir cocaína em estado puro (pasta base), com o peso aproximado de três quilogramas, a qual, após a futura divisão nos moldes acordados ascenderia a quantidade de produto estupefaciente correspondente a mais do que um milhão de euros.">
+		<NE>
+			<Time>Setembro de 2019</Time>
+			
+		</NE>
+	</sent3>	
+	
+	<sent4 desc="Fê-la transportar até território nacional em mala com fundo falso e de forma oculta, vindo a ser intercetado, após ter transposto as portas do Aeroporto em Lisboa e, por isso, detido no passado dia 8 de Outubro de 2019.">
+		<NE>
+			<Time> 8 de Outubro de 2019</Time>
+		</NE>
+	</sent4>	
+	
+	<sent5 desc="Para além disso, os arguidos tinham nas suas residências produto estupefaciente devidamente divido e acondicionado e destinado a ser vendido a quem o solicitasse, além de bens, objetos e substâncias destinados a preparar a substância estupefaciente para a venda, e quantias monetárias avultadas.">
+		<NE>
+			
+		</NE>
+	</sent5>	
+	
+	<sent6 desc="Aos arguidos foi aplicada a medida de coação de prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent6>	
+	
+	<sent7 desc="O processo encontra-se em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent7>	
+	
+	
+	<sent8 desc="A investigação prossegue sob direção do Ministério Público de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da GNR- Destacamento da Charneca da Caparica (NIC).">
+		<NE>
+			<Organization>Ministério Público de Almada </Organization>
+			<Organization> DIAP da Comarca de Lisboa</Organization>
+			<Organization>GNR- Destacamento da Charneca da Caparica (NIC)</Organization>
+		</NE>
+	</sent8>
+	
+</newspgr030>

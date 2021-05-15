@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr006>
+    <docname>newspgr006</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>04-11-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text> Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público o seguinte:
+	Foi detido e apresentado ao JIC para primeiro interrogatório judicial, um arguido, que ficou fortemente indiciado pela prática de um crime de homicídio qualificado.
+	No essencial, e segundo os fortes indícios recolhidos, no dia 27 de agosto de 2019, na Quinta da Princesa – Cruz de Pau, o arguido, empunhado uma arma de fogo municiada, efetuou um disparo na direção do ofendido, atingindo-o na região tempero-parietal esquerda. 
+	Como consequência direta e necessária da conduta do arguido, resultaram para o ofendido lesões crânio-encefálicas que lhe determinaram a morte.
+	Após o disparo o arguido abandonou o local. 
+	Foi emitido um Mandado de Detenção Europeu tendo o arguido sido detido na Holanda. 
+	Ao arguido foi aplicada a medida de coação de prisão preventiva. 
+	O processo encontra-se em segredo de justiça.
+	A investigação prossegue sob a direção do DIAP do Seixal da Comarca de Lisboa. O MP teve a colaboração da PJ de Setúbal.</text>
+
+<Sentences num="10">
+</Sentences>
+
+<sent1 desc="Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.">
+	<NE>
+		<Numeric>86.º</Numeric>
+		<Numeric>n.º 13</Numeric>
+		<Orqanization>Procuradoria-Geral Distrital de Lisboa</Orqanization>
+	</NE>
+</sent1>
+
+<sent2 desc="Foi detido e apresentado ao JIC para primeiro interrogatório judicial, um arguido, que ficou fortemente indiciado pela prática de um crime de homicídio qualificado..">
+	<NE>
+		<Orqanization>JIC</Orqanization>
+		<crimetype> homicídio qualificado</crimetype>
+	</NE>
+</sent2>
+
+<sent3 desc="No essencial, e segundo os fortes indícios recolhidos, no dia 27 de agosto de 2019, na Quinta da Princesa – Cruz de Pau, o arguido, empunhado uma arma de fogo municiada, efetuou um disparo na direção do ofendido, atingindo-o na região tempero-parietal esquerda..">
+	<NE>
+
+		<Time>27 de agosto de 2019</Time>
+		<Place> Quinta da Princesa</Place>
+		<Place> Cruz de Pau</Place>
+		
+	</NE>
+</sent3>
+
+<sent4 desc="Como consequência direta e necessária da conduta do arguido, resultaram para o ofendido lesões crânio-encefálicas que lhe determinaram a morte..">
+	<NE>
+		
+	</NE>
+</sent4>
+
+<sent5 desc="Após o disparo o arguido abandonou o local.">
+	<NE>
+		
+	</NE>
+</sent5>
+
+<sent6 desc="Foi emitido um Mandado de Detenção Europeu tendo o arguido sido detido na Holanda. .">
+	<NE>
+		<Place>Holanda</Place>
+	
+	</NE>
+</sent6>
+
+<sent7 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva..">
+	<NE>
+	
+	</NE>
+</sent7>
+
+<sent8 desc="O processo encontra-se em segredo de justiça.">
+	<NE>
+		
+	</NE>
+</sent8>
+
+<sent9 desc="A investigação prossegue sob a direção do DIAP do Seixal da Comarca de Lisboa.">
+	<NE>
+		<Orqanization>DIAP do Seixal da Comarca de Lisboa</Orqanization>
+		
+	</NE>
+</sent9>
+
+<sent10 desc="A investigação prossegue sob a direção do DIAP do Seixal da Comarca de Lisboa.">
+	<NE>
+		<Orqanization>DIAP do Seixal da Comarca de Lisboa</Orqanization>
+		
+	</NE>
+</sent10>
+
+</newspgr006>

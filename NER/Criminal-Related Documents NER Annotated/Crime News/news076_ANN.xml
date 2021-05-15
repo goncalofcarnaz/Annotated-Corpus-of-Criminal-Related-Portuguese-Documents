@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><news100>
+    <docname>news100</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>19 Abril 2018</publicationdate>
+    <title>Homem baleado durante assalto em Felgueiras está livre de perigo.</title>
+    <newstext>O dono de uma ourivesaria de Felgueiras foi, esta quinta-feira de manhã, baleado numa perna durante um assalto. 
+	Foi transportado para o hospital e está fora de perigo.
+	
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="O dono de uma ourivesaria de Felgueiras foi, esta quinta-feira de manhã, baleado numa perna durante um assalto.">
+		<NE>	
+			<Place>Felgueiras</Place>
+			<Time>quinta-feira</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi transportado para o hospital e está fora de perigo.">
+		<NE>	
+			<Place>hospital</Place>
+		</NE>
+	</sent2>
+	
+</news100>

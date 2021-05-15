@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><news042>
+    <docname>news042</docname>
+    <authors>cmjornal</authors>
+    <publicationdate>18 Outubro 2018</publicationdate>
+    <title>Grupo violento assaltou pelo menos 30 casas de idosos no Grande Porto.</title>
+    <newstext>Pelo menos 30 assaltos violentos, que terão rendido meio milhão de euros em dinheiro e bens, foram consumados em residências de idosos do Grande Porto por um grupo desmantelado pela PSP. 
+	"Os roubos terão começado em fevereiro e indiciámos já este grupo pela prática de pelo menos 30 assaltos, mas admitimos que possam ser mais. 
+	E o valor global dos roubos será de uns 500 mil euros, entre dinheiro e bens", afirmou à agência Lusa o comissário Afonso Sousa, da Divisão de Investigação Criminal da PSP. 
+	Os roubos ocorreram na zona mais oriental do Porto e em concelhos periféricos, como Gondomar, Valongo ou Maia, sendo imputados pela polícia a três pessoas, dois irmãos gémeos, de 35 anos, e um sobrinho destes, com 25 anos, que foram detidos em flagrante delito durante uma ação desenvolvida na terça-feira pela Divisão de Investigação Criminal da PSP, em Baguim do Monte, concelho de Gondomar, distrito do Porto. 
+	Os alvos do grupo eram pessoas com idades entre 65 e 95 anos, segundo a fonte. 
+	Atuavam sempre com grande violência.
+	Às vezes agrediam as vítimas, ao ponto de algumas necessitarem de hospitalização, outras vezes punham sacos na cabeça dos assaltados, outras ainda intimidavam as pessoas com armas de fogo", disse o comissário. 
+	Um dos irmãos foi condenado há uma década a nove anos de prisão por roubos agravados, que não chegou a cumprir, pelo que tinha pendente um mandado de detenção europeu, que "acaba por ser cumprido nesta operação". 
+	O sobrinho foi condenado na passada semana a cinco anos de prisão, com pena suspensa, por roubos agravados. 
+	Fora de flagrante delito, foram ainda detidos um homem de 64 anos (que receberia o ouro e prata roubados e que derretia estes metais nobres no forno apreendido pela polícia) e uma mulher de 22 anos, que prestaria algum tipo de apoio aos operacionais, nomeadamente no fornecimento de ferramentas. 
+	A investigação do caso, afirmou o comissário Afonso Sousa, "foi muito difícil". 
+	"Começámos em fevereiro e só agora é que conseguimos fazer a operação. 
+	Neste tipo de roubos, procurámos de imediato cessá-los porque causam muito alarme social, mas neste caso foi difícil. 
+	Cometiam os roubos, de cara tapada e luvas, e foi muito difícil para as pessoas darem-nos uma pista", disse. 
+	Na operação foram apreendidos 32 mil euros em dinheiro, milhares de artigos em ouro e prata e um forno para os derreter, reagentes para testar metal e diamantes, três armas de fogo, munições, gorros, luvas, mochilas, balanças digitais, 250 maços de tabaco contrafeitos e telemóveis. 
+	Esta manhã, em comunicado, o Comando Metropolitano da PSP do Porto tinha anunciado a detenção de cinco pessoas que de forma organizava se dedicavam à prática dos crimes de roubo e furto qualificado em residências, sendo as vítimas maioritariamente idosos no Grande Porto, referindo que, no âmbito desta operação de "grande envergadura", tinham sido apreendidas "milhares de peças em ouro e prata".
+	</newstext>
+
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Pelo menos 30 assaltos violentos, que terão rendido meio milhão de euros em dinheiro e bens, foram consumados em residências de idosos do Grande Porto por um grupo desmantelado pela PSP.">
+		<NE>
+			<Numeric>30</Numeric>
+			<Place>Grande Porto</Place>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="'Os roubos terão começado em fevereiro e indiciámos já este grupo pela prática de pelo menos 30 assaltos, mas admitimos que possam ser mais'.">
+		<NE>
+			<Numeric>30</Numeric>
+			<crimetype>roubo</crimetype>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="'E o valor global dos roubos será de uns 500 mil euros, entre dinheiro e bens', afirmou à Agência Lusa o comissário Afonso Sousa, da Divisão de Investigação Criminal da PSP.">
+		<NE>
+			<Organization>Agência Lusa</Organization>
+			<Person>Afonso Sousa</Person>
+			<Organization>Divisão de Investigação Criminal da PSP</Organization>
+			<Numeric>500</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Os roubos ocorreram na zona mais oriental do Porto e em concelhos periféricos, como Gondomar, Valongo ou Maia, sendo imputados pela polícia a três pessoas, dois irmãos gémeos, de 35 anos, e um sobrinho destes, com 25 anos, que foram detidos em flagrante delito durante uma ação desenvolvida na terça-feira pela Divisão de Investigação Criminal da PSP, em Baguim do Monte, concelho de Gondomar, distrito do Porto.">
+		<NE>
+			<Place>Porto</Place>
+			<Place>Gondomar</Place>
+			<Place>Valongo</Place>
+			<Place>Maia</Place>
+			<Organization>polícia</Organization>
+			<Numeric>35</Numeric>
+			<Numeric>25</Numeric>
+			<Time>terça-feira</Time>
+			<Organization>Divisão de Investigação Criminal da PSP</Organization>
+			<Place>Baguim do Monte</Place>
+			<Place>Porto</Place>
+			<Place>Valongo</Place>
+			<crimetype>roubo</crimetype>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Os alvos do grupo eram pessoas com idades entre 65 e 95 anos, segundo a fonte. ">
+		<NE>
+			<Numeric>65</Numeric>
+			<Numeric>95</Numeric>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Atuavam sempre com grande violência.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="'Às vezes agrediam as vítimas, ao ponto de algumas necessitarem de hospitalização, outras vezes punham sacos na cabeça dos assaltados, outras ainda intimidavam as pessoas com armas de fogo', disse o comissário.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Um dos irmãos foi condenado há uma década a nove anos de prisão por roubos agravados, que não chegou a cumprir, pelo que tinha pendente um mandado de detenção europeu, que 'acaba por ser cumprido nesta operação'.">
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O sobrinho foi condenado na passada semana a cinco anos de prisão, com pena suspensa, por roubos agravados. ">
+		<NE>
+			<crimetype>roubos agravados</crimetype>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="Fora de flagrante delito, foram ainda detidos um homem de 64 anos (que receberia o ouro e prata roubados e que derretia estes metais nobres no forno apreendido pela polícia) e uma mulher de 22 anos, que prestaria algum tipo de apoio aos operacionais, nomeadamente no fornecimento de ferramentas.">
+		<NE>
+			<Numeric>64</Numeric>
+			<Numeric>22</Numeric>
+		</NE>
+	</sent10>
+	
+	<sent11 desc="A investigação do caso, afirmou o comissário Afonso Sousa, 'foi muito difícil'.">
+		<NE>
+			<Person>Afonso Sousa</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="'Começámos em fevereiro e só agora é que conseguimos fazer a operação.'. ">
+		<NE>
+			<Time>fevereiro</Time>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="Neste tipo de roubos, procurámos de imediato cessá-los porque causam muito alarme social, mas neste caso foi difícil. ">
+		<NE>
+			
+		</NE>
+	</sent13>
+	
+	<sent14 desc="Cometiam os roubos, de cara tapada e luvas, e foi muito difícil para as pessoas darem-nos uma pista', disse. ">
+		<NE>
+			
+		</NE>
+	</sent14>
+
+	<sent15 desc="Na operação foram apreendidos 32 mil euros em dinheiro, milhares de artigos em ouro e prata e um forno para os derreter, reagentes para testar metal e diamantes, três armas de fogo, munições, gorros, luvas, mochilas, balanças digitais, 250 maços de tabaco contrafeitos e telemóveis.">
+		<NE>
+			<Numeric>250</Numeric>
+		</NE>
+	</sent15>
+	
+	<sent16 desc="Esta manhã, em comunicado, o Comando Metropolitano da PSP do Porto tinha anunciado a detenção de cinco pessoas que de forma organizava se dedicavam à prática dos crimes de roubo e furto qualificado em residências, sendo as vítimas maioritariamente idosos no Grande Porto, referindo que, no âmbito desta operação de 'grande envergadura', tinham sido apreendidas 'milhares de peças em ouro e prata'.">
+		<NE>
+			<Organization>Comando Metropolitano da PSP do Porto</Organization>
+			<Place>Grande Porto</Place>
+			<crimetype>roubo</crimetype>
+			<crimetype>furto qualificado</crimetype>
+		</NE>
+	</sent16>
+	
+</news042>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><news075>
+    <docname>news075</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate> 27 Julho 2018</publicationdate>
+    <title>Condenado a 12 anos de prisão por matar jovem junto a discoteca Luanda.</title>
+    <newstext>O tribunal condenou, sexta-feira, a 12 anos de prisão o jovem acusado de matar outro a tiro em março de 2017, junto à discoteca Luanda, em Lisboa, após uma discussão ocorrida anteriormente no interior do estabelecimento de diversão noturna. 
+	Na leitura do acórdão, o Tribunal Central Criminal de Lisboa deu como provado, no essencial, a acusação do Ministério Público, mas condenou o arguido apenas por um homicídio simples -- com uma moldura penal mais leve - e não por homicídio qualificado, pelo qual estava acusado. 
+	A presidente do coletivo de juízes, Ana Peres, sustentou que foi Gerson Varela o autor dos disparos que provocaram a morte de Hugo Carrilho, acrescentando, nomeadamente, que na posse do arguido foram encontradas munições do mesmo calibre das que causaram a morte da vítima. 
+	Após leitura do acórdão, viveram-se momentos de tensão no interior da sala de audiência, pois os familiares e amigos do jovem morto, à data com 23 anos, revoltaram-se com a pena aplicada ao arguido. 
+	Houve gritos, insultos e uma das pessoas presentes arremessou uma garrafa de água na direção do arguido, o que levou à intervenção dos vários polícias presentes na sala. 
+	Durante a retirada das pessoas da sala de audiências pela polícia, a mãe da vítima ficou magoada na perna e houve a necessidade de se chamar uma ambulância ao Campus da Justiça, que a transportou para o Hospital de São José, em Lisboa. 
+	O tribunal justificou a alteração da qualificação jurídica do crime, passando-o de homicídio qualificado (punível de 12 a 25 anos de prisão) para homicídio simples (punível de oito a 16 anos de prisão), com as circunstâncias em que o crime ocorreu, num clima de conflito mútuo, fruto das rivalidades existentes entre os bairros da Quinta do Mocho e da Quinta da Fonte, no concelho de Loures. 
+	A presidente do coletivo de juízes destacou que a maior parte da prova foi obtida de forma indireta, dando como exemplo os depoimentos dos inspetores da Polícia Judiciária, das testemunhas ou o facto de o arguido ter na sua posse munições do mesmo calibre das que mataram a vítima. 
+	O arguido Gerson Varela, atualmente com 24 anos, tem antecedentes criminais porque já havia sido condenado em dois processos diferentes: um a pena suspensa num caso de agressões e o outro a uma multa por condução sem carta. 
+	À saída do Campus da Justiça, o advogado da companheira do jovem morto, que se constituiu assistente no processo, afirmou que vai recorrer da decisão para o Tribunal da Relação de Lisboa. "A pena é insuficiente, atenta a gravidade. Devia ter sido condenado a uma pena superior e vamos recorrer", disse Amândio Madaleno aos jornalistas, enquanto os familiares da vítima, Hugo Carrilho, abandonavam o tribunal em lágrimas. 
+	O despacho de acusação do Ministério Público (MP), a que a agência Lusa teve acesso, conta que na madrugada de 18 de março, já no interior da discoteca, Hugo Carrilho deparou-se com Gerson Varela, "que residia no bairro da Quinta do Mocho, e com quem já tinha tido desentendimentos anteriores, sendo que existe uma forte rivalidade entre os habitantes do bairro da Quinta da Fonte (onde residia o arguido) e do bairro da Quinta do Mocho, ambos situados no concelho de Loures.  
+	A vítima tinha-se deslocado na companhia de dois amigos para a discoteca, na zona de Alcântara, onde iria decorrer uma festa, com a presença de vários DJ.  
+	Arguido e vítima "entraram em discussão por razões não concretamente apuradas", mas os ânimos foram serenados por seguranças. 
+	O MP sustenta que Gerson Varela saiu depois da discoteca e "muniu-se de uma arma de fogo, provavelmente, um revólver de calibre 22, a fim de abordar Hugo Carrilho, quando este saísse da discoteca, o que viria a acontecer".  
+	"O arguido Gerson Lopes Varela seguia à frente no grupo e após cruzar-se com Ibraima Dajló, ainda sem que os seus acompanhantes se tivessem cruzado com este último, disparou pelo menos cinco vezes em direção a Hugo Carrilho, utilizando para tal o revólver de calibre 22, carregado", relata o MP. 
+	Logo de seguida, acrescenta a acusação, "foram disparados tiros" com uma arma de fogo de calibre 6.35 milímetros "que atingiram o arguido" e Adquel Cruz, tendo ambos recebido tratamento hospitalar. 
+	Perante os ferimentos, dois amigos da vítima transportaram-na para o hospital, mas no percurso avistaram uma ambulância, tendo parado a viatura em frente à mesma, que levou depois a vítima para o Hospital de São Francisco Xavier, onde acabaria por morrer.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	
+	<sent1 desc="O tribunal condenou, sexta-feira, a 12 anos de prisão o jovem acusado de matar outro a tiro em março de 2017, junto à discoteca Luanda, em Lisboa, após uma discussão ocorrida anteriormente no interior do estabelecimento de diversão noturna.">
+		<NE>
+			<Time>sexta-feira</Time>
+			<Time>tribunal</Time>
+			<Numeric>12</Numeric>
+			<Time>março de 2017</Time>
+			<Place>discoteca Luanda</Place>
+			<Place>Lisboa</Place>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Na leitura do acórdão, o Tribunal Central Criminal de Lisboa deu como provado, no essencial, a acusação do Ministério Público, mas condenou o arguido apenas por um homicídio simples -- com uma moldura penal mais leve - e não por homicídio qualificado, pelo qual estava acusado. ">
+		<NE>
+			<Organization>Tribunal Central Criminal de Lisboa</Organization>
+			<Organization>Ministério Público</Organization>
+			<crimetype>homicídio qualificado</crimetype>
+		</NE>
+	</sent2>
+		
+	<sent3 desc="A presidente do coletivo de juízes, Ana Peres, sustentou que foi Gerson Varela o autor dos disparos que provocaram a morte de Hugo Carrilho, acrescentando, nomeadamente, que na posse do arguido foram encontradas munições do mesmo calibre das que causaram a morte da vítima. ">
+		<NE>
+			<Person>Ana Peres</Person>
+			<Person>Gerson Varela</Person>
+			<Person>Hugo Carrilho</Person>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Após leitura do acórdão, viveram-se momentos de tensão no interior da sala de audiência, pois os familiares e amigos do jovem morto, à data com 23 anos, revoltaram-se com a pena aplicada ao arguido.">
+		<NE>
+			<Numeric>23</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Houve gritos, insultos e uma das pessoas presentes arremessou uma garrafa de água na direção do arguido, o que levou à intervenção dos vários polícias presentes na sala.">
+		<NE>
+		
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Durante a retirada das pessoas da sala de audiências pela polícia, a mãe da vítima ficou magoada na perna e houve a necessidade de se chamar uma ambulância ao Campus da Justiça, que a transportou para o Hospital de São José, em Lisboa.">
+		<NE>
+			<Organization>polícia</Organization>
+			<Place>Campus da Justiça</Place>
+			<Place>Hospital de São José</Place>
+			<Place>Lisboa</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="O tribunal justificou a alteração da qualificação jurídica do crime, passando-o de homicídio qualificado (punível de 12 a 25 anos de prisão) para homicídio simples (punível de oito a 16 anos de prisão), com as circunstâncias em que o crime ocorreu, num clima de conflito mútuo, fruto das rivalidades existentes entre os bairros da Quinta do Mocho e da Quinta da Fonte, no concelho de Loures.">
+		<NE>
+			<Organization>tribunal</Organization>
+			<Numeric>12</Numeric>
+			<Numeric>25</Numeric>
+			<crimetype>homicídio simples</crimetype>
+			<Place>Quinta do Mocho</Place>
+			<Place>Quinta da Fonte</Place>
+			<Place>Loures</Place>
+		</NE>
+	</sent7>
+	
+	
+	<sent8 desc="A presidente do coletivo de juízes destacou que a maior parte da prova foi obtida de forma indireta, dando como exemplo os depoimentos dos inspetores da Polícia Judiciária, das testemunhas ou o facto de o arguido ter na sua posse munições do mesmo calibre das que mataram a vítima.">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O arguido Gerson Varela, atualmente com 24 anos, tem antecedentes criminais porque já havia sido condenado em dois processos diferentes: um a pena suspensa num caso de agressões e o outro a uma multa por condução sem carta. ">
+		<NE>
+			<Person>Gerson Varela</Person>
+			<Numeric>24</Numeric>
+			<crimetype>condução sem carta</crimetype>
+		</NE>
+	</sent9>
+	
+	
+	<sent10 desc="À saída do Campus da Justiça, o advogado da companheira do jovem morto, que se constituiu assistente no processo, afirmou que vai recorrer da decisão para o Tribunal da Relação de Lisboa. 'A pena é insuficiente, atenta a gravidade. Devia ter sido condenado a uma pena superior e vamos recorrer', disse Amândio Madaleno aos jornalistas, enquanto os familiares da vítima, Hugo Carrilho, abandonavam o tribunal em lágrimas.">
+		<NE>
+			<Place>Campus da Justiça</Place>
+			<Organization>Tribunal da Relação de Lisboa</Organization>
+			<Person>Amândio Madaleno</Person>
+			<Person>Hugo Carrilho</Person>
+			<Organization>tribunal</Organization>
+			
+		</NE>
+	</sent10>
+		
+	<sent11 desc="O despacho de acusação do Ministério Público (MP), a que a agência Lusa teve acesso, conta que na madrugada de 18 de março, já no interior da discoteca, Hugo Carrilho deparou-se com Gerson Varela, 'que residia no bairro da Quinta do Mocho, e com quem já tinha tido desentendimentos anteriores, sendo que existe uma forte rivalidade entre os habitantes do bairro da Quinta da Fonte (onde residia o arguido) e do bairro da Quinta do Mocho, ambos situados no concelho de Loures.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>MP</Organization>
+			<Organization>agência Lusa</Organization>
+			<Time>18 de março</Time>
+			<Person>Hugo Carrilho</Person>
+			<Person>Gerson Varela</Person>
+			<Place>Quinta do Mocho</Place>
+			<Place>Quinta da Fonte</Place>
+			<Place>Loures</Place>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="A vítima tinha-se deslocado na companhia de dois amigos para a discoteca, na zona de Alcântara, onde iria decorrer uma festa, com a presença de vários DJ.">
+		<NE>
+			<Place>Alcântara</Place>
+			<Person>DJ</Person>
+		</NE>
+	</sent12>
+	
+	
+	<sent13 desc="Arguido e vítima 'entraram em discussão por razões não concretamente apuradas', mas os ânimos foram serenados por seguranças. ">
+		<NE>
+		
+		</NE>
+	</sent13>
+	
+	<sent14 desc="O MP sustenta que Gerson Varela saiu depois da discoteca e 'muniu-se de uma arma de fogo, provavelmente, um revólver de calibre 22, a fim de abordar Hugo Carrilho, quando este saísse da discoteca, o que viria a acontecer'.  ">
+		<NE>
+			<Organization>MP</Organization>
+			<Numeric>22</Numeric>
+			<Person>Hugo Carrilho</Person>
+		</NE>
+	</sent14>
+	
+	<sent15 desc="'O arguido Gerson Lopes Varela seguia à frente no grupo e após cruzar-se com Ibraima Dajló, ainda sem que os seus acompanhantes se tivessem cruzado com este último, disparou pelo menos cinco vezes em direção a Hugo Carrilho, utilizando para tal o revólver de calibre 22, carregado', relata o MP.">
+		<NE>
+			<Person>Gerson Lopes Varela</Person>
+			<Person>Ibraima Dajló</Person>
+			<Person>Hugo Carrilho</Person>
+			<Numeric>22</Numeric>
+			<Organization>MP</Organization>
+		</NE>
+	</sent15>
+	
+	<sent16 desc="Logo de seguida, acrescenta a acusação, 'foram disparados tiros' com uma arma de fogo de calibre 6.35 milímetros 'que atingiram o arguido' e Adquel Cruz, tendo ambos recebido tratamento hospitalar.">
+		<NE>
+			<Numeric>6.35</Numeric>
+			<Person>Adquel Cruz</Person>
+			
+		</NE>
+	</sent16>
+	
+	<sent17 desc="Perante os ferimentos, dois amigos da vítima transportaram-na para o hospital, mas no percurso avistaram uma ambulância, tendo parado a viatura em frente à mesma, que levou depois a vítima para o Hospital de São Francisco Xavier, onde acabaria por morrer.">
+		<NE>
+			<Place>Hospital de São Francisco Xavier</Place>
+		</NE>
+	</sent17>
+	
+	
+</news075>

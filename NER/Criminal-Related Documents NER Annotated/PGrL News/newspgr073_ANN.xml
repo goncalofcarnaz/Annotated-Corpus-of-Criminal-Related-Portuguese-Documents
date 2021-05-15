@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr073>
+    <docname>newspgr073</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>12-07-2019</publicationdate>
+    <title> Detenção. Fraude fiscal qualificada. Apresentações. DIAP de Lisboa/Sede.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foram detidos e presentes ao JIC, no dia 11.07.2019, dois arguidos indiciados pela prática de crime de fraude fiscal qualificada.
+	Segundo os fortes indícios recolhidos, os arguidos, desde pelo menos 2008 a 2019, para reduzir o IVA a entregar ao Estado, criaram e geriram uma sociedade prestadora de serviços de limpeza, através da qual, ao longo dos anos, criaram sucessivamente empresas de curta duração, que se foram substituindo umas às outras, em nome de “testas de ferro”, mantendo-se estas últimas sociedades integralmente incumpridoras das obrigações de pagamento dos impostos, à exceção da parte declarativa dos trabalhadores, por forma a serem formalmente as entidades patronais dos trabalhadores que a primeira sociedade colocava nos seus clientes para executar tarefas de limpeza. 
+	Tal permitiu à primeira sociedade deduzir o IVA da faturação que lhe era emitida por aquelas empresas, pela alegada cedência do pessoal, sem que estas entregassem o IVA liquidado nos Cofres do Estado.
+	Os arguidos agiram com o intuito de obterem um elevado benefício económico, em prejuízo do Estado/Fazenda Nacional.
+	Aos arguidos foi aplicada a medida de coação de apresentações periódicas e de proibição de contactos entre si, além do TIR.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP na 8ª Secção do DIAP de Lisboa/sede com a coadjuvação GNR e da Direção de Finanças de Lisboa (DFL).
+	</text>
+	
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa </Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foram detidos e presentes ao JIC, no dia 11.07.2019, dois arguidos indiciados pela prática de crime de fraude fiscal qualificada.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>11.07.2019</Time>
+			<crimetype> fraude fiscal qualificada</crimetype>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, os arguidos, desde pelo menos 2008 a 2019, para reduzir o IVA a entregar ao Estado, criaram e geriram uma sociedade prestadora de serviços de limpeza, através da qual, ao longo dos anos, criaram sucessivamente empresas de curta duração, que se foram substituindo umas às outras, em nome de “testas de ferro”, mantendo-se estas últimas sociedades integralmente incumpridoras das obrigações de pagamento dos impostos, à exceção da parte declarativa dos trabalhadores, por forma a serem formalmente as entidades patronais dos trabalhadores que a primeira sociedade colocava nos seus clientes para executar tarefas de limpeza. ">
+		<NE>
+			<Time>2008</Time>
+			<Time>2019</Time>
+			<Organization>Estado</Organization>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="Tal permitiu à primeira sociedade deduzir o IVA da faturação que lhe era emitida por aquelas empresas, pela alegada cedência do pessoal, sem que estas entregassem o IVA liquidado nos Cofres do Estado.">
+		<NE>
+			<Organization>Estado</Organization>
+		</NE>
+	</sent4>
+
+	
+	<sent5 desc="Os arguidos agiram com o intuito de obterem um elevado benefício económico, em prejuízo do Estado/Fazenda Nacional.">
+		<NE>
+			<Organization>Estado</Organization>
+			<Organization>Fazenda Nacional</Organization>
+		</NE>
+	</sent5>
+	
+	
+	
+	<sent6 desc="Aos arguidos foi aplicada a medida de coação de apresentações periódicas e de proibição de contactos entre si, além do TIR.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A investigação prossegue sob a direção do MP na 8ª Secção do DIAP de Lisboa/sede com a coadjuvação GNR e da Direção de Finanças de Lisboa (DFL).">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>DIAP de Lisboa/sede</Organization>
+			<Organization>GNR</Organization>
+			<Organization>Direção de Finanças de Lisboa (DFL)</Organization>
+		</NE>
+	</sent8>
+	
+	
+</newspgr073>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><news068>
+    <docname>news068</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>23 Agosto 2018</publicationdate>
+    <title>Português tenta matar ex-namorada, mas mata amigo desta nos EUA</title>
+    <newstext>Um português tentou matar a ex-namorada à frente da família, mas acabou por assassinar um homem que a acompanhava no restaurante "Bom de Mais", em Long Branch, segundo o Procurador do Condado de Monmouth (EUA).  
+	Miguel Leal Câmara, de 40 anos, natural dos Açores, residente em Long Branch, foi levado a tribunal no Condado de Monmouth, em New Jersey, na quarta-feira, acusado do assassinato de Marco António Rosa Moreira, de 45 anos, residente em Ocean Township. 
+	O acusado "entrou no restaurante e aproximou-se da mesa onde se encontrava a ex-namorada, acompanhada de membros da sua família e de Marco Moreira violando uma ordem de restrição existente," declarou Christopher Swendeman, porta-voz do Ministério Público.  
+	O português apontou e disparou uma arma sobre Moreira, atingindo-o na cabeça. 
+	Seguiu-se uma luta entre Câmara, outros amigos de Moreira e ainda um outro cliente do restaurante, disse Swendeman, que adiantou: "Durante a luta que se seguiu, Moreira tentou matar a sua ex-namorada, mas não teve sucesso". 
+	Agentes da polícia que passavam na rua na ocasião foram chamados e desarmaram o português, pondo fim à luta. 
+	Mesmo assim, Câmara tentou ainda sacar a arma de um dos agentes, mas foi mal sucedido.
+	</newstext>
+	
+	<Sentences num="7">
+	</Sentences>
+	
+	<sent1 desc="Um português tentou matar a ex-namorada à frente da família, mas acabou por assassinar um homem que a acompanhava no restaurante Bom de Mais, em Long Branch, segundo o Procurador do Condado de Monmouth (EUA).">
+		<NE>
+			<Place>restaurante Bom de Mais</Place>
+			<Place>Long Branch</Place>
+			<Place>Condado de Monmouth</Place>
+			<Place>EUA</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Miguel Leal Câmara, de 40 anos, natural dos Açores, residente em Long Branch, foi levado a tribunal no Condado de Monmouth, em New Jersey, na quarta-feira, acusado do assassinato de Marco António Rosa Moreira, de 45 anos, residente em Ocean Township.">
+		<NE>
+			<Person>Miguel Leal Câmara</Person>
+			<Numeric>40</Numeric>
+			<Place>Açores</Place>
+			<Place>Long Branch</Place>
+			<Place>Condado de Monmouth</Place>
+			<Place>New Jersey</Place>
+			<Time>quarta-feira</Time>
+			<Person>Marco António Rosa Moreira</Person>
+			<Numeric>45</Numeric>
+			<Place>Ocean Township</Place>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O acusado 'entrou no restaurante e aproximou-se da mesa onde se encontrava a ex-namorada, acompanhada de membros da sua família e de Marco Moreira violando uma ordem de restrição existente,' declarou Christopher Swendeman, porta-voz do Ministério Público.  ">
+		<NE>
+			<Person>Marco Moreira</Person>
+			<Person>Christopher Swendeman</Person>
+			<Organization>Ministério Público</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O português apontou e disparou uma arma sobre Moreira, atingindo-o na cabeça. ">
+		<NE>
+			<Person>Moreira</Person>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Seguiu-se uma luta entre Câmara, outros amigos de Moreira e ainda um outro cliente do restaurante, disse Swendeman, que adiantou: 'Durante a luta que se seguiu, Moreira tentou matar a sua ex-namorada, mas não teve sucesso'. ">
+		<NE>
+			<Person>Moreira</Person>
+			<Person>Moreira</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Agentes da polícia que passavam na rua na ocasião foram chamados e desarmaram o português, pondo fim à luta. ">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Mesmo assim, Câmara tentou ainda sacar a arma de um dos agentes, mas foi mal sucedido.">
+		<NE>
+			<Person>Câmara</Person>
+		</NE>
+	</sent7>
+
+	
+</news068>

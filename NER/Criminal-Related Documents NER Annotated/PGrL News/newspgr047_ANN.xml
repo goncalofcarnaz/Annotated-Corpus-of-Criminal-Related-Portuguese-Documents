@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr047>
+    <docname>newspgr047</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>23-09-2019</publicationdate>
+    <title> Atualização. Acórdão. Abuso sexual de crianças. Juízo Central Criminal de Lisboa/ DIAP de Lisboa/Sede.</title>
+    <text> Na sequência da atualidade divulgada no dia 11.03.2019 a PGDL informa:.
+	Foi proferido acórdão que condenou um arguido, que exercia a profissão de “babysiter”, pela prática de dois crimes de abuso sexual de crianças, nas penas, por cada um deles, de 2 anos e 6 meses de prisão e um crime de abuso sexual de crianças, na pena de 5 anos e 3 meses de prisão, em cúmulo jurídico na pena única de 6 anos e 6 meses de prisão efetiva.
+	Foi, ainda, condenado na pena acessória de proibição de adoção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores, por um período de quinze anos e na pena acessória de proibição do exercício de profissão, emprego, funções ou atribuições públicas ou privadas, cujo exercício envolva contacto regular com menores, por um período de quinze anos.
+	Foi determinada a recolha de amostra de ADN ao arguido.
+	O acórdão já transitou em julgado.
+	O inquérito foi dirigido pelo MP na 2.ª secção do DIAP de Lisboa, com a coadjuvação da PJ.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Na sequência da atualidade divulgada no dia 11.03.2019 a PGDL informa:.">
+		<NE>
+			<Time>11.03.2019</Time>
+			<Organization>PGDL</Organization>
+		</NE>
+	</sent1>
+
+	<sent2 desc="Foi proferido acórdão que condenou um arguido, que exercia a profissão de “babysiter”, pela prática de dois crimes de abuso sexual de crianças, nas penas, por cada um deles, de 2 anos e 6 meses de prisão e um crime de abuso sexual de crianças, na pena de 5 anos e 3 meses de prisão, em cúmulo jurídico na pena única de 6 anos e 6 meses de prisão efetiva.">
+		<NE>
+			<Numeric>5</Numeric>
+			<Numeric>3 meses</Numeric>
+			<Numeric>6</Numeric>
+			<Numeric>6</Numeric>
+			
+		</NE>
+	</sent2>
+
+	<sent3 desc="Foi, ainda, condenado na pena acessória de proibição de adoção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores, por um período de quinze anos e na pena acessória de proibição do exercício de profissão, emprego, funções ou atribuições públicas ou privadas, cujo exercício envolva contacto regular com menores, por um período de quinze anos.">
+		<NE>
+			
+		</NE>
+	</sent3>
+
+	
+	<sent4 desc="Foi determinada a recolha de amostra de ADN ao arguido.">
+		<NE>
+			
+		</NE>
+	</sent4>
+
+	
+	<sent5 desc="O acórdão já transitou em julgado.">
+		<NE>
+			
+		</NE>
+	</sent5>
+
+	
+	<sent6 desc="O inquérito foi dirigido pelo MP na 2.ª secção do DIAP de Lisboa, com a coadjuvação da PJ.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>2.ª secção do DIAP de Lisboa</Organization>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent6>
+
+	
+</newspgr047>

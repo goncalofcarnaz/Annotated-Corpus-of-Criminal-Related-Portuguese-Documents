@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><news025>
+    <docname>news025</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>17 Março de 2016</publicationdate>
+    <title>Usava internet alheia para “disfarçar” crime de pornografia infantil.</title>
+    <newstext>A Polícia Judiciária (PJ), de Aveiro, deteve um homem, pensionista (por invalidez), residente numa freguesia do concelho da Mealhada, fortemente indiciado pela prática do crime de pornografia de menores, que concretizava na obtenção e partilha, através da internet, de ficheiros multimédia retratando crianças em práticas sexuais explícitas. 
+	A investigação, esclarece a PJ em comunicado, surgiu no âmbito do combate internacional à pornografia infantil em articulação com as autoridades estrangeiras. 
+	Ao DIÁRIO AS BEIRAS, fonte da PJ de Aveiro adiantou que a situação (que culminou com a detenção na segunda-feira) surgiu “na sequência das sinalizações que são feitas a nível internacional de posse partilha” de ficheiros de cariz pornográfico com menores.
+	</newstext>
+
+	<Sentences num="">
+		
+	</Sentences>	
+	
+
+	<sent1 desc="A Polícia Judiciária (PJ), de Aveiro, deteve um homem, pensionista (por invalidez), residente numa freguesia do concelho da Mealhada, fortemente indiciado pela prática do crime de pornografia de menores, que concretizava na obtenção e partilha, através da internet, de ficheiros multimédia retratando crianças em práticas sexuais explícitas.">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>PJ</Organization>
+			<Place>Mealhada</Place>
+			<Place>Aveiro</Place>
+			<crimetype>pornografia de menores</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A investigação, esclarece a PJ em comunicado, surgiu no âmbito do combate internacional à pornografia infantil em articulação com as autoridades estrangeiras. ">
+		<NE>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Ao Diário As Beiras, fonte da PJ de Aveiro adiantou que a situação (que culminou com a detenção na segunda-feira) surgiu “na sequência das sinalizações que são feitas a nível internacional de posse partilha” de ficheiros de cariz pornográfico com menores.">
+		<NE>
+			<Organization>Diário As Beiras</Organization>
+			<Organization> PJ de Aveiro</Organization>
+			<Time>segunda-feira</Time>
+		</NE>
+	</sent3>
+	
+</news025>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><news072>
+    <docname>news072</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>04 Agosto 2018</publicationdate>
+    <title>Homicida vem a Portugal confessar crime cometido há nove anos.</title>
+    <newstext>O cadáver de um homem de 45 anos, assassinado em 2009, foi encontrado esta tarde de sábado, pela PJ do Porto numa zona florestal em Vermoim, Famalicão. 
+	A PJ foi conduzida ao local pelo próprio suspeito do crime, de 54 anos, natural de Famalicão, que sentiu remorsos e, nove anos depois, veio do estrangeiro até Portugal confessar.  
+	Segundo a versão que apresentou aos investigadores, estava com a vítima a negociar uma caçadeira e disparou acidentalmente. 
+	Entrou em pânico, contou, e enterrou o corpo. 
+	Este sábado, levou as autoridades até ao local e acompanhou as operações até que o corpo fosse desenterrado e removido. 
+	A vítima terá sido dada como desaparecida em maio de 2009, contudo, a PJ vai agora realizar os exames necessários à sua identificação e concluir a investigação. 
+	Durante cerca de três horas a PJ e os Bombeiros Famalicenses desenterraram as ossadas, que foram transportadas para o Instituto de Medicina Legal do Porto. 
+	Foram muitos os curiosos que ali acorreram, até porque o aparato à face da estrada de acesso à A7 em Vermoim não deixava ninguém indiferente. 
+	Contudo, a PJ fez o cordão de segurança e afastou as pessoas da zona onde realizavam os trabalhos. 
+	Luís Azevedo pensa poder tratar-se do irmão, por isso esteve no local e vai agora contactar a Polícia Judiciária para ter a certeza. 
+	"Desconfio que seja o meu irmão, porque está desaparecido há cerca de dez anos", adiantou. 
+	"E a data do desaparecimento coincide. 
+	Podia haver suspeitas, já suspeitámos de várias coisas, mas ele nunca desapareceria por vontade própria", acrescentou.</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="O cadáver de um homem de 45 anos, assassinado em 2009, foi encontrado esta tarde de sábado, pela PJ do Porto numa zona florestal em Vermoim, Famalicão.">
+		<NE>
+			<Numeric>45</Numeric>
+			<Time>2009</Time>
+			<Organization>PJ do Porto</Organization>
+			<Place>Vermoim</Place>
+			<Place>Famalicão</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A PJ foi conduzida ao local pelo próprio suspeito do crime, de 54 anos, natural de Famalicão, que sentiu remorsos e, nove anos depois, veio do estrangeiro até Portugal confessar. ">
+		<NE>
+			<Organization>PJ</Organization>
+			<Numeric>54</Numeric>
+			<Place>Famalicão</Place>
+			<Place>Portugal</Place>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Segundo a versão que apresentou aos investigadores, estava com a vítima a negociar uma caçadeira e disparou acidentalmente.">
+		<NE>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Entrou em pânico, contou, e enterrou o corpo. ">
+		<NE>
+		</NE>
+	</sent4>
+	
+	
+	<sent5 desc="Este sábado, levou as autoridades até ao local e acompanhou as operações até que o corpo fosse desenterrado e removido. ">
+		<NE>
+			<Time>sábado</Time>
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="A vítima terá sido dada como desaparecida em maio de 2009, contudo, a PJ vai agora realizar os exames necessários à sua identificação e concluir a investigação. ">
+		<NE>
+			<Time>maio de 2009</Time>
+			<Organization>PJ</Organization>
+			
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="Durante cerca de três horas a PJ e os Bombeiros Famalicenses desenterraram as ossadas, que foram transportadas para o Instituto de Medicina Legal do Porto.">
+		<NE>
+			<Organization>PJ</Organization>
+			<Organization>Bombeiros Famalicenses</Organization>
+			<Organization>Instituto de Medicina Legal do Porto</Organization>
+
+			
+		</NE>
+	</sent7>
+	
+	
+	<sent8 desc="Foram muitos os curiosos que ali acorreram, até porque o aparato à face da estrada de acesso à A7 em Vermoim não deixava ninguém indiferente. ">
+		<NE>
+			<Place>A7</Place>
+			<Place>Vermoim</Place>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Contudo, a PJ fez o cordão de segurança e afastou as pessoas da zona onde realizavam os trabalhos. ">
+		<NE>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="Luís Azevedo pensa poder tratar-se do irmão, por isso esteve no local e vai agora contactar a Polícia Judiciária para ter a certeza.">
+		<NE>
+			<Person>Luís Azevedo</Person>
+			<Organization>Polícia Judiciária</Organization>
+		</NE>
+	</sent10>
+	
+	<sent11 desc="'Desconfio que seja o meu irmão, porque está desaparecido há cerca de dez anos', adiantou. ">
+		<NE>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="E a data do desaparecimento coincide. ">
+		<NE>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="Podia haver suspeitas, já suspeitámos de várias coisas, mas ele nunca desapareceria por vontade própria', acrescentou.">
+		<NE>
+		</NE>
+	</sent13>
+	
+	
+</news072>

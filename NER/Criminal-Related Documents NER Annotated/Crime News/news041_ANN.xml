@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><news041>
+    <docname>news041</docname>
+    <authors>['Global Media Group']</authors>
+    <publicationdate>18 Outubro 2018</publicationdate>
+    <title>Apedrejou gato e vai passar dois anos na prisão.</title>
+    <newstext>Tem 25 anos e vai passar os próximos dois anos no Estabelecimento Prisional de Lisboa por, entre outros crimes, ter apedrejado um gato. 
+	O homem foi detido na quarta-feira pela PSP e sobre ele pendia um mandato de detenção para cumprimento de pena. 
+	Foi condenado a dois anos de prisão efetiva pelos crimes de maus tratos a animais, resistência e coação sobre funcionário, ameaça agravada e injúria agravada. 
+	No momento dos crimes, ocorridos em 2016, chegou a agredir agentes da PSP.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Tem 25 anos e vai passar os próximos dois anos no Estabelecimento Prisional de Lisboa por, entre outros crimes, ter apedrejado um gato. ">
+		<NE>
+			<Numeric>25</Numeric>
+			<Organization>Estabelecimento Prisional de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="O homem foi detido na quarta-feira pela PSP e sobre ele pendia um mandato de detenção para cumprimento de pena. ">
+		<NE>
+			<Organization>PSP</Organization>
+			<Time>quarta-feira</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Foi condenado a dois anos de prisão efetiva pelos crimes de maus tratos a animais, resistência e coação sobre funcionário, ameaça agravada e injúria agravada. ">
+		<NE>
+			<crimetype>maus tratos a animais</crimetype>
+			<crimetype>resistência e coação sobre funcionário</crimetype>
+			<crimetype>ameaça agravada</crimetype>
+			<crimetype>injúria agravada</crimetype>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="No momento dos crimes, ocorridos em 2016, chegou a agredir agentes da PSP.">
+		<NE>
+			<Time>2016</Time>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent4>
+	
+</news041>

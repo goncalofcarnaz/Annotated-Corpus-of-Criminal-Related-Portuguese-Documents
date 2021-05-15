@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><news055>
+    <docname>news055</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>19 Setembro 2018</publicationdate>
+    <title>Centenas de mulheres terão sido abusadas sexualmente por cirurgião.</title>
+    <newstext>Um cirurgião californiano e a namorada são suspeitos de terem atacado sexualmente duas pessoas depois de as terem drogado. 
+	Os investigadores acreditam que a dupla será responsável por centenas de casos do género. 
+	Grant William Robicheaux, de 38 anos, e Cerissa Laura Riley, de 31 anos, são suspeitos de terem atacado duas mulheres que conheceram num bar e num restaurante em 2016. 
+	Estas não serão, porém, as únicas vítimas da dupla. 
+	Em declarações à BBC, a equipa de procuradores que está responsável pelo caso disse que no telefone do casal foram encontrados "milhares e milhares" de vídeos de potenciais vítimas. 
+	Numa conferência de imprensa, Tony Rackauckas, procurador do distrito de Orange County, nos EUA, explicou que o casal usava a "aparência" bem cuidada e o estatuto do médico para atrair as vítimas com a falsa promessa de segurança. 
+	"Há vários vídeos em que as mulheres parecem estar altamente intoxicadas e sem capacidade para resistir e mal respondem aos avanços sexuais dos suspeitos", disse, em entrevista ao "KTLA-TV". 
+	"Com estas provas, acreditamos que há mais vítimas que ainda não foram identificadas", acrescentou. 
+	Os investigadores que estão a tratar do caso acreditam que o casal trabalhava em conjunto para encontrar as mulheres em bares, drogando-as e coagindo-as a beber grandes quantidades de álcool. 
+	As vítimas eram depois levadas para o apartamento do médico onde acabavam por ser atacadas. 
+	Numa busca efetuada a casa de Grant William Robicheaux, as autoridades encontraram um elevado número de drogas ilegais. 
+	Se as suspeitas se confirmarem, os dois podem passar entre 30 a 40 anos na cadeia. 
+	O casal vai ser levado a tribunal no dia 24 de outubro.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Um cirurgião californiano e a namorada são suspeitos de terem atacado sexualmente duas pessoas depois de as terem drogado.">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Os investigadores acreditam que a dupla será responsável por centenas de casos do género. ">
+		<NE>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Grant William Robicheaux, de 38 anos, e Cerissa Laura Riley, de 31 anos, são suspeitos de terem atacado duas mulheres que conheceram num bar e num restaurante em 2016.">
+		<NE>
+			<Person>Grant William Robicheaux</Person>
+			<Numeric>38</Numeric>
+			<Person>Cerissa Laura Riley</Person>
+			<Numeric>31</Numeric>
+			<Time>2016</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Estas não serão, porém, as únicas vítimas da dupla. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Em declarações à BBC, a equipa de procuradores que está responsável pelo caso disse que no telefone do casal foram encontrados 'milhares e milhares' de vídeos de potenciais vítimas. ">
+		<NE>
+			<Organization>BBC</Organization>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Numa conferência de imprensa, Tony Rackauckas, procurador do distrito de Orange County, nos EUA, explicou que o casal usava a 'aparência' bem cuidada e o estatuto do médico para atrair as vítimas com a falsa promessa de segurança. ">
+		<NE>
+			<Person>Tony Rackauckas</Person>
+			<Place>Orange County</Place>
+			<Place>EUA</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="'Há vários vídeos em que as mulheres parecem estar altamente intoxicadas e sem capacidade para resistir e mal respondem aos avanços sexuais dos suspeitos', disse, em entrevista ao KTLA-TV. ">
+		<NE>
+			<Organization>KTLA-TV</Organization>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="'Com estas provas, acreditamos que há mais vítimas que ainda não foram identificadas', acrescentou. ">
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Os investigadores que estão a tratar do caso acreditam que o casal trabalhava em conjunto para encontrar as mulheres em bares, drogando-as e coagindo-as a beber grandes quantidades de álcool. ">
+		<NE>
+			
+		</NE>
+	</sent9>
+	
+	
+	<sent10 desc="As vítimas eram depois levadas para o apartamento do médico onde acabavam por ser atacadas. ">
+		<NE>
+			
+		</NE>
+	</sent10>
+	
+	
+	<sent11 desc="Numa busca efetuada a casa de Grant William Robicheaux, as autoridades encontraram um elevado número de drogas ilegais. ">
+		<NE>
+			<Person>Grant William Robicheaux</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="Se as suspeitas se confirmarem, os dois podem passar entre 30 a 40 anos na cadeia. O casal vai ser levado a tribunal no dia 24 de outubro.">
+		<NE>
+			<Numeric>30</Numeric>
+			<Numeric>40</Numeric>
+			<Time></Time>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="Se as suspeitas se confirmarem, os dois podem passar entre 30 a 40 anos na cadeia. O casal vai ser levado a tribunal no dia 24 de outubro.">
+		<NE>
+			
+			<Time>24 de outubro</Time>
+		</NE>
+	</sent13>
+	
+</news055>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr019>
+    <docname>newspgr019</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>24-10-2019</publicationdate>
+    <title>  Detenção. Violência doméstica agravada. DIAP da Amadora/Comarca de Lisboa Oeste.</title>
+    <text> Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 23-10-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica agravado.
+	Segundo os fortes indícios recolhidos o arguido, de 22 anos, residia com a sua mãe, a qual padece de vários problemas de saúde, e um irmão de 19 anos de idade. 
+	Desde há cerca de 3 anos que o arguido tem infligido maus-tratos psicológicos à ofendida e ao irmão, perturbando-os na sua liberdade e segurança, tendo os mesmos medo de residir e de estar na sua própria casa.
+	O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a ofendida, sua mãe, e com o irmão, proibição de permanecer na residência e no local de trabalho da ofendida e nas proximidades destes e proibição de se aproximar da escola do irmão, por se julgar verificado, em concreto, os perigos de continuação da atividade criminosa e de perturbação do inquérito, nas vertentes de aquisição, conservação ou veracidade da prova.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP do núcleo da Amadora, Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 23-10-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica agravado.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>23-10-2019</Time>
+			<crimetype>violência doméstica agravado</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos o arguido, de 22 anos, residia com a sua mãe, a qual padece de vários problemas de saúde, e um irmão de 19 anos de idade.">
+		<NE>
+			<Numeric>22 anos</Numeric>
+			<Numeric>19 anos</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Desde há cerca de 3 anos que o arguido tem infligido maus-tratos psicológicos à ofendida e ao irmão, perturbando-os na sua liberdade e segurança, tendo os mesmos medo de residir e de estar na sua própria casa.">
+		<NE>
+			<Numeric>3 anos</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a ofendida, sua mãe, e com o irmão, proibição de permanecer na residência e no local de trabalho da ofendida e nas proximidades destes e proibição de se aproximar da escola do irmão, por se julgar verificado, em concreto, os perigos de continuação da atividade criminosa e de perturbação do inquérito, nas vertentes de aquisição, conservação ou veracidade da prova.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A investigação prossegue sob a direção do MP do núcleo da Amadora, Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP do núcleo da Amadora</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent6>
+	
+	
+</newspgr019>

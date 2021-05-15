@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr041>
+    <docname>newspgr041</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>01-10-2019</publicationdate>
+    <title>Acusação. Tráfico de estupefaciente. Detenção de arma proibida. Coação. Introdução em lugar vedado ao público. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>Na sequência da atualidade divulgada no dia 03.04.2019 a PGDL informa:
+	O MP requereu o julgamento em tribunal coletivo de seis arguidos pela prática de crimes de tráfico de estupefacientes, de detenção de arma proibida, de coação e de introdução em lugar vedado ao público.
+	No essencial está indiciado que, desde data anterior ao fim de março de 2019 que 5 dos arguidos organizando-se entre eles estabeleceram, de comum acordo, as atribuições de cada um para conseguirem vender o produto estupefaciente, nomeadamente haxixe, auferindo contrapartidas monetárias. 
+	Em março de 2019 foram apreendidas aos arguidos grandes quantidades de haxixe e uma arma de fogo.
+	Quatro dos arguidos encontram-se em prisão preventiva.
+	O MP requereu: - A recolha de ADN aos arguidos, caso venham a ser condenados em pena concreta de prisão igual ou superior a três anos; - A aplicação da pena acessória de expulsão do território nacional relativamente a 3 dos arguidos.
+	O inquérito foi dirigido pelo MP na 4.ª secção do DIAP de Sintra, Comarca de Lisboa Oeste com a coadjuvação da PSP de Cascais.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Na sequência da atualidade divulgada no dia 03.04.2019 a PGDL informa:">
+		<NE>
+			<Time>03.04.2019</Time>
+			<Organization>PGDL</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="O MP requereu o julgamento em tribunal coletivo de seis arguidos pela prática de crimes de tráfico de estupefacientes, de detenção de arma proibida, de coação e de introdução em lugar vedado ao público.">
+		<NE>
+			<Organization>MP</Organization>
+			<crimtype>tráfico de estupefacientes</crimtype>
+			<crimtype>detenção de arma proibida</crimtype>
+			<crimtype>coação</crimtype>
+			<crimtype>introdução em lugar vedado ao público</crimtype>
+			
+			
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="No essencial está indiciado que, desde data anterior ao fim de março de 2019 que 5 dos arguidos organizando-se entre eles estabeleceram, de comum acordo, as atribuições de cada um para conseguirem vender o produto estupefaciente, nomeadamente haxixe, auferindo contrapartidas monetárias. ">
+		<NE>
+			<Time>março de 2019</Time>
+			<Numeric>5</Numeric>
+			<narcotics>haxixe</narcotics>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Em março de 2019 foram apreendidas aos arguidos grandes quantidades de haxixe e uma arma de fogo.">
+		<NE>
+			<Time>março de 2019</Time>
+			<narcotics>haxixe</narcotics>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Quatro dos arguidos encontram-se em prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O MP requereu: - A recolha de ADN aos arguidos, caso venham a ser condenados em pena concreta de prisão igual ou superior a três anos; - A aplicação da pena acessória de expulsão do território nacional relativamente a 3 dos arguidos.">
+		<NE>
+			<Organization>MP</Organization>
+			<Numeric>3</Numeric>
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="O inquérito foi dirigido pelo MP na 4.ª secção do DIAP de Sintra, Comarca de Lisboa Oeste com a coadjuvação da PSP de Cascais.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization> 4.ª secção do DIAP de Sintra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+			<Organization>PSP de Cascais</Organization>
+		</NE>
+	</sent7>
+	
+</newspgr041>

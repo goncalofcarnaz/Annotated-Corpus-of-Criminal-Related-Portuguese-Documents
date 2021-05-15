@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><news053>
+    <docname>news053</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>25 Setembro 2018</publicationdate>
+    <title>Explicador acusado de abusar de seis meninas negou crimes em Aveiro.</title>
+    <newstext>O Tribunal de Aveiro começou a julgar, esta terça-feira, um explicador, de 44 anos, suspeito de ter abusado sexualmente de seis meninas, com nove e dez anos. 
+	O julgamento está a decorrer à porta fechada, com exclusão de publicidade, por se tratar de um processo relacionado com crimes sexuais sobre menores. 
+	Fonte ligada ao processo disse à Lusa que, durante a manhã, o coletivo de juízes ouviu o suspeito, que negou os crimes de que está acusado, e as declarações para memória futura das alegadas vítimas. 
+	O julgamento prossegue da parte da tarde, estando já marcada uma nova sessão para o dia 4 de outubro. 
+	O arguido é um cidadão estrangeiro radicado com a família em Portugal há vários anos, que trabalhava num centro de explicações, situado no concelho de Estarreja. 
+	O caso foi denunciado à PJ pelos pais das crianças. 
+	O alegado abusador, que foi detido pela Polícia Judiciária (PJ) em abril de 2016, está acusado de seis crimes de abuso sexual de crianças. 
+	Na altura da detenção, a PJ disse que os indícios recolhidos pelos investigadores indicavam que a conduta delituosa "perdurava desde há cerca de três anos". 
+	O detido, que se encontra em liberdade, está proibido de contactar com as vítimas e de frequentar o centro de explicações onde trabalhava.
+	</newstext>
+	
+	<Sentences num="9">
+	</Sentences>
+	
+	<sent1 desc="O Tribunal de Aveiro começou a julgar, esta terça-feira, um explicador, de 44 anos, suspeito de ter abusado sexualmente de seis meninas, com nove e dez anos. ">
+		<NE>
+			<Organization>Tribunal de Aveiro</Organization>
+			<Time>terça-feira</Time>
+			<Numeric>44</Numeric>
+		</NE>
+	</sent1>
+		
+	<sent2 desc="O julgamento está a decorrer à porta fechada, com exclusão de publicidade, por se tratar de um processo relacionado com crimes sexuais sobre menores.">
+		<NE>
+			
+		</NE>
+	</sent2>
+		
+	<sent3 desc="Fonte ligada ao processo disse à Lusa que, durante a manhã, o coletivo de juízes ouviu o suspeito, que negou os crimes de que está acusado, e as declarações para memória futura das alegadas vítimas.">
+		<NE>
+			<Organization>Lusa</Organization>
+		</NE>
+	</sent3>
+		
+	<sent4 desc="O julgamento prossegue da parte da tarde, estando já marcada uma nova sessão para o dia 4 de outubro. ">
+		<NE>
+			<Time>4 de outubro</Time>
+		</NE>
+	</sent4>
+		
+	<sent5 desc="O arguido é um cidadão estrangeiro radicado com a família em Portugal há vários anos, que trabalhava num centro de explicações, situado no concelho de Estarreja.">
+		<NE>
+			<Organization>Portugal</Organization>
+			<Organization>Estarreja</Organization>
+		</NE>
+	</sent5>
+		
+	<sent6 desc="O caso foi denunciado à PJ pelos pais das crianças.">
+		<NE>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent6>
+		
+	<sent7 desc="O alegado abusador, que foi detido pela Polícia Judiciária (PJ) em abril de 2016, está acusado de seis crimes de abuso sexual de crianças. ">
+		<NE>
+			<Organization>Polícia Judiciária </Organization>
+			<Organization>PJ</Organization>
+			<Time>abril de 2016</Time>
+			<crimetype>abuso sexual de crianças</crimetype>
+		</NE>
+	</sent7>
+		
+	<sent8 desc="Na altura da detenção, a PJ disse que os indícios recolhidos pelos investigadores indicavam que a conduta delituosa 'perdurava desde há cerca de três anos'. ">
+		<NE>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O detido, que se encontra em liberdade, está proibido de contactar com as vítimas e de frequentar o centro de explicações onde trabalhava.">
+		<NE>
+			
+		</NE>
+	</sent9>
+	
+</news053>

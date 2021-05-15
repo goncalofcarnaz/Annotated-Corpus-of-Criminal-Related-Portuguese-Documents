@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr043>
+    <docname>newspgr043</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>27-09-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Violação. Sequestro. Lenocínio. Prisão preventiva. DIAP de Lisboa/Sede.</title>
+    <text>Informa-se, que foi detido, a 20-09-2019, e posteriormente presente ao JIC para primeiro interrogatório judicial um arguido que ficou fortemente indiciado pela prática de um crime de violência doméstica, dois crimes de violação, dois crimes de sequestro e um crime de lenocínio.
+		Segundo os fortes indícios recolhidos, o arguido, de 45 anos, casado desde 2014 com a ofendida, com quem tem dois filhos menores, desde o início do relacionamento que a agride física e psicologicamente e na presença dos filhos do casal.
+		Durante o período referido o arguido, por duas vezes, manteve relações sexuais com a ofendida contra a sua vontade, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a de morte. 
+		Outras vezes o arguido manteve a ofendida retida no interior da habitação do casal, sem permitir que a ofendida saísse da mesma, efetuando filmagens em que a vítima se encontrava nua, humilhando-a.
+		Além do mais, o arguido colocou anúncios publicitários que anunciavam serviços sexuais prestados pela ofendida, sua mulher, a fim de fomentar, proporcionar e favorecer a prática de atos sexuais remunerados, por parte da vítima, beneficiando aquele dos proventos económicos gerados por esses relacionamentos sexuais remunerados.
+		No primeiro interrogatório foram aplicadas ao arguido as medidas de coação de prisão preventiva e, ainda, a de proibição de contactos com a ofendida e seus familiares, por qualquer meio ou por interposta pessoa, por se julgarem verificados, em concreto, os perigos de perigo de fuga, de continuação da atividade criminosa e perturbação do inquérito.
+		A investigação prossegue sob a direção do MP da 7ª secção do DIAP de Lisboa, com a coadjuvação da PSP.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido, a 20-09-2019, e posteriormente presente ao JIC para primeiro interrogatório judicial um arguido que ficou fortemente indiciado pela prática de um crime de violência doméstica, dois crimes de violação, dois crimes de sequestro e um crime de lenocínio.">
+		<NE>
+			<Time>20-09-2019</Time>
+			<Organization>JIC</Organization>
+			<crimetype>violência doméstica</crimetype>
+			<crimetype>violação</crimetype>
+			<crimetype>sequestro</crimetype>
+			<crimetype>lenocínio</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, de 45 anos, casado desde 2014 com a ofendida, com quem tem dois filhos menores, desde o início do relacionamento que a agride física e psicologicamente e na presença dos filhos do casal.">
+		<NE>
+			<Numeric>45 anos</Numeric>
+			<Time>2014</Time>
+			
+		</NE>
+	</sent2>
+	
+	
+	<sent3 desc="Durante o período referido o arguido, por duas vezes, manteve relações sexuais com a ofendida contra a sua vontade, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a de morte. ">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="Outras vezes o arguido manteve a ofendida retida no interior da habitação do casal, sem permitir que a ofendida saísse da mesma, efetuando filmagens em que a vítima se encontrava nua, humilhando-a.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Além do mais, o arguido colocou anúncios publicitários que anunciavam serviços sexuais prestados pela ofendida, sua mulher, a fim de fomentar, proporcionar e favorecer a prática de atos sexuais remunerados, por parte da vítima, beneficiando aquele dos proventos económicos gerados por esses relacionamentos sexuais remunerados.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	
+	<sent6 desc="No primeiro interrogatório foram aplicadas ao arguido as medidas de coação de prisão preventiva e, ainda, a de proibição de contactos com a ofendida e seus familiares, por qualquer meio ou por interposta pessoa, por se julgarem verificados, em concreto, os perigos de perigo de fuga, de continuação da atividade criminosa e perturbação do inquérito.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="A investigação prossegue sob a direção do MP da 7ª secção do DIAP de Lisboa, com a coadjuvação da PSP.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>7ª secção do DIAP de Lisboa</Organization>
+			<Organization>PSP</Organization>
+			
+		</NE>
+	</sent7>
+	
+	
+	
+	
+</newspgr043>

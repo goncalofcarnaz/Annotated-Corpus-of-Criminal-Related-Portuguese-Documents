@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><news104>
+    <docname>news104</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>22 Março 2018</publicationdate>
+    <title>PJ desmantela rede de burla europeia em Portugal.</title>
+    <newstext>A PJ desmantelou em Portugal um centro de emissão da chamada burla das "cartas da Nigéria" e que visava vários países europeus, tendo detido um dos principais responsáveis da organização. 
+	Em comunicado emitido esta quinta-feira, a Polícia Judiciária adianta que através deste centro eram praticados crimes de burla informática, falsificação de documentos e branqueamento de capitais. 
+	No âmbito da operação, desenvolvida pela Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica (UNC3T) da PJ, foi detido um dos principais responsáveis da organização e constituída arguida uma outra pessoa. 
+	Este tipo de burlas, com o nome de cartas da Nigéria, é um esquema fraudulento antigo, que tem evoluído ao longo dos anos, com diferenças nas promessas e nas justificações para usar as contas bancárias das vítimas. 
+	Normalmente, este esquema usa um alegado remetente da Nigéria que precisa de uma transferência urgente, para conseguir obter dados das vítimas com promessas de pagamentos em dinheiro, oriundos de lotarias ou de heranças. 
+	No comunicado, a PJ refere que foi apreendida diversa documentação com interesse probatório, bem como vários sistemas informáticos e de telecomunicações, estando já em exame digital forense.  
+	A PJ sublinha que, uma análise preliminar permitiu equacionar ter sido desmantelado um ponto de emissão de "cartas da Nigéria" destinadas a vítimas de várias nacionalidades na Europa. 
+	A Polícia Judiciária ativou canais de cooperação policial internacional e a investigação vai continuar tendo em vista a determinação da extensão da atividade criminosa. 
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	
+	<sent1 desc="A PJ desmantelou em Portugal um centro de emissão da chamada burla das 'cartas da Nigéria' e que visava vários países europeus, tendo detido um dos principais responsáveis da organização.">
+		<NE>
+			<Organization>PJ</Organization>
+			<Place>Portugal</Place>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Em comunicado emitido esta quinta-feira, a Polícia Judiciária adianta que através deste centro eram praticados crimes de burla informática, falsificação de documentos e branqueamento de capitais. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<crimetype>burla informática</crimetype>
+			<crimetype>falsificação de documentos</crimetype>
+			<crimetype>branqueamento de capitais</crimetype>
+		</NE>
+	</sent2>
+	
+	
+	<sent3 desc="No âmbito da operação, desenvolvida pela Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica (UNC3T) da PJ, foi detido um dos principais responsáveis da organização e constituída arguida uma outra pessoa.">
+		<NE>
+			<Organization>Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica da PJ</Organization>
+			<Organization>UNC3T</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Este tipo de burlas, com o nome de cartas da Nigéria, é um esquema fraudulento antigo, que tem evoluído ao longo dos anos, com diferenças nas promessas e nas justificações para usar as contas bancárias das vítimas. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Normalmente, este esquema usa um alegado remetente da Nigéria que precisa de uma transferência urgente, para conseguir obter dados das vítimas com promessas de pagamentos em dinheiro, oriundos de lotarias ou de heranças. ">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="No comunicado, a PJ refere que foi apreendida diversa documentação com interesse probatório, bem como vários sistemas informáticos e de telecomunicações, estando já em exame digital forense.  ">
+		<NE>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A PJ sublinha que, uma análise preliminar permitiu equacionar ter sido desmantelado um ponto de emissão de 'cartas da Nigéria' destinadas a vítimas de várias nacionalidades na Europa. ">
+		<NE>
+			<Organization>PJ</Organization>
+			<Place>Europa</Place>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A Polícia Judiciária ativou canais de cooperação policial internacional e a investigação vai continuar tendo em vista a determinação da extensão da atividade criminosa. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+		</NE>
+	</sent8>
+	
+</news104>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><news019>
+    <docname>news019</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>8 Julho de 2017</publicationdate>
+    <title>Morte no parto na Bissaya Barreto alvo de queixa-crime.</title>
+    <newstext>Flávia Pinto, 35 anos, estava prestes a ver nascer a segunda filha e vivia um momento de plena felicidade. 
+	Quando, a 27 de junho, deu entrada na Maternidade Bissaya Barreto, em Coimbra, grávida de 38 semanas, tinha indicação para ser submetida a cesariana mas os médicos terão decidido fazer a intervenção apenas no dia seguinte porque a mulher tinha jantado e não poderia ser anestesiada. 
+	Durante a noite, Flávia sofreu uma hemorragia interna que lhe matou a bebé e a deixou em coma, com prognóstico muito reservado, conta a família que fala em negligência médica e vai apresentar queixa-crime no Ministério Público. 
+	A mulher, animadora sociocultural num infantário da Figueira da Foz, mãe de uma menina de quatro anos, já tinha “histórico de cesariana” por “não fazer a dilatação suficiente”. 
+	No dia 27, “estava com contrações de cinco em cinco minutos, mas os médicos decidiram sedá-la para passar a noite e fariam a cesariana de manhã”, conta Joana Monteiro, prima. 
+	O marido de Flávia recebeu uma chamada da maternidade a dar conta que “algo de grave tinha acontecido”. 
+	Quando lá chegou, explicaram-lhe “que como a bebé queria nascer, fez força para o outro lado e rebentou a placenta e o útero onde já tinha a costura do parto anterior, o que lhe provocou uma hemorragia interna”, explica a familiar.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	
+	<sent1 desc="Flávia Pinto, 35 anos, estava prestes a ver nascer a segunda filha e vivia um momento de plena felicidade. ">
+		<NE>
+			<Person>Flávia Pinto</Person>
+			<Numeric>35</Numeric>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Quando, a 27 de junho, deu entrada na Maternidade Bissaya Barreto, em Coimbra, grávida de 38 semanas, tinha indicação para ser submetida a cesariana mas os médicos terão decidido fazer a intervenção apenas no dia seguinte porque a mulher tinha jantado e não poderia ser anestesiada. . ">
+		<NE>
+			<Organization>Maternidade Bissaya Barreto</Organization>
+			<Time>27 de junho</Time>
+			<Place>Coimbra</Place>
+			<Numeric>38 semanas</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Durante a noite, Flávia sofreu uma hemorragia interna que lhe matou a bebé e a deixou em coma, com prognóstico muito reservado, conta a família que fala em negligência médica e vai apresentar queixa-crime no Ministério Público.  ">
+		<NE>
+			<Person>Flávia</Person>
+			<Organization>Ministério Público</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="A mulher, animadora sociocultural num infantário da Figueira da Foz, mãe de uma menina de quatro anos, já tinha 'histórico de cesariana' por 'não fazer a dilatação suficiente'. ">
+		<NE>
+			<Place>Figueira da Foz</Place>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="No dia 27, 'estava com contrações de cinco em cinco minutos, mas os médicos decidiram sedá-la para passar a noite e fariam a cesariana de manhã', conta Joana Monteiro, prima.  ">
+		<NE>
+			<Time>dia 27</Time>
+			<Person>Joana Monteiro</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O marido de Flávia recebeu uma chamada da maternidade a dar conta que 'algo de grave tinha acontecido'.">
+		<NE>
+			<Person>Flávia</Person>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Quando lá chegou, explicaram-lhe 'que como a bebé queria nascer, fez força para o outro lado e rebentou a placenta e o útero onde já tinha a costura do parto anterior, o que lhe provocou uma hemorragia interna', explica a familiar.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	
+</news019>

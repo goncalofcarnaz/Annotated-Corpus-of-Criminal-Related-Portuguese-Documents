@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><news052>
+    <docname>news052</docname>
+    <authors>['Global Media Group']</authors>
+    <publicationdate>26 Setembro 2018</publicationdate>
+    <title>Detido em flagrante por pornografia de menores fica em liberdade.</title>
+    <newstext>Um homem foi detido, em flagrante, por pornografia de menores, em Olhão, no Algarve. 
+	Tinha largas dezenas de fotografias de crianças, que foram apreendidas pela Polícia Judiciária (PJ). 
+	O suspeito foi presente a tribunal esta quarta-feira e ficou em liberdade. 
+	É casado e tem uma filha de sete anos. 
+	O arguido, de 37 anos, foi detido em casa por inspetores da Diretoria do Sul da PJ. 
+	Seguiu-se uma busca domiciliária e os exames prévios ao computador e telemóvel que confirmaram as suspeitas. 
+	Foram encontradas dezenas de ficheiros com imagens de meninas e meninos, menores de 14 anos, com conteúdo pornográfico. 
+	Fontes próximas da investigação revelaram ao JN que há fotografias de crianças "muito pequenas". 
+	O computador e o telemóvel foram apreendidos e vão ser sujeitos a peritagens exaustivas. 
+	Para já, os dados recolhidos pelos investigadores apontam para a posse de fotografias com conteúdo pornográfico explícito, não estando excluída a possibilidade de o arguido também partilhar o material através da Internet. 
+	Presente a primeiro interrogatório judicial, o operário da construção civil, português, ficou em liberdade, sujeito a apresentações periódicas às autoridades. 
+	Esta foi a segunda detenção por pornografia de menores, em menos de uma semana, no Algarve. 
+	No dia 19, o Departamento de Investigação Criminal de Portimão da PJ deteve, também em flagrante delito, um homem de 23 anos de idade, de nacionalidade estrangeira, e apreendeu dezenas de fotografias de menores com conteúdo pornográfico. 
+	Está também em liberdade, com apresentações semanais às autoridades e proibido de aceder à internet. 
+	Já tinha antecedentes pelo mesmo tipo de crime.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Um homem foi detido, em flagrante, por pornografia de menores, em Olhão, no Algarve. ">
+		<NE>
+			<crimetype>pornografia de menores</crimetype>
+			<Place>Olhão</Place>
+			<Place>Algarve</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Tinha largas dezenas de fotografias de crianças, que foram apreendidas pela Polícia Judiciária (PJ). ">
+		<NE>
+			<Organization>Polícia Judiciária </Organization>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O suspeito foi presente a tribunal esta quarta-feira e ficou em liberdade. ">
+		<NE>
+			<Time>quarta-feira</Time>
+			<Organization>tribunal</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="É casado e tem uma filha de sete anos. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O arguido, de 37 anos, foi detido em casa por inspetores da Diretoria do Sul da PJ. ">
+		<NE>
+			<Numeric>37</Numeric>
+			<Organization>Diretoria do Sul da PJ</Organization>
+		</NE>
+	</sent5>
+		
+	<sent6 desc="Seguiu-se uma busca domiciliária e os exames prévios ao computador e telemóvel que confirmaram as suspeitas.">
+		<NE>
+		
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Foram encontradas dezenas de ficheiros com imagens de meninas e meninos, menores de 14 anos, com conteúdo pornográfico. ">
+		<NE>
+			<Numeric>14</Numeric>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Fontes próximas da investigação revelaram ao JN que há fotografias de crianças 'muito pequenas'. ">
+		<NE>
+			<Organization>JN</Organization>
+		</NE>
+	</sent8>
+	
+	
+	<sent9 desc="O computador e o telemóvel foram apreendidos e vão ser sujeitos a peritagens exaustivas. ">
+		<NE>
+		
+		</NE>
+	</sent9>
+
+	<sent10 desc="Para já, os dados recolhidos pelos investigadores apontam para a posse de fotografias com conteúdo pornográfico explícito, não estando excluída a possibilidade de o arguido também partilhar o material através da Internet.">
+		<NE>
+		
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Presente a primeiro interrogatório judicial, o operário da construção civil, português, ficou em liberdade, sujeito a apresentações periódicas às autoridades.">
+		<NE>
+		
+		</NE>
+	</sent11>
+	
+	<sent12 desc="Esta foi a segunda detenção por pornografia de menores, em menos de uma semana, no Algarve.">
+		<NE>
+			<crimetype> pornografia de menores</crimetype>
+			<Place>Algarve</Place>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="No dia 19, o Departamento de Investigação Criminal de Portimão da PJ deteve, também em flagrante delito, um homem de 23 anos de idade, de nacionalidade estrangeira, e apreendeu dezenas de fotografias de menores com conteúdo pornográfico.">
+		<NE>
+			<Numeric>19</Numeric>
+			<Organization>Departamento de Investigação Criminal de Portimão da PJ</Organization>
+			<Numeric>23</Numeric>
+		</NE>
+	</sent13>
+	
+	<sent14 desc="Está também em liberdade, com apresentações semanais às autoridades e proibido de aceder à internet. ">
+		<NE>
+			
+		</NE>
+	</sent14>
+	
+	<sent15 desc="Já tinha antecedentes pelo mesmo tipo de crime.">
+		<NE>
+		
+		</NE>
+	</sent15>
+	
+</news052>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><news018>
+    <docname>news018</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>15 Setembro de  2017</publicationdate>
+    <title>Detido suspeito de crime de pornografia de menores.</title>
+    <newstext>A Polícia Judiciária (PJ), através do Departamento de Investigação Criminal de Aveiro, identificou e deteve um homem de 20 anos, serralheiro, “fortemente indiciado pela prática do crime de pornografia de menores”. 
+	Em nota publicada no seu site, a PJ explica que “a investigação surgiu no âmbito do combate internacional à pornografia infantil, em articulação com autoridades estrangeiras”, podendo concluir-se “que o suspeito se dedicava ativamente à obtenção e à divulgação de vídeos e de imagens de cariz pornográfico, em que eram intervenientes crianças e jovens em práticas sexuais explícitas, através de uma rede social”.</newstext>
+
+	<Sentences num="2">
+	</Sentences>
+	
+	<sent1 desc="A Polícia Judiciária, através do Departamento de Investigação Criminal de Aveiro, identificou e deteve um homem de 20 anos, serralheiro, 'fortemente indiciado pela prática do crime de pornografia de menores'.">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>Departamento de Investigação Criminal de Aveiro</Organization>
+			<Numeric>20</Numeric>
+			<crimetype>pornografia de menores</crimetype>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Em nota publicada no seu site, a PJ explica que 'a investigação surgiu no âmbito do combate internacional à pornografia infantil, em articulação com autoridades estrangeiras', podendo concluir-se 'que o suspeito se dedicava ativamente à obtenção e à divulgação de vídeos e de imagens de cariz pornográfico, em que eram intervenientes crianças e jovens em práticas sexuais explícitas, através de uma rede social'.">
+		<NE>
+			<Organization>PJ</Organization>
+			<crimetype>pornografia infantil</crimetype>
+			
+		</NE>
+	</sent2>
+	
+	
+	</news018>

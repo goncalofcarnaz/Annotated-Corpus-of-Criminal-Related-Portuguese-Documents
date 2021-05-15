@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><news021>
+    <docname>news021</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>29 Março de 2017</publicationdate>
+    <title>“Arrependido” do crime apesar de ter levado uma “grande malha".</title>
+    <newstext>O homem de 44 anos acusado de matar um outro e de tentar matar outros dois, irmãos da ex-companheira, mostrou-se ontem “arrependido” pelos factos ocorridos na tarde de 22 de maio de 2016 em Santa Clara. 
+	Nas declarações prestadas durante a sessão inaugural do julgamento, que ontem decorreu no Tribunal de Coimbra. 
+	Afirmou que nunca foi sua intenção tirar a vida à vítima Ricardo.“Estou muito arrependido”, frisou.
+	Em relação ao teor da acusação, o arguido teve oportunidade de dar conta da sua versão dos factos. 
+	Em primeiro lugar, confirmou o relacionamento “bastante conflituoso” com os dois irmãos da ex-companheira e que levaram a que, no início de 2015, tivesse atirado uma panela de água a ferver contra um dos ofendidos. 
+	Uma situação que resultou de uma discussão onde o ofendido lhe terá espetado “uma faca da cozinha no abdómen”. 
+	Sobre o facto da queixa não ter prosseguido, o arguido mostrou o seu desconhecimento, apesar de haver registo de entrada no serviço de urgência do CHUC.
+	</newstext>
+	
+	<Sentences num="7">
+	</Sentences>
+	
+	<sent1 desc="O homem de 44 anos acusado de matar um outro e de tentar matar outros dois, irmãos da ex-companheira, mostrou-se ontem 'arrependido' pelos factos ocorridos na tarde de 22 de maio de 2016 em Santa Clara.">
+		<NE>
+			<Numeric>44</Numeric>
+			 <Time>22 de maio de 2016</Time>
+			<Place>Santa Clara</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Nas declarações prestadas durante a sessão inaugural do julgamento, que ontem decorreu no Tribunal de Coimbra. .">
+		<NE>
+			<Organization>Tribunal de Coimbra</Organization>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Afirmou que nunca foi sua intenção tirar a vida à vítima Ricardo.'Estou muito arrependido', frisou.">
+		<NE>
+			<Person>Ricardo</Person>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Em relação ao teor da acusação, o arguido teve oportunidade de dar conta da sua versão dos factos. ">
+		<NE>
+		
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Em primeiro lugar, confirmou o relacionamento 'bastante conflituoso' com os dois irmãos da ex-companheira e que levaram a que, no início de 2015, tivesse atirado uma panela de água a ferver contra um dos ofendidos. ">
+		<NE>
+			<Time>2015</Time>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Uma situação que resultou de uma discussão onde o ofendido lhe terá espetado 'uma faca da cozinha no abdómen'. ">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Sobre o facto da queixa não ter prosseguido, o arguido mostrou o seu desconhecimento, apesar de haver registo de entrada no serviço de urgência do CHUC. ">
+		<NE>
+			<Organization>serviço de urgência do CHUC</Organization>
+		</NE>
+	</sent7>
+	
+</news021>

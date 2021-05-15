@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><news059>
+    <docname>news059</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>10 Setembro 2018</publicationdate>
+    <title>Mulher encontrada morta com sinais de violência em Marvila.</title>
+    <newstext>Uma mulher, de cerca de 45 anos, foi encontrada morta, esta segunda-feira de manhã, em Marvila, Lisboa. 
+	Corpo apresentava sinais de violência foi chamada a Polícia Judiciária. 
+	O corpo da mulher foi encontrado pela PSP numa barraca de apoio às hortas que existem num terreno baldio na avenida Carlos Pinhão, em Marvila, Lisboa. 
+	A PSP, alertada pelas 8.20 horas da manhã desta segunda-feira, deslocou-se ao local, assim como uma ambulância do INEM, que confirmou o óbito. 
+	"Tendo a forma como foi encontrada, com hematomas e escoriações, tudo leva a crer que se trata de um crime. 
+	Foi chamada a Polícia Judiciária, que tomou conta da ocorrência", disse ao JN fonte do Comando Metropolitano da PSP de Lisboa. 
+	A mulher, que terá cerca de 45 anos, era conhecida das pessoas que moram nas imediações do local onde foi encontrada morta.
+	</newstext>
+	
+	<Sentences num="7">
+	</Sentences>
+	
+	<sent1 desc="Uma mulher, de cerca de 45 anos, foi encontrada morta, esta segunda-feira de manhã, em Marvila, Lisboa. ">
+		<NE>
+			<Numeric>45</Numeric>
+			<Time>segunda-feira</Time>
+			<Place>Marvila</Place>
+			<Place>Lisboa</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Corpo apresentava sinais de violência foi chamada a Polícia Judiciária. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O corpo da mulher foi encontrado pela PSP numa barraca de apoio às hortas que existem num terreno baldio na avenida Carlos Pinhão, em Marvila, Lisboa. ">
+		<NE>
+			<Organization>PSP</Organization>
+			<Place>avenida Carlos Pinhão</Place>
+			<Place>Marvila</Place>
+			<Place>Lisboa</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="A PSP, alertada pelas 8.20 horas da manhã desta segunda-feira, deslocou-se ao local, assim como uma ambulância do INEM, que confirmou o óbito. ">
+		<NE>
+			<Organization>PSP</Organization>
+			<Time>8.20</Time>
+			<Time>segunda-feira</Time>
+			<Organization>INEM</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Tendo a forma como foi encontrada, com hematomas e escoriações, tudo leva a crer que se trata de um crime. ">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Foi chamada a Polícia Judiciária, que tomou conta da ocorrência, disse ao JN fonte do Comando Metropolitano da PSP de Lisboa. ">
+		<NE>
+			<Organization>JN</Organization>
+			<Organization>Comando Metropolitano da PSP de Lisboa</Organization>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A mulher, que terá cerca de 45 anos, era conhecida das pessoas que moram nas imediações do local onde foi encontrada morta.">
+		<NE>
+			<Numeric>45</Numeric>
+		</NE>
+	</sent7>
+	
+	
+	
+</news059>

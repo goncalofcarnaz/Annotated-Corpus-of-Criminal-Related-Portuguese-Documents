@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><news006>
+    <docname>news006</docname>
+    <authors>Diario de Noticias</authors>
+    <publicationdate>09 Maio 2018</publicationdate>
+    <title>Ex-procurador do Ministério Público condenado a prisão efetiva.</title>
+    <newstext>Um ex-procurador do Ministério Público foi condenado a cinco anos e quatro meses de prisão esta quarta-feira por, durante sete anos, ter-se feito passar por advogado e praticar, ilicitamente, atos dessa profissão para duas empresas, desviando mais de 60 mil euros. 
+	Durante a leitura da decisão judicial, no Tribunal São João Novo, no Porto, tendo o arguido, de 59 anos, estado ausente por motivos de doença, a presidente do coletivo de juízes considerou que atuou "com ganância", existindo o perigo de volta a cometer os mesmos atos. 
+	"Há o perigo de repetição dos crimes porque não mostrou arrependimento, nunca se penitenciou pelo mal que fez, nunca interiorizou a culpa", acrescentou. 
+	Por esses motivos, a magistrada entendeu que uma pena de multa não era suficiente, aplicando-lhe uma pena efetiva, sentenciando-o ainda ao pagamento de duas indemnizações, uma de 64 mil euros e outra de 300 euros, às empresas para as quais exerceu indevidamente. 
+	A acusação, cujo teor foi dado quase todo como provado, refere que durante sete anos, entre 2003 e 2010, o arguido se fez passar por advogado e representou duas empresas, uma de produtos de beleza e outra de eletrónica, em Gondomar, distrito do Porto, desviando mais de 60 mil mil euros dos processos em que estava envolvido. 
+	O arguido apresentou requerimentos e tratou de assuntos em 40 processos sem ter cédula profissional, nem estar inscrito na Ordem dos Advogados. 
+	O dinheiro que desviou era relativo a cobranças que deveria interpor contra os devedores das empresas, pertencentes a um amigo seu, sustenta. 
+	Em vez de firmar acordos com os devedores e voltar a entregar o dinheiro às empresas, o arguido ficava com ele, refere a acusação. 
+	Atualmente, o arguido continua a elaborar pareceres para um advogado. 
+	Agora condenado por usurpação de funções, abuso de confiança qualificada, falsificação de documentos e burla qualificada, o ex-procurador, demitido pelo Conselho Superior do Ministério Público, já tem cadastro por usurpação de funções. 
+	À saída do tribunal, o advogado de defesa, Jaime Moreira, admitiu não estar à espera de uma pena tão elevada, nem de uma indemnização tão alta. 
+	"Vou analisar o acórdão e, depois, decidir se vou recorrer", concluiu.
+	</newstext>
+	
+	<Sentences num="12">
+	</Sentences>
+	
+	<sent1 desc="Um ex-procurador do Ministério Público foi condenado a cinco anos e quatro meses de prisão esta quarta-feira por, durante sete anos, ter-se feito passar por advogado e praticar, ilicitamente, atos dessa profissão para duas empresas, desviando mais de 60 mil euros.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Numeric>cinco</Numeric>
+			<Numeric>quatro</Numeric>
+			<Time>quarta-feira</Time>
+			<Numeric>sete</Numeric>
+			<Numeric>60</Numeric>
+		</NE>
+	</sent1>
+	<sent2 desc="Durante a leitura da decisão judicial, no Tribunal São João Novo, no Porto, tendo o arguido, de 59 anos, estado ausente por motivos de doença, a presidente do coletivo de juízes considerou que atuou 'com ganância', existindo o perigo de volta a cometer os mesmos atos.">
+		<NE>
+			<Organization>Tribunal São João Novo</Organization>
+			<Place>Porto</Place>
+			<Numeric>59</Numeric>
+			
+		</NE>
+	</sent2>
+	<sent3 desc="'Há o perigo de repetição dos crimes porque não mostrou arrependimento, nunca se penitenciou pelo mal que fez, nunca interiorizou a culpa', acrescentou.">
+	</sent3>
+	<sent4 desc="Por esses motivos, a magistrada entendeu que uma pena de multa não era suficiente, aplicando-lhe uma pena efetiva, sentenciando-o ainda ao pagamento de duas indemnizações, uma de 64 mil euros e outra de 300 euros, às empresas para as quais exerceu indevidamente.">
+		<NE>
+			<Numeric>64</Numeric>
+			<Numeric>300</Numeric>
+		</NE>
+	</sent4>
+	<sent5 desc="A acusação, cujo teor foi dado quase todo como provado, refere que durante sete anos, entre 2003 e 2010, o arguido se fez passar por advogado e representou duas empresas, uma de produtos de beleza e outra de eletrónica, em Gondomar, distrito do Porto, desviando mais de 60 mil mil euros dos processos em que estava envolvido. ">
+		<NE>
+			<Time>2003</Time>
+			<Time>2010</Time>
+			<Numeric>duas</Numeric>
+			<Place>Gondomar</Place>
+			<Place>Porto</Place>
+			<Numeric>60</Numeric>
+		</NE>
+	</sent5>
+	<sent6 desc="O arguido apresentou requerimentos e tratou de assuntos em 40 processos sem ter cédula profissional, nem estar inscrito na Ordem dos Advogados.">
+		<NE>
+			<Numeric>40</Numeric>
+			<Organization>Ordem dos Advogados</Organization>
+		</NE>
+	</sent6>
+	<sent7 desc="O dinheiro que desviou era relativo a cobranças que deveria interpor contra os devedores das empresas, pertencentes a um amigo seu, sustenta. ">
+	</sent7>
+	<sent8 desc="Em vez de firmar acordos com os devedores e voltar a entregar o dinheiro às empresas, o arguido ficava com ele, refere a acusação. ">
+	</sent8>
+	<sent9 desc="Atualmente, o arguido continua a elaborar pareceres para um advogado. ">	
+		<NE>
+		</NE>
+	</sent9>
+	<sent10 desc="Agora condenado por usurpação de funções, abuso de confiança qualificada, falsificação de documentos e burla qualificada, o ex-procurador, demitido pelo Conselho Superior do Ministério Público, já tem cadastro por usurpação de funções. ">
+		<NE>
+			<crimetype>usurpação de funções</crimetype>
+			<crimetype>abuso de confiança qualificada</crimetype>
+			<crimetype>falsificação de documentos</crimetype>
+			<crimetype>burla qualificada</crimetype>
+			<Organization>Conselho Superior do Ministério Público</Organization>
+			<crimetype>usurpação de funções</crimetype>
+		</NE>
+	</sent10>
+	<sent11 desc="Á saída do tribunal, o advogado de defesa, Jaime Moreira, admitiu não estar à espera de uma pena tão elevada, nem de uma indemnização tão alta.">
+		<NE>
+			<Organization>tribunal</Organization>
+			<Person>Jaime Moreira</Person>
+		</NE>
+		
+	</sent11>
+	
+	<sent12 desc="'Vou analisar o acórdão e, depois, decidir se vou recorrer', concluiu.">
+	</sent12>
+	</news006>

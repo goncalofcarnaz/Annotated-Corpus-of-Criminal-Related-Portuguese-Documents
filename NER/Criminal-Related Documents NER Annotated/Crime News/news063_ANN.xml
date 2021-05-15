@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><news063>
+    <docname>news063</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>29 Agosto 2018</publicationdate>
+    <title>Técnico de Grilo conta à PJ treino "estranho" antes do desaparecimento.</title>
+    <newstext>A Polícia Judiciária ouviu, na terça-feira, o treinador da equipa Wikaboo, a que pertencia Luís Miguel Grilo, o triatleta assassinado com grande violência. 
+	O corpo foi abandonado nu e com um saco na cabeça a mais de 130 quilómetros de casa. 
+	Foi o próprio orientador técnico a confirmar ao JN a sua inquirição, na qual explicou aos investigadores "estranheza" pelo treino escolhido pelo atleta para o dia em que desapareceu, 16 de julho, "contrariando as suas rotinas".
+	</newstext>
+	
+	<Sentences num="3">
+	</Sentences>
+	
+	<sent1 desc="A Polícia Judiciária ouviu, na terça-feira, o treinador da equipa Wikaboo, a que pertencia Luís Miguel Grilo, o triatleta assassinado com grande violência.">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Time>terça-feira</Time>
+			<Organization>Wikaboo</Organization>
+			<Person>Luís Miguel Grilo</Person>
+			
+		</NE>
+	</sent1>
+	
+	
+	<sent2 desc="O corpo foi abandonado nu e com um saco na cabeça a mais de 130 quilómetros de casa. ">
+		<NE>
+			<Numeric>130</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Foi o próprio orientador técnico a confirmar ao JN a sua inquirição, na qual explicou aos investigadores 'estranheza' pelo treino escolhido pelo atleta para o dia em que desapareceu, 16 de julho, 'contrariando as suas rotinas'.">
+		<NE>
+			<Organization>JN</Organization>
+			<Time>16 de julho</Time>
+		</NE>
+	</sent3>
+	
+</news063>

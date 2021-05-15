@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><news005>
+    <docname>news005</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>12 Maio 2018</publicationdate>
+    <title>PSP desmantela grupo de carteiristas no Porto.</title>
+    <newstext> Cinco pessoas foram constituídas arguidas, no Porto, no âmbito de uma operação policial para desmantelar grupos que, de forma organizada, se dedicavam a furtar carteiras, anunciou a Polícia de Segurança Pública (PSP) este sábado. 
+	Os arguidos, três homens e duas mulheres, têm entre 25 e 33 anos, segundo um comunicado da PSP, que refere que a operação decorreu na sexta-feira, no Terreiro da Sé.  
+	Durante aquela "operação policial, cujo propósito assenta na desagregação de grupos de indivíduos que de forma organizada se dedicam à prática dos crimes de furto de carteiras", foram ainda apreendidos 305 euros e uma máquina fotográfica, entre outros objetos, segundo a PSP. 
+	A PSP do Porto já tinha realizado a 10 de maio uma operação policial idêntica na rua Infante D. Henrique, tendo detido três homens e apreendidos 578 euros e uma "carteira contendo documentação de identificação e bancária".
+    Por outro lado, a PSP do Porto deixou um alerta nas redes sociais por causa dos carteiristas na cidade, em que sublinha que a maioria das carteiras é furtada dos bolsos de trás das calças e em que aconselha: 'Se é mais forte que tu, deixa-os levar o tijolo'.
+	 </newstext>
+	<Sentences num="5"></Sentences>
+	
+	<sent1 desc="Cinco pessoas foram constituídas arguidas, no Porto, no âmbito de uma operação policial para desmantelar grupos que, de forma organizada, se dedicavam a furtar carteiras, anunciou a Polícia de Segurança Pública (PSP) este sábado.">
+		<NE>
+			<Numeric>Cinco</Numeric>
+			<Place>Porto</Place>
+			<Organization>Polícia de Segurança Pública</Organization>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent1>
+	<sent2 desc="Os arguidos, três homens e duas mulheres, têm entre 25 e 33 anos, segundo um comunicado da PSP, que refere que a operação decorreu na sexta-feira, no Terreiro da Sé."> 
+		<NE>
+			<Numeric>três</Numeric>
+			<Numeric>duas</Numeric>
+			<Numeric>25</Numeric>
+			<Numeric>33</Numeric>
+			<Organization>PSP</Organization>
+			<Time>sexta-feira</Time>
+			<Place>Terreiro da Sé</Place>
+		</NE>
+	</sent2>
+	<sent3 desc="Durante aquela 'operação policial, cujo propósito assenta na desagregação de grupos de indivíduos que de forma organizada se dedicam à prática dos crimes de furto de carteiras', foram ainda apreendidos 305 euros e uma máquina fotográfica, entre outros objetos, segundo a PSP. ">
+		<NE>
+			<Numeric>305</Numeric>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent3>
+	<sent4 desc="A PSP do Porto já tinha realizado a 10 de maio uma operação policial idêntica na rua Infante D. Henrique, tendo detido três homens e apreendidos 578 euros e uma 'carteira contendo documentação de identificação e bancária'. ">
+		<NE>
+			<Organization>PSP do Porto</Organization>
+			<Time>10 de Maio</Time>
+			<Place>rua Infante D. Henrique</Place>
+			<Numeric>três</Numeric>
+			<Numeric>578</Numeric>
+			
+		</NE>
+	</sent4>
+	<sent5 desc="Por outro lado, a PSP do Porto deixou um alerta nas redes sociais por causa dos carteiristas na cidade, em que sublinha que a maioria das carteiras é furtada dos bolsos de trás das calças e em que aconselha: 'Se é mais forte que tu, deixa-os levar o tijolo'.">
+		<NE>
+			<Organization>PSP do Porto</Organization>
+		</NE>
+	</sent5>
+	</news005>

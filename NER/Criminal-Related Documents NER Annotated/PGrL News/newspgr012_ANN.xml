@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr012>
+    <docname>newspgr012</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>28-10-2019</publicationdate>
+    <title> Detenção. Violência doméstica agravada. Prisão preventiva. DIAP de Mafra/Comarca de Lisboa Oeste.</title>
+    <text>Informa-se que foi detida e apresentada ao JIC, para primeiro interrogatório judicial, no dia 23-10-2019, uma arguida, fortemente indiciada pela prática de um crime de violência doméstica agravado.
+Segundo os fortes indícios recolhidos, a arguida, de nacionalidade estrangeira, residiu com o ofendido cerca de um ano, em união de facto, estando atualmente separados. 
+Desde o início do relacionamento e após a separação que a arguida molestou física e psicologicamente o ofendido. Numa das situações, a arguida atirou com álcool para o corpo do ofendido, tendo-o atingido com o líquido na cara, pescoço, mãos e braços e, logo de seguida, incendiou-o. 
+Em virtude da atuação da arguida o ofendido apresentava queimaduras de 2º grau na face direita, pescoço, braço direito e mãos e queimadura de cílios do olho direito.
+A arguida ficou sujeita à medida de coação de prisão preventiva, proibição de contactos com o ofendido, mesmo em estado de reclusão, por se julgar verificado, em concreto, forte perigo de continuação da atividade criminosa e de fuga.
+A investigação prossegue sob a direção do MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste.
+</text>
+
+<Sentences num="">
+	
+</Sentences>
+	
+<sent1 desc="Informa-se que foi detida e apresentada ao JIC, para primeiro interrogatório judicial, no dia 23-10-2019, uma arguida, fortemente indiciada pela prática de um crime de violência doméstica agravado.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>23-10-2019</Time>
+			<crimetype>violência doméstica agravado</crimetype>
+		</NE>
+	</sent1>
+	
+		
+<sent2 desc="Segundo os fortes indícios recolhidos, a arguida, de nacionalidade estrangeira, residiu com o ofendido cerca de um ano, em união de facto, estando atualmente separados.">
+		<NE>
+			
+		</NE>
+</sent2>
+
+	
+<sent3 desc="Desde o início do relacionamento e após a separação que a arguida molestou física e psicologicamente o ofendido. Numa das situações, a arguida atirou com álcool para o corpo do ofendido, tendo-o atingido com o líquido na cara, pescoço, mãos e braços e, logo de seguida, incendiou-o.">
+		<NE>
+			
+		</NE>
+</sent3>
+	
+<sent4 desc="Em virtude da atuação da arguida o ofendido apresentava queimaduras de 2º grau na face direita, pescoço, braço direito e mãos e queimadura de cílios do olho direito.">
+		<NE>
+			<Numeric>2º</Numeric>
+		</NE>
+</sent4>
+	
+<sent5 desc="A arguida ficou sujeita à medida de coação de prisão preventiva, proibição de contactos com o ofendido, mesmo em estado de reclusão, por se julgar verificado, em concreto, forte perigo de continuação da atividade criminosa e de fuga.">
+		<NE>
+			
+		</NE>
+</sent5>
+	
+<sent6 desc="A investigação prossegue sob a direção do MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste</Organization>
+		</NE>
+</sent6>
+
+</newspgr012>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr070>
+    <docname>newspgr070</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>17-07-2019</publicationdate>
+    <title> Acusação. Violação da autonomia sindical. Ato discriminatório. DIAP Lisboa/Sede.</title>
+    <text>O MP requereu o julgamento, em tribunal singular, de dois arguidos, uma pessoa singular e outra coletiva, pela prática de crimes de violação da autonomia sindical e de ato discriminatório assim como de contraordenações.
+	No essencial está indiciado que, em 18 de abril de 2017 iniciou-se o processo conciliatório de revisão da tabela salarial e das cláusulas de expressão pecuniária dos acordos de empresas, que ocorreu na Direcao Geral do Emprego e das Relações do Trabalho, entre seis sindicatos ligados à aviação e os arguidos. 
+	Ao celebrarem o “Acordo de Revisão das Tabelas Salariais 2017” e ao terem escolhido o critério da filiação ou da não filiação nos sindicatos, designadamente, quanto ao prémio do pagamento previsto na cláusula segunda daquele acordo, que não revestia as formalidades de um instrumento de regulamentação coletiva de trabalho, mas tratando-se de um ato de gestão da empresa, os arguidos impediram e dificultaram o exercício do direito destes Sindicatos como associações sindicais, bem como beneficiaram trabalhadores em detrimento de outros, nomeadamente os que se encontravam sindicalizados nestes Sindicatos. 
+	Na verdade a defesa dos direitos e dos trabalhadores que as associações representam, compete apenas nos termos da lei a essas associações sindicais, e somente a elas não podendo o arguido e a sociedade arguida exercê-los de modo próprio como tal ocorreu.
+	Os arguidos encontram-se sujeitos à medida de coação de TIR.
+	A investigação foi efetuada sob a direção da 4ª Secção MP do DIAP- de Lisboa/sede.
+	</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="O MP requereu o julgamento, em tribunal singular, de dois arguidos, uma pessoa singular e outra coletiva, pela prática de crimes de violação da autonomia sindical e de ato discriminatório assim como de contraordenações.">
+		<NE>
+			<Organization>MP</Organization>
+		</NE>
+	</sent1>
+
+	<sent2 desc="No essencial está indiciado que, em 18 de abril de 2017 iniciou-se o processo conciliatório de revisão da tabela salarial e das cláusulas de expressão pecuniária dos acordos de empresas, que ocorreu na Direcao Geral do Emprego e das Relações do Trabalho, entre seis sindicatos ligados à aviação e os arguidos.">
+		<NE>
+			<Time>18 de abril de 2017</Time>
+			<Organization>Direcao Geral do Emprego e das Relações do Trabalho</Organization>
+		</NE>
+	</sent2>
+
+	
+	<sent3 desc="Ao celebrarem o “Acordo de Revisão das Tabelas Salariais 2017” e ao terem escolhido o critério da filiação ou da não filiação nos sindicatos, designadamente, quanto ao prémio do pagamento previsto na cláusula segunda daquele acordo, que não revestia as formalidades de um instrumento de regulamentação coletiva de trabalho, mas tratando-se de um ato de gestão da empresa, os arguidos impediram e dificultaram o exercício do direito destes Sindicatos como associações sindicais, bem como beneficiaram trabalhadores em detrimento de outros, nomeadamente os que se encontravam sindicalizados nestes Sindicatos.">
+		<NE>
+			
+		</NE>
+	</sent3>
+
+	
+	<sent4 desc="Na verdade a defesa dos direitos e dos trabalhadores que as associações representam, compete apenas nos termos da lei a essas associações sindicais, e somente a elas não podendo o arguido e a sociedade arguida exercê-los de modo próprio como tal ocorreu.">
+		<NE>
+			
+		</NE>
+	</sent4>
+
+	<sent5 desc="Os arguidos encontram-se sujeitos à medida de coação de TIR.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A investigação foi efetuada sob a direção da 4ª Secção MP do DIAP- de Lisboa/sede.">
+		<NE>
+			<Organization>4ª Secção MP do DIAP- de Lisboa/sede</Organization>
+		</NE>
+	</sent6>
+	
+</newspgr070>

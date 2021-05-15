@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><news061>
+    <docname>news061</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>30 de Agosto de 2018</publicationdate>
+    <title>Magistrado autorizou devolução de armas a doente psiquiátrico.</title>
+    <newstext>José Figueiredo reclamou armas que lhe tinham sido apreendidas. 
+	Na terça-feira, matou a mulher a tiro. 
+	Foi com base num despacho do Ministério Público que, há menos de um ano, a PSP devolveu duas armas de fogo ao caçador de Quiaios José Albertino Figueiredo, 53 anos, que veio a matar a esposa, de 48, a tiro, e seria capturado pela GNR, na quarta-feira, numa casa devoluta dos pais, na Figueira da Foz. 
+	As espingardas tinham sido apreendidas a 24 de março de 2017, porque ele tentara suicidar-se, sendo mesmo internado em hospital psiquiátrico, com uma depressão. 
+	</newstext>
+	
+	
+	<Sentences num="4">
+	</Sentences>
+	
+	<sent1 desc="José Figueiredo reclamou armas que lhe tinham sido apreendidas. ">
+		<NE>
+			<Person>José Figueiredo</Person>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Na terça-feira, matou a mulher a tiro. ">
+		<NE>
+			<Time>terça-feira</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Foi com base num despacho do Ministério Público que, há menos de um ano, a PSP devolveu duas armas de fogo ao caçador de Quiaios José Albertino Figueiredo, 53 anos, que veio a matar a esposa, de 48, a tiro, e seria capturado pela GNR, na quarta-feira, numa casa devoluta dos pais, na Figueira da Foz.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>PSP</Organization>
+			<Place>Quiaios</Place>
+			<Person>José Albertino Figueiredo</Person>
+			<Numeric>53</Numeric>
+			<Numeric>48</Numeric>
+			<Organization>GNR</Organization>
+			<Place>Figueira da Foz</Place>
+			<Time>quarta-feira</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="As espingardas tinham sido apreendidas a 24 de março de 2017, porque ele tentara suicidar-se, sendo mesmo internado em hospital psiquiátrico, com uma depressão.">
+		<NE>
+			<Time>24 de março de 2017</Time>
+			
+		</NE>
+	</sent4>
+</news061>

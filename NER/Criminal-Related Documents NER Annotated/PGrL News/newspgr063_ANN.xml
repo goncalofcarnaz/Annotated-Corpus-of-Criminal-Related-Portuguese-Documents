@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr063>
+    <docname>newspgr063</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>08-08-2019</publicationdate>
+    <title>  Detenção. Violência doméstica agravada. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>Foi detido, na sequência de mandados de detenção fora de flagrante delito emitidos pelo Ministério Público, e presente ao JIC, no dia 03.08.2019, para primeiro interrogatório, um arguido indiciado pela prática de um crime de violência doméstica agravado.
+		Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 51 anos, filho da ofendida, de 82 anos, e com a mesma residente, desde o início de 2019 que tinha comportamentos violentos para com a mesma, desferindo-lhe bofetadas e murros, rasteirando-a, empurrando-a, ofendendo a sua honra e consideração.
+		Em 2016 o arguido fora condenado pela prática de dois crimes de violência doméstica, perpetrados contra a sua mãe, na pena de três anos de prisão efetiva e na pena acessória de proibição de contactos com a mesma, pelo período de 5 anos, com a obrigação de afastamento da residência desta. 
+		Porém, no início de 2019, após o cumprimento da pena de prisão em que fora condenado, por não ter onde residir, foi acolhido pela vítima, passando a residir novamente com esta e a ter para com ela o comportamento supra descrito.
+		Ao arguido foram aplicadas as medidas de coação de prisão preventiva e de proibição de contacto com a vítima em razão da verificação do perigo de continuação da actividade criminosa.
+		O inquérito não se encontra em segredo de justiça.
+		A investigação prossegue sob a direção do MP do DIAP de Sintra/Comarca de Lisboa Oeste.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Foi detido, na sequência de mandados de detenção fora de flagrante delito emitidos pelo Ministério Público, e presente ao JIC, no dia 03.08.2019, para primeiro interrogatório, um arguido indiciado pela prática de um crime de violência doméstica agravado.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>JIC</Organization>
+			<Time>03.08.2019</Time>
+			<crimetype>violência doméstica agravado</crimetype>
+		</NE>
+	</sent1>
+
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 51 anos, filho da ofendida, de 82 anos, e com a mesma residente, desde o início de 2019 que tinha comportamentos violentos para com a mesma, desferindo-lhe bofetadas e murros, rasteirando-a, empurrando-a, ofendendo a sua honra e consideração.">
+		<NE>
+			<Numeric>51 anos</Numeric>
+			<Numeric>82 anos</Numeric>
+			<Time>2019</Time>
+		</NE>
+	</sent2>
+
+	<sent3 desc="Em 2016 o arguido fora condenado pela prática de dois crimes de violência doméstica, perpetrados contra a sua mãe, na pena de três anos de prisão efetiva e na pena acessória de proibição de contactos com a mesma, pelo período de 5 anos, com a obrigação de afastamento da residência desta.">
+		<NE>
+			<Time>2016</Time>
+			<Numeric>5 anos</Numeric>
+		</NE>
+	</sent3>
+
+	<sent4 desc="Porém, no início de 2019, após o cumprimento da pena de prisão em que fora condenado, por não ter onde residir, foi acolhido pela vítima, passando a residir novamente com esta e a ter para com ela o comportamento supra descrito.">
+		<NE>
+			<Time>2019</Time>
+		</NE>
+	</sent4>
+
+	<sent5 desc="Ao arguido foram aplicadas as medidas de coação de prisão preventiva e de proibição de contacto com a vítima em razão da verificação do perigo de continuação da actividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent5>
+
+	
+	<sent6 desc="O inquérito não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent6>
+
+	
+	<sent7 desc="A investigação prossegue sob a direção do MP do DIAP de Sintra/Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP do DIAP de Sintra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent7>
+
+	
+		
+</newspgr063>

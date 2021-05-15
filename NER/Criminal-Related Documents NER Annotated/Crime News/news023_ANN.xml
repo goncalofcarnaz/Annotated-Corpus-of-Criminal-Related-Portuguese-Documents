@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><news023>
+    <docname>news023</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>15 Outubro de 2010</publicationdate>
+    <title>Droga e armas no Bolão.</title>
+    <newstext>Quatro moradores do Parque Nómada, no Bolão, começaram ontem a ser julgados no tribunal de Coimbra. 
+	Três deles são acusados da prática, em coautoria, do crime de tráfico de estupefacientes e detenção de arma proibida. 
+	Falsificação de documento para um dos arguidos e detenção de arma proibida para a última arguida são os restantes crimes de que são acusados os quatro elementos. 
+	Dos quatro arguidos – dois homens com 41 e 18 anos e duas mulheres de 53 e 33 anos de idade –, apenas uma delas quis prestar declarações no início do julgamento. 
+	À juíza referiu que a arma encontrada na sua habitação, debaixo da cama, era do irmão. 
+	“Como tem crianças em casa, pediu-me para a guardar”, disse.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Quatro moradores do Parque Nómada, no Bolão, começaram ontem a ser julgados no tribunal de Coimbra.">
+		<NE>
+			<Place>Parque Nómada</Place>
+			<Place>Bolão</Place>
+			<Organization>tribunal de Coimbra</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Três deles são acusados da prática, em coautoria, do crime de tráfico de estupefacientes e detenção de arma proibida.">
+		<NE>
+			<crimetype>tráfico de estupefacientes</crimetype>
+			<crimetype>detenção de arma proibida</crimetype>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Falsificação de documento para um dos arguidos e detenção de arma proibida para a última arguida são os restantes crimes de que são acusados os quatro elementos.">
+		<NE>
+			<crimetype>Falsificação de documentos</crimetype>
+			<crimetype>detenção de arma proibida</crimetype>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Dos quatro arguidos – dois homens com 41 e 18 anos e duas mulheres de 53 e 33 anos de idade –, apenas uma delas quis prestar declarações no início do julgamento.">
+		<NE>
+			<Numeric>41</Numeric>
+			<Numeric>18</Numeric>
+			<Numeric>53</Numeric>
+			<Numeric>33</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent4 desc="À juíza referiu que a arma encontrada na sua habitação, debaixo da cama, era do irmão. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent4 desc="'Como tem crianças em casa, pediu-me para a guardar', disse. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+</news023>

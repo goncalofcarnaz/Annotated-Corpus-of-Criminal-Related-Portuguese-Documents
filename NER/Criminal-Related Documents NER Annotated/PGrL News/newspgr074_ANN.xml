@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr074>
+    <docname>newspgr074</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>12-07-2019</publicationdate>
+    <title> Detenção. Burla qualificada. DIAP de Lisboa/Sede.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foi detida e apresentada ao JIC para primeiro interrogatório judicial, no dia 11.07.2019, uma arguida que ficou fortemente indiciada pela prática de um crime de burla qualificada.
+	Segundo os fortes indícios recolhidos, pelo menos desde setembro de 2018 até à presente, a arguida dedicou-se a publicitar na internet, designadamente nos sites OLX e Custo Justo, o arrendamento de apartamentos e de quartos que não lhe pertenciam e cujos fotografias obteve on line, apenas com o intuito de levar os ofendidos a pagar determinados montantes, pensando que estavam a liquidar os valores referentes a caução e/ou a rendas de apartamentos/quartos que aquela alegava ser da sua propriedade, sem que, na verdade, tivesse a intenção de lhes arrendar qualquer apartamento ou quarto, mas apenas de se apropriar das referidas quantias, as quais lhe eram transferidas para a sua conta bancária.
+	Com tal atuação a arguida obteve proveito económico ilícito no valor aproximado de, pelo menos, 4.815,50.
+	À arguida foi aplicada a medida de coação de apresentações periódicas bissemanais do posto policial da área da sua residência.
+	A investigação prossegue sob a direção do MP na 3ª secção do DIAP de Lisboa/sede.
+
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc=" A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi detida e apresentada ao JIC para primeiro interrogatório judicial, no dia 11.07.2019, uma arguida que ficou fortemente indiciada pela prática de um crime de burla qualificada.">
+		<NE>
+			<Time>11.07.2019</Time>
+			<crimetype> burla qualificada</crimetype>
+		</NE>
+	</sent2>
+
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, pelo menos desde setembro de 2018 até à presente, a arguida dedicou-se a publicitar na internet, designadamente nos sites OLX e Custo Justo, o arrendamento de apartamentos e de quartos que não lhe pertenciam e cujos fotografias obteve on line, apenas com o intuito de levar os ofendidos a pagar determinados montantes, pensando que estavam a liquidar os valores referentes a caução e/ou a rendas de apartamentos/quartos que aquela alegava ser da sua propriedade, sem que, na verdade, tivesse a intenção de lhes arrendar qualquer apartamento ou quarto, mas apenas de se apropriar das referidas quantias, as quais lhe eram transferidas para a sua conta bancária.">
+		<NE>
+			<Time>setembro de 2018</Time>
+			<Organization>OLX</Organization>
+			<Organization>Custo Justo</Organization>
+			
+		</NE>
+	</sent3>
+
+	
+	
+	<sent4 desc="Com tal atuação a arguida obteve proveito económico ilícito no valor aproximado de, pelo menos, 4.815,50.">
+		<NE>
+			<Numeric>4.815,50</Numeric>
+		</NE>
+	</sent4>
+
+	
+	<sent5 desc="À arguida foi aplicada a medida de coação de apresentações periódicas bissemanais do posto policial da área da sua residência.">
+		<NE>
+			
+		</NE>
+	</sent5>
+
+	<sent6 desc="A investigação prossegue sob a direção do MP na 3ª secção do DIAP de Lisboa/sede.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>3ª secção do DIAP de Lisboa/sede</Organization>
+		</NE>
+	</sent6>
+
+
+
+
+</newspgr074>

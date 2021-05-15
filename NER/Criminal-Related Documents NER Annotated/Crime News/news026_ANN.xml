@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><news026>
+    <docname>news026</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>23 Outubro 2018</publicationdate>
+    <title>Arguidos negam ter viciado contratos no Turismo do Norte.</title>
+    <newstext>Cinco suspeitos de corrupção, tráfico de influências e falsificação conhecem as medidas de coação esta terça-feira. 
+	Todos os detidos no âmbito da investigação por alegados contratos viciados em torno do Turismo do Porto e Norte de Portugal (TPNP) têm vindo a negar qualquer ilegalidade nos interrogatórios que devem terminar esta terça-feira. 
+	Também hoje devem ser conhecidas as medidas de coação.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Cinco suspeitos de corrupção, tráfico de influências e falsificação conhecem as medidas de coação esta terça-feira. ">
+		<NE>
+			<crimetype>corrupção</crimetype>
+			<crimetype>tráfico de influências</crimetype>
+			<crimetype>falsificação</crimetype>
+			<Time>terça-feira</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Todos os detidos no âmbito da investigação por alegados contratos viciados em torno do Turismo do Porto e Norte de Portugal (TPNP) têm vindo a negar qualquer ilegalidade nos interrogatórios que devem terminar esta terça-feira. ">
+		<NE>
+			<Organization>Turismo do Porto e Norte de Portugal</Organization>
+			<Organization>TPNP</Organization>
+			<Time>terça-feira</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Também hoje devem ser conhecidas as medidas de coação.">
+		<NE>
+			<Time>hoje</Time>
+		</NE>
+	</sent3>
+	
+	
+</news026>

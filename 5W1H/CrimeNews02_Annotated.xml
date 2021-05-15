@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Texto Anotado : CrimeNews02 -->
+
+
+
+<CrimeNews01>
+    <Event id="NewsCrime02_Event_1">
+        <!-- Imran Ali who, condenado What por violação  e assassínio  de uma menina de sete anos who, num caso que provocou protestos violentos What e um 
+		debate sobre a segurança What dos menores who em janeiro When, foi executado What esta quarta-feira When no Paquistão Where. -->
+		<CRIMETYPE>violação</CRIMETYPE>
+		<CRIMETYPE>assassínio</CRIMETYPE>
+		<WHO>menina de sete anos</WHO>
+		<WHEN>dos menores who em janeiro</WHEN>
+        <WHO>Imran Ali</WHO>
+        <WHAT>num caso que provocou protestos violentos</WHAT>
+		<WHAT>e um debate sobre a segurança</WHAT>
+		<WHAT>foi executado</WHAT>
+		<WHAT>condenado</WHAT>
+		<WHEN>esta quarta-feira</WHEN>
+		<WHERE>no Paquistão</WHERE>
+    </Event>
+	
+	<Event id="NewsCrime02_Event_2">
+        <!--  Imran Ali  who, de 24 anos, foi enforcado What às 05.30 horas locais (02 horas em Lisboa) When na prisão de Lakhpat Where, na cidade de Lahore 
+		capital da província de Punjab Where, no leste do país Where, disse What o porta-voz da prisão who, Faraz Hussain who, 
+		à agência de notícias espanhola EFE How. -->
+		<WHO>Imran Ali</WHO>
+		<WHAT>foi enforcado</WHAT>
+		<WHEN>às 05.30 horas locais (02 horas em Lisboa)</WHEN>
+		<WHERE>na prisão de Lakhpat</WHERE>
+		<WHERE>na cidade de Lahore capital da província de Punjab </WHERE>
+		<WHERE>no leste do país</WHERE>
+		<WHAT>disse</WHAT>
+		<WHO> o porta-voz da prisão</WHO>
+		<WHO>Faraz Hussain </WHO>
+		
+	</Event>
+    
+	<Event id="NewsCrime02_Event_3">
+        <!--  O porta-voz who declarou what que o pai da criança assassinada who, Amin Ansari who, e três dos 
+		seus tios who foram testemunhas da execução What, juntamente com um magistrado who. -->
+		
+		<WHO>O porta-voz</WHO>
+		<WHO>que o pai da criança assassinada</WHO>
+		<WHO>Amin Ansari</WHO>
+		<WHO>e três dos seus tios</WHO>
+		<WHAT>foram testemunhas da execução</WHAT>
+		<WHO>juntamente com um magistrado</WHO>
+		<WHAT>declarou</WHAT>
+    </Event>
+	
+	
+	<Event id="NewsCrime02_Event_4">
+        <!--  Após when o enforcamento what, Ansari who lamentou what que Imran Ali who não tenha sido executado em público what ou que 
+		a sua execução não tenha sido emitida pela televisão what, em declarações aos meios de comunicação locais How em frente à prisão Where. -->
+		<WHEN>Após</WHEN>
+		<WHAT>o enforcamento </WHAT>
+		<WHO>Ansari</WHO>
+		<WHAT>lamentou</WHAT>
+		<WHO> Imran Ali</WHO>
+		<WHAT>não tenha sido executado em público </WHAT>
+		<WHAT>ou que a sua execução não tenha sido emitida pela televisão</WHAT>
+		<WHERE>em frente à prisão </WHERE>
+		
+    </Event>
+	
+   <Event id="NewsCrime02_Event_5">
+        <!--  "Zainab who teria completado sete anos e dois meses what hoje when ", disse what o pai da criança assassinada who. -->
+		<WHO>Zainab</WHO>
+		<WHAT> teria completado sete anos e dois meses</WHAT>
+		<WHEN>hoje</WHEN>
+		<WHAT>disse</WHAT>
+		<WHO>o pai da criança assassinada</WHO>
+		
+    </Event>
+	   <Event id="NewsCrime02_Event_6">
+        <!--  O pai do condenado who e outros membros da sua família who deslocaram-se what 
+		até a prisão Where, mas não estavam presentes no momento da execução what porque a lei não o permite why. -->
+	    <WHO>O pai do condenado</WHO>
+		<WHO>membros da sua família</WHO>
+		<WHAT>deslocaram-se</WHAT>
+		<WHERE>até a prisão </WHERE>
+		<WHAT>mas não estavam presentes no momento da execução</WHAT>
+		<WHY>porque a lei não o permite</WHY>
+    </Event>
+	
+	</Event>
+	   <Event id="NewsCrime02_Event_7">
+        <!-- Imran Ali who foi preso what duas semanas depois when de o corpo da criança who ter sido encontrado what 
+		numa lixeira Where cinco dias when após o seu desaparecimento what, na cidade de Kasur Where. -->
+	    <WHO>Imran Ali </WHO>
+		<WHAT>foi preso</WHAT>
+		<WHEN>duas semanas depois</WHEN>
+		<WHO>corpo da criança </WHO>
+		<WHAT> ter sido encontrado</WHAT>
+		<WHERE>numa lixeira</WHERE>
+		<WHEN>cinco dias</WHEN>
+		<WHAT>após o seu desaparecimento</WHAT>
+		<WHERE>cidade de Kasur</WHERE>
+		
+    </Event>
+	
+	</Event>
+	   <Event id="NewsCrime02_Event_8">
+        <!--  Ali Where foi sentenciado what em fevereiro when a pena de morte what 
+		por sequestro, violação, assassínio e terrorismo, why e a prisão perpétua what por "ato não natural" why com uma criança de 7 anos, Zainab Ansari who.
+		-->
+		<WHO>Ali</WHO>
+		<WHAT>sentenciado</WHAT>
+		<WHEN>em fevereiro</WHEN>
+		<WHAT>a pena de morte</WHAT>
+		<WHO>com uma criança de 7 anos, Zainab Ansari</WHO>
+	   
+    </Event>
+	 </Event>
+	   <Event id="NewsCrime02_Event_9">
+        <!--  Em agosto when, foi condenado novamente à pena de morte what pelo assassínio e violação de outras três raparigas why, 
+		depois de confessar when que matou what oito menores who.  -->
+	    <WHEN>Em agosto </WHEN>
+		<WHAT>foi condenado novamente à pena de morte </WHAT>
+		<WHAT>que matou </WHAT>
+		<WHO> oito menores</WHO>
+		
+    </Event>
+	
+	 </Event>
+	   <Event id="NewsCrime02_Event_10">
+        <!--  A execução what de hoje when refere-se apenas ao caso what da Zainab who, que chocou todo o país what no início de janeiro when. -->
+	    <WHAT>A execução</WHAT>
+		<WHEN>de hoje</WHEN>
+		<WHAT>refere-se apenas ao caso</WHAT>
+		<WHO>da Zainab</WHO>
+		<WHAT>que chocou todo o país</WHAT>
+		<WHEN>no início de janeiro</WHEN>
+		
+    </Event>
+	
+	  <Event id="NewsCrime02_Event_11">
+        <!-- Zainab Ansari who desapareceu what quando estava sob os cuidados when de um tio who, 
+		enquanto os seus pais who faziam uma peregrinação religiosa what à Arábia Saudita Where. -->
+	    <WHAT>desapareceu</WHAT>
+		<WHO>Zainab Ansari</WHO>
+		<WHO>de um tio</WHO>
+		<WHO>enquanto os seus pais</WHO>
+		<WHAT>faziam uma peregrinação religiosa</WHAT>
+		<WHERE>à Arábia Saudita </WHERE>
+    </Event>
+	
+	</Event>
+	
+	<Event id="NewsCrime02_Event_12">
+        <!-- 
+		O aparecimento do corpo what, cujo exame determinou que sofreu abuso sexual How, 
+		desencadeou uma onda de protestos violentos what em que duas pessoas who morreram what, além de manifestações e atos what em diferentes partes do país Where. -->
+	    <WHAT>desencadeou uma onda de protestos violentos </WHAT>
+		<WHO>O aparecimento do corpo </WHO>
+		<WHAT>morreram</WHAT>
+		<WHAT>além de manifestações e atos </WHAT>
+		<WHERE> em diferentes partes do país</WHERE>
+    </Event>
+	
+
+	
+</CrimeNews01>

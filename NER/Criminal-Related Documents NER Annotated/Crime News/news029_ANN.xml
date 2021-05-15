@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><news029>
+    <docname>news029</docname>
+    <authors>cmjornal</authors>
+    <publicationdate>15 Dezembro de 2015 </publicationdate>
+    <title>Quatro jovens detidos por crime de roubo em Coimbra.</title>
+    <newstext>Quatro indivíduos do sexo masculino, com idades entre os 18 e 20 anos, foram detidos este fim de semana pela PSP de Coimbra. 
+	A detenção ocorreu às 04H00 na rua Correia Teles (entre a avenida Dom Afonso Henriques e a rua Pedro Monteiro). 
+	Um dos detidos é morador em Odivelas e os restantes têm morada na cidade de Coimbra. 
+	No comunicado, esta força policial refere que foram alertados cerca das 03H30 para uma situação ocorrida na zona da Portagem e, posteriormente, na Universidade de Coimbra. 
+	Nestes dois locais, foram registados dois roubos, tendo a PSP enviado de imediato os agentes para o local.
+	</newstext>
+	
+	<Sentences num="5">
+	</Sentences>
+	
+	<sent1 desc="Quatro indivíduos do sexo masculino, com idades entre os 18 e 20 anos, foram detidos este fim de semana pela PSP de Coimbra. ">
+		<NE>
+			<Numeric>18</Numeric>
+			<Numeric>20</Numeric>
+			<Organization>PSP de Coimbra</Organization>
+		</NE>
+	</sent1>
+	
+	
+	<sent2 desc="A detenção ocorreu às 04H00 na rua Correia Teles (entre a avenida Dom Afonso Henriques e a rua Pedro Monteiro).  ">
+		<NE>
+			<Time>04H00 </Time>
+			<Place>rua Correia Teles</Place>
+			<Place>avenida Dom Afonso Henriques</Place>
+			<Place>rua Pedro Monteiro</Place>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Um dos detidos é morador em Odivelas e os restantes têm morada na cidade de Coimbra.  ">
+		<NE>
+			<Place>Odivelas</Place>
+			<Place>Coimbra</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="No comunicado, esta força policial refere que foram alertados cerca das 03H30 para uma situação ocorrida na zona da Portagem e, posteriormente, na Universidade de Coimbra. ">
+		<NE>
+			<Time>03H30</Time>
+			<Place>Portagem</Place>
+			<Organization>Universidade de Coimbra</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc=" Nestes dois locais, foram registados dois roubos, tendo a PSP enviado de imediato os agentes para o local.">
+		<NE>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent5>
+	
+</news029>

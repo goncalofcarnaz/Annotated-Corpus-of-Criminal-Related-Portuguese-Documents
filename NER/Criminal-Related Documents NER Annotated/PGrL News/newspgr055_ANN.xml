@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr055>
+    <docname>newspgr055</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>13-09-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Dano. DIAP da Amadora /Comarca de Lisboa Oeste.</title>
+    <text>  Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 07-09-2019, um arguido, fortemente indiciado pela prática de crimes de violência doméstica e dano.
+	Segundo os fortes indícios recolhidos, o arguido manteve um relacionamento de namoro com a ofendida, encontrando-se atualmente separados. 
+	Dessa relação nasceu um filho em comum, com 5 anos de idade. 
+	Desde o início do relacionamento e após a separação o arguido molestou física e psicologicamente a ofendida, por vezes na presença do menor. 
+	Numa das ocasiões o arguido abeirou-se da ofendida, querendo conversar com ela e, perante a sua recusa, desferiu diversos pontapés na viatura que aquela conduzia.
+	Em julho de 2018 o arguido já havia sido condenado pela prática de idênticos factos praticados contra a ofendida em 2016 e 2017, suscetíveis de integrar um crime de ofensas qualificadas e dois crimes de ameaça agravada, numa pena de quatro meses de prisão, substituída por multa.
+	O arguido ficou sujeito à medida de coação de prisão preventiva, por se verificar, em concreto, o perigo de continuação da atividade criminosa.
+	O inquérito não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do DIAP/Núcleo da Amadora, Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc=" Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 07-09-2019, um arguido, fortemente indiciado pela prática de crimes de violência doméstica e dano.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>07-09-2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido manteve um relacionamento de namoro com a ofendida, encontrando-se atualmente separados.">
+		<NE>
+			
+		</NE>
+	</sent2>
+	
+	
+	<sent3 desc="Dessa relação nasceu um filho em comum, com 5 anos de idade.">
+		<NE>
+			<Numeric>5 anos</Numeric>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="Desde o início do relacionamento e após a separação o arguido molestou física e psicologicamente a ofendida, por vezes na presença do menor. ">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	
+	<sent5 desc="Numa das ocasiões o arguido abeirou-se da ofendida, querendo conversar com ela e, perante a sua recusa, desferiu diversos pontapés na viatura que aquela conduzia.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="Em julho de 2018 o arguido já havia sido condenado pela prática de idênticos factos praticados contra a ofendida em 2016 e 2017, suscetíveis de integrar um crime de ofensas qualificadas e dois crimes de ameaça agravada, numa pena de quatro meses de prisão, substituída por multa.">
+		<NE>
+			<Time>julho de 2018</Time>
+			<Time>2016</Time>
+			<Time>2017</Time>
+			<crimetype>ofensas qualificadas</crimetype>
+			<crimetype>crimes de ameaça agravada</crimetype>
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="O arguido ficou sujeito à medida de coação de prisão preventiva, por se verificar, em concreto, o perigo de continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	
+	<sent8 desc="O inquérito não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="A investigação prossegue sob a direção do DIAP/Núcleo da Amadora, Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>DIAP/Núcleo da Amadora</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent9>
+	
+	
+	
+	
+	
+</newspgr055>

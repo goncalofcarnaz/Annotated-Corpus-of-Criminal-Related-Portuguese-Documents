@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><news012>
+    <docname>news012</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>21 Novembro 2018</publicationdate>
+    <title>Mata namorado e cozinha-o em prato tradicional dos Emirados Árabes.</title>
+    <newstext>Uma mulher marroquina descobriu que o namorado, com quem mantinha uma relação de sete anos, queria casar com outra pessoa. 
+	Três meses depois, é acusada de o ter matado e servido os restos mortais a trabalhadores paquistaneses nos Emirados Árabes Unidos. 
+	Segundo as autoridades, citadas pela BBC, o homicídio terá ocorrido há três meses, mas só agora foi descoberto porque encontraram um dente no liquidificador da mulher de cerca de 30 anos. 
+	A suspeita aguarda julgamento enquanto decorre uma investigação do caso. 
+	De acordo com o jornal "The National", em Abu Dhabi, a mulher confessou o crime às autoridades, dizendo que se tratou de um momento de "loucura". 
+	A polícia não revelou detalhes sobre a forma como a vítima morreu, mas contou que os restos mortais foram cozinhados pela namorada e servidos num prato tradicional dos Emirados Árabes, "chicken machboos" (frango e arroz), a paquistaneses que estavam a trabalhar numa zona próxima onde o casal vivia. 
+	O mesmo jornal adianta que foi o irmão da vítima que encontrou o dente dentro do liquidificador, quando foi procurá-lo em sua casa na cidade de Al Ain, na fronteira com Omã. 
+	O homem denunciou à polícia o desaparecimento do irmão e entregou o dente para testes de ADN, que confirmaram que pertencia à vítima. 
+	A mulher teria dito ao irmão que apenas tinha expulsado o namorado de casa, mas mais tarde acabou por confessar em interrogatório policial que cometeu o homicídio. 
+	Admitiu ainda que terá pedido a ajuda de uma amiga para limpar o apartamento depois do crime.
+	A marroquina foi encaminhada para o hospital para realizar exames de saúde mental.
+	</newstext>
+
+	<Sentences num=""> </Sentences>
+
+	<sent1 desc="Uma mulher marroquina descobriu que o namorado, com quem mantinha uma relação de sete anos, queria casar com outra pessoa.">	
+		<NE>
+			<Numeric>sete</Numeric>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Três meses depois, é acusada de o ter matado e servido os restos mortais a trabalhadores paquistaneses nos Emirados Árabes Unidos. ">	
+		<NE>
+			<Numeric>Três</Numeric>
+			<Place>Emirados Árabes Unidos</Place>
+		</NE>
+	</sent2>
+	<sent3 desc="Segundo as autoridades, citadas pela BBC, o homicídio terá ocorrido há três meses, mas só agora foi descoberto porque encontraram um dente no liquidificador da mulher de cerca de 30 anos.  ">	
+		<NE>
+			<Organization>BBC</Organization>
+			<Numeric>Três</Numeric>
+			<Numeric>30</Numeric>
+		</NE>
+	</sent3>
+	<sent4 desc="A suspeita aguarda julgamento enquanto decorre uma investigação do caso. ">	
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="De acordo com o jornal 'The National', em Abu Dhabi, a mulher confessou o crime às autoridades, dizendo que se tratou de um momento de 'loucura'.">	
+		<NE>
+			<Organization>jornal 'The National'</Organization>
+			<Place>Abu Dhabi</Place>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A polícia não revelou detalhes sobre a forma como a vítima morreu, mas contou que os restos mortais foram cozinhados pela namorada e servidos num prato tradicional dos Emirados Árabes, 'chicken machboos' (frango e arroz), a paquistaneses que estavam a trabalhar numa zona próxima onde o casal vivia. ">	
+		<NE>
+			<Organization>polícia</Organization>
+			<Place>Emirados Árabes</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="O mesmo jornal adianta que foi o irmão da vítima que encontrou o dente dentro do liquidificador, quando foi procurá-lo em sua casa na cidade de Al Ain, na fronteira com Omã. ">	
+		<NE>
+			<Place>Omã</Place>
+			<Place>Al Ain</Place>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="O homem denunciou à polícia o desaparecimento do irmão e entregou o dente para testes de ADN, que confirmaram que pertencia à vítima.">	
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="A mulher teria dito ao irmão que apenas tinha expulsado o namorado de casa, mas mais tarde acabou por confessar em interrogatório policial que cometeu o homicídio. ">	
+		<NE>
+			<crimetype>Homicidio</crimetype>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="Admitiu ainda que terá pedido a ajuda de uma amiga para limpar o apartamento depois do crime.">	
+		<NE>
+			
+		</NE>
+	</sent10>
+	
+	<sent11 desc="A marroquina foi encaminhada para o hospital para realizar exames de saúde mental">	
+		<NE>
+			<Organization>hospital</Organization>
+		</NE>
+	</sent11>
+	
+	
+</news012>

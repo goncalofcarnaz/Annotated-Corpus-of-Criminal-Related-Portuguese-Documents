@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><news064>
+    <docname>news064</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>2019-07-17 20:34:00+00:00</publicationdate>
+    <title>Mulher encontrada morta dentro de carro em Quarteira.</title>
+    <newstext>Uma mulher foi encontrada carbonizada dentro de um carro, esta segunda-feira, em Quarteira, Loulé. 
+	A vítima estava amordaçada e tinha as mãos amarradas. 
+	O JN confirmou junto das autoridades que a vítima é a mulher de 29 anos dada como desaparecida no fim de semana. 
+	Foi encontrada pelas 18.30 horas por um casal que passeava cães num terreno descampado e que, ao ver um carro parcialmente queimado, chamou a GNR. 
+	Trata-se de um local próximo de uma zona conotada com prostituição e tráfico de droga. 
+	Ao chegar, os militares encontraram a mulher no banco de trás, carbonizada, ainda com o cinto de segurança colocado. 
+	Tinha as mãos amarradas e a boca amordaçada. 
+	O cadáver foi removido pelas 00.15 horas desta terça-feira. 
+	Polícia Judiciária de Faro está a investigar o caso.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Uma mulher foi encontrada carbonizada dentro de um carro, esta segunda-feira, em Quarteira, Loulé.">
+		<NE>
+			<Time>segunda-feira</Time>
+			<Place>Quarteira</Place>
+			<Place>Loulé</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A vítima estava amordaçada e tinha as mãos amarradas.">
+		<NE>
+		
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O JN confirmou junto das autoridades que a vítima é a mulher de 29 anos dada como desaparecida no fim de semana.">
+		<NE>
+			<Organization>JN</Organization>
+			<Numeric>29</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Foi encontrada pelas 18.30 horas por um casal que passeava cães num terreno descampado e que, ao ver um carro parcialmente queimado, chamou a GNR. ">
+		<NE>
+			<Time>18.30</Time>
+			<Organization>GNR</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Trata-se de um local próximo de uma zona conotada com prostituição e tráfico de droga. ">
+		<NE>
+			<crimetype>prostituição</crimetype>
+			<crimetype>tráfico de droga</crimetype>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Ao chegar, os militares encontraram a mulher no banco de trás, carbonizada, ainda com o cinto de segurança colocado. ">
+		<NE>
+		
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Tinha as mãos amarradas e a boca amordaçada. ">
+		<NE>
+		
+		</NE>
+	</sent7>
+	
+	<sent8 desc="O cadáver foi removido pelas 00.15 horas desta terça-feira. ">
+		<NE>
+			<Time>00.15</Time>
+			<Time> terça-feira</Time>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Polícia Judiciária de Faro está a investigar o caso. ">
+		<NE>
+			<Organization>Polícia Judiciária de Faro</Organization>
+	
+		</NE>
+	</sent9>
+	
+</news064>

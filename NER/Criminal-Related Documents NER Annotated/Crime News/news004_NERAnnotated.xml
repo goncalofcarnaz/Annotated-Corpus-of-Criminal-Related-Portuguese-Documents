@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><news004>
+    <docname>news004</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>18 Abril 2018</publicationdate>
+    <title>Seis polícias e dez suspeitos mortos em dois tiroteios no México.</title>
+    <newstext>As autoridades do estado de Guerrero, no sul do México, informaram esta quarta-feira que seis polícias e dez suspeitos foram mortos em dois tiroteios.  
+	O porta-voz da segurança estadual declarou que o primeiro tiroteio ocorreu na terça-feira, quando polícias do Estado sofreram um ataque numa cidade perto de um 'resort' em Zihuatanejo, na costa do Pacífico. 
+	Um agente foi ferido neste ataque e a polícia ripostou o fogo e matou dez supostos pistoleiros, num tiroteio que durou cerca de 30 minutos. 
+	O porta-voz Roberto Alvarez declarou que, posteriormente, mais a norte, homens armados atacaram uma coluna da polícia e mataram seis agentes, o que poderia ter sido uma retaliação às mortes no primeiro ataque. 
+	Estes polícias estavam a visitar famílias consideradas em risco, presumivelmente por causa da violência dos gangues de drogas que assolam a região.
+	</newstext>
+	
+	<Sentences num="5"> </Sentences>
+	
+	<sent1 desc="As autoridades do estado de Guerrero, no sul do México, informaram esta quarta-feira que seis polícias e dez suspeitos foram mortos em dois tiroteios.">
+		<NE>
+			<Place>Guerrero</Place>
+			<Place>México</Place>
+			<Time>quarta-feira</Time>
+			<Numeric>seis</Numeric>
+			<Numeric>dois</Numeric>
+		</NE>
+	</sent1>
+	<sent2 desc="O porta-voz da segurança estadual declarou que o primeiro tiroteio ocorreu na terça-feira, quando polícias do Estado sofreram um ataque numa cidade perto de um 'resort' em Zihuatanejo, na costa do Pacífico. ">
+		<NE>
+			<Time>terça-feira</Time>
+			<Place>Zihuatanejo</Place>
+			<Organization>Estado</Organization>
+		</NE>
+	</sent2>	
+	<sent3 desc="Um agente foi ferido neste ataque e a polícia ripostou o fogo e matou dez supostos pistoleiros, num tiroteio que durou cerca de 30 minutos.">
+		<NE>
+			<Numeric>30 minutos</Numeric>
+			<Organization>polícia</Organization>
+		</NE>
+	</sent3>	
+	<sent4 desc ="O porta-voz Roberto Alvarez declarou que, posteriormente, mais a norte, homens armados atacaram uma coluna da polícia e mataram seis agentes, o que poderia ter sido uma retaliação às mortes no primeiro ataque. ">
+		<NE>
+			<Person>Roberto Alvarez</Person>
+			<Organization>policia</Organization>	
+			<Numeric>seis</Numeric>
+		</NE>
+	</sent4>
+	<sent5 desc="Estes polícias estavam a visitar famílias consideradas em risco, presumivelmente por causa da violência dos gangues de drogas que assolam a região.">
+	</sent5>
+</news004>

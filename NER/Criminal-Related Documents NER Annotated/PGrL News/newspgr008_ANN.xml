@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr008>
+    <docname>newspgr008</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>04-11-2019</publicationdate>
+    <title> Detenção. Furto qualificado. Prisão preventiva. DIAP de Almada/Comarca de Lisboa.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa informa que foram detidos e presentes ao JIC para primeiro interrogatório judicial, dois arguidos que ficaram fortemente indiciados pela prática de um crime de furto qualificado.
+Segundo os fortes indícios recolhidos, no período compreendido entre o dia 25 de Dezembro e o dia 31 de Janeiro de 2019, os arguidos, mediante combinação prévia, por terem conhecimento que os residentes estavam ausentes do território nacional e com o acordo de um menor de quinze anos que ali residia, introduziram-se numa moradia sita na Charneca da Caparica, onde se apoderaram de artigos de ourivesaria e de outros que ali se encontraram, de valor superior a €200.000,00, designadamente em cofres ocultos que vieram a ser arrombados pelos mesmos. 
+Posteriormente e até 31 de Maio de 2019, procederam à respectiva venda, pese embora alguns objetos ainda tenham vindo a ser recuperados.
+Aos arguidos foram aplicadas as medidas de coação de TIR, obrigação de apresentação periódica, a realizar duas vezes por semana, na autoridade policial da área de residência e proibição de se ausentarem para o estrangeiro, ou não se ausentarem sem para tal serem expressamente autorizados, devendo ambos os arguidos procederem à entrega dos passaportes que possuam à guarda do Tribunal.
+A investigação prossegue sob a direção do Núcleo de Almada da Comarca de Lisboa, com a coadjuvação da Policia Judiciária.
+</text>
+
+<Sentences num="">
+</Sentences>
+
+<sent1 desc="A Procuradoria-Geral Distrital de Lisboa informa que foram detidos e presentes ao JIC para primeiro interrogatório judicial, dois arguidos que ficaram fortemente indiciados pela prática de um crime de furto qualificado." >
+	<NE>
+		<Organization>JIC</Organization>
+		<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		<crimetype>furto qualificado</crimetype>
+	</NE>
+</sent1>
+
+<sent2 desc="Segundo os fortes indícios recolhidos, no período compreendido entre o dia 25 de Dezembro e o dia 31 de Janeiro de 2019, os arguidos, mediante combinação prévia, por terem conhecimento que os residentes estavam ausentes do território nacional e com o acordo de um menor de quinze anos que ali residia, introduziram-se numa moradia sita na Charneca da Caparica, onde se apoderaram de artigos de ourivesaria e de outros que ali se encontraram, de valor superior a €200.000,00, designadamente em cofres ocultos que vieram a ser arrombados pelos mesmos." >
+	<NE>
+		<Time>25 de Dezembro</Time>
+		<Time>31 de Janeiro de 2019</Time>
+		<Place>Charneca da Caparica</Place>
+		<Numeric> €200.000,00</Numeric>
+	</NE>
+</sent2>
+
+<sent3 desc="Posteriormente e até 31 de Maio de 2019, procederam à respectiva venda, pese embora alguns objetos ainda tenham vindo a ser recuperados." >
+	<NE>
+		<Time>31 de Maio de 2019</Time>
+	</NE>
+</sent3>
+
+<sent4 desc="Aos arguidos foram aplicadas as medidas de coação de TIR, obrigação de apresentação periódica, a realizar duas vezes por semana, na autoridade policial da área de residência e proibição de se ausentarem para o estrangeiro, ou não se ausentarem sem para tal serem expressamente autorizados, devendo ambos os arguidos procederem à entrega dos passaportes que possuam à guarda do Tribunal." >
+	<NE>
+		<Organization>Tribunal</Organization>
+		<Organization>TIR</Organization>
+	</NE>
+</sent4>
+
+<sent5 desc="A investigação prossegue sob a direção do Núcleo de Almada da Comarca de Lisboa, com a coadjuvação da Policia Judiciária." >
+	<NE>
+		<Organization>Núcleo de Almada da Comarca de Lisboa</Organization>
+		<Organization>Policia Judiciária</Organization>
+	</NE>
+</sent5>
+
+</newspgr008>

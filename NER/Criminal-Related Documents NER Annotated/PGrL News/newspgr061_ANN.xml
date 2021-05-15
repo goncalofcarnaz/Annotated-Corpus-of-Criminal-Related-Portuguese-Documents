@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr061>
+    <docname>newspgr061</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>04-09-2019</publicationdate>
+    <title> Detenção. Violência doméstica. DIAP de Mafra/Comarca de Lisboa Oeste.</title>
+    <text> Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 03-09-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.
+		Segundo os fortes indícios recolhidos, o arguido, desde o ano de 2018 que manteve um relacionamento amoroso com a ofendida. 
+		Desde o início do relacionamento que o arguido começou a manifestar ciúmes da ofendida, controlando todos os seus movimentos e agredindo-a física e psicologicamente.
+		O arguido ficou sujeito às medidas de coação de proibição de contactar por qualquer meio com a ofendida e de permanecer na residência da mesma, nas proximidades desta, do seu local de trabalho, por se verificar em concreto o perigo de perturbação do inquérito na vertente de aquisição e conservação da prova e continuação da atividade criminosa.
+		O inquérito não se encontra em segredo de justiça.
+		A investigação prossegue sob a direção do DIAP/ Núcleo de Mafra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 03-09-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>03-09-2019</Time>
+			<crimetype>violência doméstica</crimetype>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, desde o ano de 2018 que manteve um relacionamento amoroso com a ofendida. ">
+		<NE>
+			<Time>2018</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Desde o início do relacionamento que o arguido começou a manifestar ciúmes da ofendida, controlando todos os seus movimentos e agredindo-a física e psicologicamente.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="O arguido ficou sujeito às medidas de coação de proibição de contactar por qualquer meio com a ofendida e de permanecer na residência da mesma, nas proximidades desta, do seu local de trabalho, por se verificar em concreto o perigo de perturbação do inquérito na vertente de aquisição e conservação da prova e continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	
+	<sent5 desc="O inquérito não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="A investigação prossegue sob a direção do DIAP/ Núcleo de Mafra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.">
+		<NE>
+			<Organization>DIAP/ Núcleo de Mafra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent6>
+	
+	
+	
+</newspgr061>

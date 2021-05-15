@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr045>
+    <docname>newspgr045</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>27-09-2019</publicationdate>
+    <title>  Acórdão. Falsificação. Burla relativa a seguros. Simulação de crime. Detenção de arma proibida. Juízo Central Criminal de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>  A PGDL informa que o juízo central criminal de Sintra condenou 13 arguidos, por acórdão datado de 20-09-2019, pela prática de vários crimes de falsificação, burla relativa a seguros, simulação de crime e detenção de arma proibida.
+	No essencial, o acórdão deu como provado que alguns dos arguidos importavam veículos e contratavam seguros que cobriam todos os riscos com valores de cobertura superiores ao valor real dos mesmos veículos e, de seguida, em acordo com outros arguidos, simulavam acidentes de viação ou provocam acidentes, levando as seguradoras a consideraram os veículos como perda total e a pagarem indemnizações. 
+	Alguns veículos foram utilizados várias vezes por diversos arguidos, sempre com o mesmo modo de atuação.
+	Três dos arguidos foram condenados em penas de 9, 7 e 4 anos e 6 meses de prisão. Os demais foram condenados em penas que variaram entre 1 ano e 8 meses a 4 anos e 3 meses de prisão, suspensas na execução com a obrigação de devolveram o dinheiro de que ilicitamente se apropriaram.
+	O acórdão ainda não transitou em julgado.
+	O inquérito foi dirigido pelo MP da 3.ª secção do DIAP de Sintra/Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc=" A PGDL informa que o juízo central criminal de Sintra condenou 13 arguidos, por acórdão datado de 20-09-2019, pela prática de vários crimes de falsificação, burla relativa a seguros, simulação de crime e detenção de arma proibida.">
+		<NE>
+			<Organization>PGDL</Organization>
+			<Numeric>13</Numeric>
+			<Time>20-09-2019</Time>
+			<crimetype>falsificação</crimetype>
+			<crimetype>burla relativa a seguros</crimetype>
+			<crimetype>simulação de crime</crimetype>
+			<crimetype>detenção de arma proibida</crimetype>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="No essencial, o acórdão deu como provado que alguns dos arguidos importavam veículos e contratavam seguros que cobriam todos os riscos com valores de cobertura superiores ao valor real dos mesmos veículos e, de seguida, em acordo com outros arguidos, simulavam acidentes de viação ou provocam acidentes, levando as seguradoras a consideraram os veículos como perda total e a pagarem indemnizações.">
+		<NE>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Alguns veículos foram utilizados várias vezes por diversos arguidos, sempre com o mesmo modo de atuação.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Três dos arguidos foram condenados em penas de 9, 7 e 4 anos e 6 meses de prisão. Os demais foram condenados em penas que variaram entre 1 ano e 8 meses a 4 anos e 3 meses de prisão, suspensas na execução com a obrigação de devolveram o dinheiro de que ilicitamente se apropriaram.">
+		<NE>
+			<Numeric>9</Numeric>
+			<Numeric>7</Numeric>
+			<Numeric>4</Numeric>
+			<Numeric>6 meses</Numeric>
+			<Numeric>1 ano</Numeric>
+			<Numeric>8 meses</Numeric>
+			<Numeric>4 anos</Numeric>
+			<Numeric>3 meses</Numeric>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O acórdão ainda não transitou em julgado.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O inquérito foi dirigido pelo MP da 3.ª secção do DIAP de Sintra/Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>3.ª secção do DIAP de Sintra/Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent6>
+	
+	
+	
+</newspgr045>

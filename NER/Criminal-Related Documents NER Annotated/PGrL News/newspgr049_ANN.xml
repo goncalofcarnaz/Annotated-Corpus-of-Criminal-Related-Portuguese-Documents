@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr049>
+    <docname>newspgr049</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>23-09-2019</publicationdate>
+    <title> Detenção. Abuso sexual de criança. Prisão preventiva. DIAP de Lisboa/Sede.</title>
+    <text>  A PGDL informa que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 19.09.2019, um arguido fortemente indiciado pela prática de crimes de abuso sexual de criança.
+	Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 56 anos de idade, mantinha uma relação de amizade com os progenitores da vítima, tendo residido na casa destes durante o ano de 2016, tendo a ofendida à data 10 anos de idade. 
+	Aproveitando a proximidade física e a confiança nele depositada, o arguido manteve contactos de natureza sexual com a menor.
+	Ao arguido foi aplicada a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de continuação da atividade criminosa e perigo de perturbação do decurso do inquérito.
+	Os inquéritos foram dirigidos pelo MP da 7.ª secção do DIAP de Lisboa/Sede com a coadjuvação da PJ.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A PGDL informa que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 19.09.2019, um arguido fortemente indiciado pela prática de crimes de abuso sexual de criança.">
+		<NE>
+			<Organization>PGDL</Organization>
+			<Organization>JIC</Organization>
+			<Time>19.09.2019</Time>
+			<crimetype>abuso sexual de criança</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 56 anos de idade, mantinha uma relação de amizade com os progenitores da vítima, tendo residido na casa destes durante o ano de 2016, tendo a ofendida à data 10 anos de idade.">
+		<NE>
+			<Numeric>56 anos</Numeric>
+			<Time>2016</Time>
+			<Numeric>10 anos</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Aproveitando a proximidade física e a confiança nele depositada, o arguido manteve contactos de natureza sexual com a menor.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de continuação da atividade criminosa e perigo de perturbação do decurso do inquérito.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Os inquéritos foram dirigidos pelo MP da 7.ª secção do DIAP de Lisboa/Sede com a coadjuvação da PJ.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>7.ª secção do DIAP de Lisboa/Sede</Organization>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent5>
+	
+	
+	
+</newspgr049>

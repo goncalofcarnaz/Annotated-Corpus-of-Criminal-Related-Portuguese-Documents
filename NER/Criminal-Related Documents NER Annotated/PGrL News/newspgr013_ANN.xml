@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr013>
+    <docname>newspgr013</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>28-10-2019</publicationdate>
+    <title>Detenção. Roubo agravado. Sequestro. Detenção de arma proibida. DIAP de Almada/Comarca de Lisboa.</title>
+    <text> Informa-se que foi detido e apresentado ao JIC para primeiro interrogatório judicial, um arguido, fortemente indiciado pela prática de crimes de roubo agravado, de sequestro e de detenção de arma proibida.
+Segundo os fortes indícios recolhidos, o arguido, no dia 23 de Julho de 2019, em comunhão de esforços e intentos, com outros indivíduos não identificados, encapuzados, de rosto tapado e de luvas calçadas, foram no encalço de um empregado de uma empresa tabaco, entrando em estabelecimento comercial em Almada. 
+Nesse local, rodearam-no, apontaram-lhe uma arma de fogo transformada à cabeça, e puxaram-no até ao veículo ligeiro de mercadorias em que se fazia transportar. 
+De seguida, entraram todos dentro da viatura e saíram do local, sendo que dois deles desferiram diversos pontapés no corpo da vítima. 
+Após, deslocaram-se até um local ermo, em Almada, retiraram a vítima do interior da viatura e colocaram-no de joelhos e cabeça debruçada, ao mesmo tempo que um deles lhe apontava a arma à cabeça.
+Os outros indivíduos retiraram do interior do veículo as embalagens de tabaco, num total de 1874 maços com o valor de € 8514,10, e o dinheiro, no valor aproximado de € 990,00, em notas e moedas do BCE, aí transportados, abandonando em seguida o local.
+Foram entretanto, surpreendidos pela PSP, tendo sido recuperado um total de 1862 maços de tabaco no valor de € 8458,10, e a quantia monetária total de € 665,00.
+Ao arguido foi aplicada a medida de coação de prisão preventiva.
+O processo não está em segredo de justiça.
+A investigação prossegue sob a direção do DIAP do Ministério Público de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da Policia Judiciária de Setúbal.
+</text>
+
+<Sentences num="10">
+	
+	</Sentences>
+	
+	
+<sent1 desc="Informa-se que foi detido e apresentado ao JIC para primeiro interrogatório judicial, um arguido, fortemente indiciado pela prática de crimes de roubo agravado, de sequestro e de detenção de arma proibida.">
+		<NE>
+			<Organization>JIC</Organization>
+			<crimetype>sequestro</crimetype>
+			<crimetype>roubo</crimetype>
+		</NE>
+</sent1>	
+	
+		</NE>
+</sent1>	
+	
+<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, no dia 23 de Julho de 2019, em comunhão de esforços e intentos, com outros indivíduos não identificados, encapuzados, de rosto tapado e de luvas calçadas, foram no encalço de um empregado de uma empresa tabaco, entrando em estabelecimento comercial em Almada.">
+		<NE>
+			<Time> 23 de Julho de 2019</Time>
+			<Place>Almada</Place>
+		</NE>
+</sent2>
+
+<sent3 desc="Nesse local, rodearam-no, apontaram-lhe uma arma de fogo transformada à cabeça, e puxaram-no até ao veículo ligeiro de mercadorias em que se fazia transportar.">
+		<NE>
+			
+		</NE>
+</sent3>
+	
+<sent4 desc="De seguida, entraram todos dentro da viatura e saíram do local, sendo que dois deles desferiram diversos pontapés no corpo da vítima. ">
+		<NE>
+			
+		</NE>
+</sent4>
+
+<sent5 desc="Após, deslocaram-se até um local ermo, em Almada, retiraram a vítima do interior da viatura e colocaram-no de joelhos e cabeça debruçada, ao mesmo tempo que um deles lhe apontava a arma à cabeça.">
+		<NE>
+			<Place>Almada</Place>
+		</NE>
+</sent5>
+	
+<sent6 desc="Os outros indivíduos retiraram do interior do veículo as embalagens de tabaco, num total de 1874 maços com o valor de € 8514,10, e o dinheiro, no valor aproximado de € 990,00, em notas e moedas do BCE, aí transportados, abandonando em seguida o local.">
+		<NE>
+			<Numeric>1874 maços</Numeric>
+			<Numeric>€ 8514,10</Numeric>
+			<Numeric>990,00</Numeric>
+			<Organization>BCE</Organization>
+		</NE>
+</sent6>
+	
+<sent7 desc="Foram entretanto, surpreendidos pela PSP, tendo sido recuperado um total de 1862 maços de tabaco no valor de € 8458,10, e a quantia monetária total de € 665,00.">
+		<NE>
+			<Organization>PSP</Organization>
+			<Numeric>1862 maços</Numeric>
+			<Numeric>€ 8458,10</Numeric>
+			<Numeric> € 665,00</Numeric>
+		</NE>
+</sent7>
+
+<sent8 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva.">
+		<NE>
+			
+		</NE>
+</sent8>
+
+<sent9 desc="O processo não está em segredo de justiça.">
+		<NE>
+			
+		</NE>
+</sent9>
+
+<sent10 desc="A investigação prossegue sob a direção do DIAP do Ministério Público de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da Policia Judiciária de Setúbal.">
+		<NE>
+			<Organization>DIAP do Ministério Público de Almada</Organization>
+			<Organization>DIAP da Comarca de Lisboa</Organization>
+			<Organization>Policia Judiciária de Setúbal</Organization>
+		</NE>
+</sent10>
+
+
+
+</newspgr013>

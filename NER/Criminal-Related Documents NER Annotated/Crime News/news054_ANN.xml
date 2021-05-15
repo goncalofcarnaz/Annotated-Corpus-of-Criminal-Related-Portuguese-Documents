@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><news054>
+    <docname>news054</docname>
+    <authors>Jornal Publico</authors>
+    <publicationdate>24 Setembro 2018</publicationdate>
+    <title>Filho de José Eduardo dos Santos em prisão preventiva.</title>
+    <newstext>José Filomeno dos Santos, filho do ex-presidente angolano José Eduardo dos Santos, está em prisão preventiva por suspeita de vários crimes. 
+	O Ministério Público angolano aplicou hoje a prisão preventiva a José Filomeno dos Santos, detido pelo envolvimento numa transferência ilícita de 500 milhões de dólares e pela gestão no fundo soberano. 
+	A informação, sobre a medida de coação hoje aplicada, consta de um comunicado da Procuradoria-Geral da República de Angola. 
+	José Filomeno dos Santos foi presidente do conselho de administração do Fundo Soberano de Angola, nomeado pelo pai, então chefe de Estado angolano, e entretanto exonerado pelo atual Presidente da República, João Lourenço, em janeiro deste ano. 
+	O documento refere que além do crime referente a uma alegada burla de 500 milhões de dólares, processo já remetido ao Tribunal Supremo, corre igualmente na Procuradoria, em fase de instrução preparatória, o processo-crime referente a atos de gestão do Fundo Soberano de Angola em que são arguidos José Filomeno dos Santos e Jean-Claude Bastos de Morais. 
+	Segundo a Procuradoria-Geral da República, da prova recolhida nos autos resultam indícios de que os arguidos incorreram na prática de vários crimes, entre eles, o de associação criminosa, recebimento indevido de vantagem, corrupção, participação económica em negócio, puníveis na Lei sobre a Criminalização das Infrações Subjacentes ao Branqueamento de Capitais e os crimes de peculato, burla por defraudação, entre outros. 
+	"Pela complexidade e gravidade dos factos, com vista a garantir a eficácia da investigação, na sequência dos interrogatórios realizados, o Ministério Público determinou a aplicação aos arguidos da medida de coação pessoal de prisão preventiva", lê-se no comunicado, salientando que a instrução prossegue os seus trâmites legais, com caráter secreto. 
+	Fontes dos serviços prisionais angolanos indicaram entretanto à Lusa que José Filomeno dos Santos está desde o princípio da noite no Hospital Prisão da Cadeia de São Paulo, centro de Luanda, enquanto Jean-Claude Bastos de Morais foi transportado, sensivelmente à mesma hora, para a cadeia da comarca de Viana. 
+	O Fundo Soberano de Angola foi constituído com mais de 5.000 milhões de dólares de ativos do Estado angolano, provenientes das receitas do petróleo, e mais de metade estava estavam sob gestão da empresa Quantum Global, fundada e liderada pelo suíço-angolano Jean-Claude Bastos de Morais, igualmente sócio de José Filomeno dos Santos em vários negócios. 
+	</newstext>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="José Filomeno dos Santos, filho do ex-presidente angolano José Eduardo dos Santos, está em prisão preventiva por suspeita de vários crimes. ">
+		<NE>
+			<Person>José Filomeno dos Santos</Person>
+			<Person> José Eduardo dos Santos</Person>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="O Ministério Público angolano aplicou hoje a prisão preventiva a José Filomeno dos Santos, detido pelo envolvimento numa transferência ilícita de 500 milhões de dólares e pela gestão no fundo soberano.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Person>José Filomeno dos Santos</Person>
+			<Numeric>500</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="A informação, sobre a medida de coação hoje aplicada, consta de um comunicado da Procuradoria-Geral da República de Angola. ">
+		<NE>
+			<Organization>Procuradoria-Geral da República de Angola</Organization>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="José Filomeno dos Santos foi presidente do conselho de administração do Fundo Soberano de Angola, nomeado pelo pai, então chefe de Estado angolano, e entretanto exonerado pelo atual Presidente da República, João Lourenço, em janeiro deste ano.">
+		<NE>
+			<Organization>Fundo Soberano de Angola</Organization>
+			<Person>José Filomeno dos Santos</Person>
+			<Organization>Estado angolano</Organization>
+			<Person>João Lourenço</Person>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O documento refere que além do crime referente a uma alegada burla de 500 milhões de dólares, processo já remetido ao Tribunal Supremo, corre igualmente na Procuradoria, em fase de instrução preparatória, o processo-crime referente a atos de gestão do Fundo Soberano de Angola em que são arguidos José Filomeno dos Santos e Jean-Claude Bastos de Morais.">
+		<NE>
+			<Numeric>500</Numeric>
+			<Organization>Tribunal Supremo</Organization>
+			<Organization>Procuradoria</Organization>
+			<Organization>Fundo Soberano de Angola</Organization>
+			<Person>José Filomeno dos Santos</Person>
+			<Person>Jean-Claude Bastos de Morais</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Segundo a Procuradoria-Geral da República, da prova recolhida nos autos resultam indícios de que os arguidos incorreram na prática de vários crimes, entre eles, o de associação criminosa, recebimento indevido de vantagem, corrupção, participação económica em negócio, puníveis na Lei sobre a Criminalização das Infrações Subjacentes ao Branqueamento de Capitais e os crimes de peculato, burla por defraudação, entre outros.">
+		<NE>
+			<Organization>Procuradoria-Geral da República</Organization>
+			<crimetype>associação criminosa</crimetype>
+			<crimetype>recebimento indevido de vantagem</crimetype>
+			<crimetype>corrupção</crimetype>
+			<crimetype>participação económica em negócio</crimetype>
+			<crimetype>burla por defraudação</crimetype>
+			<crimetype>peculato</crimetype>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="'Pela complexidade e gravidade dos factos, com vista a garantir a eficácia da investigação, na sequência dos interrogatórios realizados, o Ministério Público determinou a aplicação aos arguidos da medida de coação pessoal de prisão preventiva', lê-se no comunicado, salientando que a instrução prossegue os seus trâmites legais, com caráter secreto.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Fontes dos serviços prisionais angolanos indicaram entretanto à Lusa que José Filomeno dos Santos está desde o princípio da noite no Hospital Prisão da Cadeia de São Paulo, centro de Luanda, enquanto Jean-Claude Bastos de Morais foi transportado, sensivelmente à mesma hora, para a cadeia da comarca de Viana. ">
+		<NE>
+			<Organization>Lusa</Organization>
+			<Person>José Filomeno dos Santos</Person>
+			<Organization>Hospital Prisão da Cadeia de São Paulo</Organization>
+			<Place>Luanda</Place>
+			<Person>Jean-Claude Bastos de Morais</Person>
+			<Place>Viana</Place>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O Fundo Soberano de Angola foi constituído com mais de 5.000 milhões de dólares de ativos do Estado angolano, provenientes das receitas do petróleo, e mais de metade estava estavam sob gestão da empresa Quantum Global, fundada e liderada pelo suíço-angolano Jean-Claude Bastos de Morais, igualmente sócio de José Filomeno dos Santos em vários negócios.">
+		<NE>
+			<Organization>Fundo Soberano de Angola</Organization>
+			<Numeric> 5.000</Numeric>
+			<Organization>Estado angolano</Organization>
+			<Organization>Quantum Global</Organization>
+			<Person>Jean-Claude Bastos de Morais</Person>
+			<Person>José Filomeno dos Santos</Person>
+			<Person>Jean-Claude Bastos de Morais</Person>
+			
+		</NE>
+	</sent9>
+	
+	
+	
+</news054>

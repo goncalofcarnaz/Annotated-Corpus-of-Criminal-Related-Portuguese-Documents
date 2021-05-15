@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><news043>
+    <docname>news043</docname>
+    <authors>Jornal Publico</authors>
+    <publicationdate>17 Outubro 2018</publicationdate>
+    <title>Dono de restaurante português assassinado em Joanesburgo.</title>
+    <newstext>O proprietário do restaurante Lusitano, no sul de Joanesburgo, foi morto a tiro esta quarta-feira durante um assalto ao estabelecimento. 
+	"O incidente ocorreu cerca das 9.30 horas desta manhã quando um dos empregados se preparava para abrir o restaurante e foi confrontado por um indivíduo armado", disse à Lusa o porta-voz da polícia sul-africana (SAPS, na sigla em inglês), Jeff Phora. 
+	"O empregado conseguiu fugir e o suspeito entrou depois no escritório onde se encontrava o dono do restaurante, Roberto Carlos da Silva, 43 anos, que após um confronto físico foi morto a tiro", disse o agente policial, sem precisar a nacionalidade da vítima. 
+	"Haverá uma autópsia, mas de momento é visível um tiro na cabeça da vítima. 
+	Ao que tudo indica, estamos perante um assalto que correu mal", avançou Jeff Phora. 
+	O porta-voz da polícia sul-africana disse que "não há para já detenções" e apelou à cooperação de quem tenha qualquer informação que ajude a localizar o autor do crime. 
+	Segundo Jeff Phora, a polícia da esquadra local de Moffat View está a analisar o vídeo do homicídio gravado pelas câmaras de segurança instaladas no restaurante e acrescentou que "o assaltante é um homem africano que aparenta ter entre 30 e 40 anos". 
+	A polícia encerrou o acesso ao local, como parte das investigações, segundo a página online do jornal comunitário local "Southern Courier", que avançou a notícia. 
+	Fonte da comunidade portuguesa disse que a vítima era lusodescendente, filho de pais oriundos da Madeira. 
+	O Lusitano, no bairro de Regents Park, é um ponto de encontro popular da comunidade lusófona e sul-africana no sul de Joanesburgo há pelo menos 40 anos.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="O proprietário do restaurante Lusitano, no sul de Joanesburgo, foi morto a tiro esta quarta-feira durante um assalto ao estabelecimento.">
+		<NE>
+			<Place> Joanesburgo</Place>
+			<Organization>restaurante Lusitano</Organization>
+			<Time>quarta-feira</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="'O incidente ocorreu cerca das 9.30 horas desta manhã quando um dos empregados se preparava para abrir o restaurante e foi confrontado por um indivíduo armado', disse à Lusa o porta-voz da polícia sul-africana (SAPS, na sigla em inglês), Jeff Phora.">
+		<NE>
+			<Organization>Lusa</Organization>
+			<Time>9.30</Time>
+			<Organization>polícia</Organization>
+			<Person>Jeff Phora</Person>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="'O empregado conseguiu fugir e o suspeito entrou depois no escritório onde se encontrava o dono do restaurante, Roberto Carlos da Silva, 43 anos, que após um confronto físico foi morto a tiro', disse o agente policial, sem precisar a nacionalidade da vítima.">
+		<NE>
+			<Person>Roberto Carlos da Silva</Person>
+			<Numeric>43</Numeric>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="'Haverá uma autópsia, mas de momento é visível um tiro na cabeça da vítima. '">
+		<NE>
+		
+		</NE>
+	</sent4>
+	
+	<sent5 desc="'Ao que tudo indica, estamos perante um assalto que correu mal', avançou Jeff Phora. ">
+		<NE>
+			<Person>Jeff Phora</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O porta-voz da polícia sul-africana disse que 'não há para já detenções' e apelou à cooperação de quem tenha qualquer informação que ajude a localizar o autor do crime. ">
+		<NE>
+			<Organization>polícia</Organization>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Segundo Jeff Phora, a polícia da esquadra local de Moffat View está a analisar o vídeo do homicídio gravado pelas câmaras de segurança instaladas no restaurante e acrescentou que 'o assaltante é um homem africano que aparenta ter entre 30 e 40 anos'.">
+		<NE>
+			<Person>Jeff Phora</Person>
+			<Place> Moffat View</Place>
+			<Numeric>30</Numeric>
+			<Numeric>40</Numeric>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A polícia encerrou o acesso ao local, como parte das investigações, segundo a página online do jornal comunitário local Southern Courier, que avançou a notícia.">
+		<NE>
+			<Organization>polícia</Organization>
+			<Organization>Southern Courier</Organization>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Fonte da comunidade portuguesa disse que a vítima era lusodescendente, filho de pais oriundos da Madeira. ">
+		<NE>
+			<Place>Madeira</Place>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="O Lusitano, no bairro de Regents Park, é um ponto de encontro popular da comunidade lusófona e sul-africana no sul de Joanesburgo há pelo menos 40 anos">
+		<NE>
+			<Place>Regents Park</Place>
+			<Place>Joanesburgo</Place>
+			<Numeric>40</Numeric>
+			<Organization>Lusitano</Organization>
+		</NE>
+	</sent10>
+	
+</news043>

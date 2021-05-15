@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><news044>
+    <docname>news044</docname>
+    <authors>Jornal Publico</authors>
+    <publicationdate>17 Outubro 2018</publicationdate>
+    <title>Detidos suspeitos de pornografia de menores e venda de imagens na Internet.</title>
+    <newstext>Dois homens foram detidos na terça-feira em Gaia, distrito do Porto, por suspeitas de aliciarem menores de idade nas redes sociais para ter sexo e depois venderem as gravações de imagens na Internet, disse esta quarta-feira fonte da Polícia Judiciária. 
+	"Os detidos viviam da partilha dos ficheiros na Internet que eram vendidos" e a "investigação prossegue para apurar se há mais implicados", disse à Lusa fonte da Diretoria do Norte da Polícia Judiciária (PJ). 
+	Os detidos, com 21 e 29 anos e sem ocupação laboral, são suspeitos de se dedicarem há vários anos "ao aliciamento de menores, através das redes sociais, com o objetivo de com elas praticarem diversos atos sexuais, procedendo à gravação e posterior divulgação de imagens pela internet", lê-se no comunicado de imprensa da PJ enviado à comunicação social. 
+	Durante as diligências policiais, a PJ apreendeu também diverso material informático e conteúdos de natureza pornográfica. 
+	Os detidos vão ser presentes a primeiro interrogatório judicial para conhecerem as medidas de coação a aplicar.
+	</newstext>
+	
+	<Sentences num="5">
+	</Sentences>
+	
+	<sent1 desc="Dois homens foram detidos na terça-feira em Gaia, distrito do Porto, por suspeitas de aliciarem menores de idade nas redes sociais para ter sexo e depois venderem as gravações de imagens na Internet, disse esta quarta-feira fonte da Polícia Judiciária.">
+		<NE>
+			<Time>terça-feira</Time>
+			<Place>Gaia</Place>
+			<Place>Porto</Place>
+			<Organization>Polícia Judiciária</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="'Os detidos viviam da partilha dos ficheiros na Internet que eram vendidos' e a 'investigação prossegue para apurar se há mais implicados', disse à Lusa fonte da Diretoria do Norte da Polícia Judiciária (PJ).">
+		<NE>
+			<Organization>Lusa</Organization>
+			<Organization>Diretoria do Norte da Polícia Judiciária</Organization>
+			<Organization>PJ</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Os detidos, com 21 e 29 anos e sem ocupação laboral, são suspeitos de se dedicarem há vários anos 'ao aliciamento de menores, através das redes sociais, com o objetivo de com elas praticarem diversos atos sexuais, procedendo à gravação e posterior divulgação de imagens pela internet', lê-se no comunicado de imprensa da PJ enviado à comunicação social.">
+		<NE>
+			<Numeric>21</Numeric>
+			<Numeric>29</Numeric>
+			<Organization>PJ</Organization>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Durante as diligências policiais, a PJ apreendeu também diverso material informático e conteúdos de natureza pornográfica.">
+		<NE>
+			<Organization>PJ</Organization>
+		
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Os detidos vão ser presentes a primeiro interrogatório judicial para conhecerem as medidas de coação a aplicar.">
+		<NE>
+			
+		
+		</NE>
+	</sent5>
+	
+	
+	
+	
+	
+</news044>

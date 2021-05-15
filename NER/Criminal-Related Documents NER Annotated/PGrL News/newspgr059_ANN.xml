@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr059>
+    <docname>newspgr059</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>09-09-2019</publicationdate>
+    <title> Detenção. Contrafação de moeda. Passagem de moeda falsa em concerto com o falsificador. DIAP de Lisboa/sede.</title>
+    <text>Ao abrigo do disposto na al. b) do n.º 13 do art. 86.º do CPP, informa-se que foi detido, após investigação efetuada e mediante o recurso a instrumentos de cooperação internacional e Mandados de Detenção internacional, um arguido, fortemente indiciado da prática de crimes de contrafação de moeda e de passagem de moeda falsa em concerto com o falsificador.
+	Segundo os fortes indícios recolhidos apurou-se, no essencial, que o arguido agora detido, de nacionalidade portuguesa, seria o “cabecilha” do grupo que, desde, pelo menos, o início de 2017, juntamente com outros 4 arguidos, foram os responsáveis pela produção de mais de 26 mil notas, maioritariamente de € 50. 
+	O grupo atuava concertadamente, em conjugação de esforços, sendo o arguido agora detido que recebia os pedidos via “darknet”, ou através de plataformas de conversação encriptada e transmitia a outros, residentes em Portugal, as “encomendas” (nome e moradas a quem devem ser enviadas as notas e sua quantidade). 
+	Por sua vez, os co-arguidos, com o conhecimento e de acordo com as orientações do primeiro arguido, compravam o papel e demais itens necessários (encomendados ao continente asiático), executavam a falsificação e remetiam as notas, pelo correio, para os diversos destinatários/adquirentes.
+	Após os factos o suspeito fugiu para a Colômbia vindo a ser detido em razão de cooperação internacional e da emissão, pelo Ministério Público, de Mandado de Detenção Internacional.
+	Este suspeito foi constituído arguido e presente ao JIC para primeiro interrogatório de arguido detido, a 02.09.2019, tendo-lhe sido aplicada a medida de coação de prisão preventiva.
+	Também nesta investigação, a 1.07.2019, tinham sido, igualmente, detidas quatro pessoas, dois homens e duas mulheres, pelos crimes de contrafação de moeda e associação criminosa.
+	No âmbito deste inquérito foram realizadas 8 buscas, domiciliárias e não domiciliárias, tendo sido apreendidas 1833 notas falsas, perfazendo um total de € 69.930,00, bem como diversos objetos relacionados com a produção das notas, nomeadamente, computadores, impressoras, papel de segurança com incorporação de filamento de segurança, hologramas e bandas holográficas autoadesivas, tintas ultravioleta, tinteiros, entre outros. 
+	As notas contrafeitas foram apreendidas em praticamente todo o espaço europeu, atingindo um valor superior a 1 milhão e 300 mil euros.
+	A investigação prossegue sob a direção do MP na 8.ª Secção do DIAP de Lisboa com a coadjuvação da PJ através da Unidade Nacional de Combate à Corrupção, Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica e do Laboratório de Policia Cientifica e com a colaboração da EUROPOL.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Ao abrigo do disposto na al. b) do n.º 13 do art. 86.º do CPP, informa-se que foi detido, após investigação efetuada e mediante o recurso a instrumentos de cooperação internacional e Mandados de Detenção internacional, um arguido, fortemente indiciado da prática de crimes de contrafação de moeda e de passagem de moeda falsa em concerto com o falsificador.">
+		<NE>
+			<crimetype>contrafação de moeda</crimetype>
+			<crimetype>passagem de moeda falsa</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos apurou-se, no essencial, que o arguido agora detido, de nacionalidade portuguesa, seria o “cabecilha” do grupo que, desde, pelo menos, o início de 2017, juntamente com outros 4 arguidos, foram os responsáveis pela produção de mais de 26 mil notas, maioritariamente de € 50.">
+		<NE>
+			<Time>2017</Time>
+			<Numeric>26 mil</Numeric>
+			<Numeric> € 50</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O grupo atuava concertadamente, em conjugação de esforços, sendo o arguido agora detido que recebia os pedidos via “darknet”, ou através de plataformas de conversação encriptada e transmitia a outros, residentes em Portugal, as “encomendas” (nome e moradas a quem devem ser enviadas as notas e sua quantidade).">
+		<NE>
+			<Place>Portugal</Place>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="Por sua vez, os co-arguidos, com o conhecimento e de acordo com as orientações do primeiro arguido, compravam o papel e demais itens necessários (encomendados ao continente asiático), executavam a falsificação e remetiam as notas, pelo correio, para os diversos destinatários/adquirentes.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	
+	<sent5 desc="Após os factos o suspeito fugiu para a Colômbia vindo a ser detido em razão de cooperação internacional e da emissão, pelo Ministério Público, de Mandado de Detenção Internacional.">
+		<NE>
+			<Place>Colômbia</Place>
+			<Organization>Ministério Público</Organization>
+			
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="Este suspeito foi constituído arguido e presente ao JIC para primeiro interrogatório de arguido detido, a 02.09.2019, tendo-lhe sido aplicada a medida de coação de prisão preventiva.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>02.09.2019</Time>
+			
+		</NE>
+	</sent6>
+	
+	
+	<sent7 desc="Também nesta investigação, a 01.07.2019, tinham sido, igualmente, detidas quatro pessoas, dois homens e duas mulheres, pelos crimes de contrafação de moeda e associação criminosa.">
+		<NE>
+			<Time>01.07.2019</Time>
+			
+		</NE>
+	</sent7>
+	
+	
+	<sent8 desc="No âmbito deste inquérito foram realizadas 8 buscas, domiciliárias e não domiciliárias, tendo sido apreendidas 1833 notas falsas, perfazendo um total de € 69.930,00, bem como diversos objetos relacionados com a produção das notas, nomeadamente, computadores, impressoras, papel de segurança com incorporação de filamento de segurança, hologramas e bandas holográficas autoadesivas, tintas ultravioleta, tinteiros, entre outros.">
+		<NE>
+			<Numeric>8 </Numeric>
+			<Numeric>1833</Numeric>
+			<Numeric> € 69.930,00</Numeric>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="As notas contrafeitas foram apreendidas em praticamente todo o espaço europeu, atingindo um valor superior a 1 milhão e 300 mil euros.">
+		<NE>
+			<Numeric>1 milhão</Numeric>
+			<Numeric>300 mil</Numeric>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="A investigação prossegue sob a direção do MP na 8.ª Secção do DIAP de Lisboa com a coadjuvação da PJ através da Unidade Nacional de Combate à Corrupção, Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica e do Laboratório de Policia Cientifica e com a colaboração da EUROPOL.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization> 8.ª Secção do DIAP de Lisboa</Organization>
+			<Organization>Unidade Nacional de Combate à Corrupção</Organization>
+			<Organization>Unidade Nacional de Combate ao Cibercrime e à Criminalidade Tecnológica e do Laboratório de Policia Cientifica</Organization>
+			<Organization>EUROPOL</Organization>
+		</NE>
+	</sent10>
+	
+</newspgr059>

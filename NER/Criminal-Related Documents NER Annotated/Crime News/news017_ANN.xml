@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><news017>
+    <docname>news017</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>23 Outubro 2018</publicationdate>
+    <title>PSP de Faro detém homem procurado há dois anos.</title>
+    <newstext>A PSP de Faro anunciou esta terça-feira ter detido um homem que tinha sido condenado a uma pena de prisão por tráfico de droga, roubo e outros crimes e que era procurado há dois anos pelas autoridades. 
+	Em comunicado, a PSP adianta que o homem, de 26 anos, tinha pendente um mandado de detenção para cumprimento de uma pena efetiva de sete anos de prisão por crimes de roubo, roubo agravado, detenção de arma proibida e tráfico de droga. 
+	O arguido mudou por completo a sua residência habitual e rotinas diárias, sendo o seu paradeiro desconhecido desde 2016, altura em que foi emitido o mandado, aquando de outra decisão no âmbito de um processo de tráfico de droga que determinava mais cinco anos e meio de prisão efetiva. 
+	Recentemente, segundo o comunicado, os elementos da Esquadra de Investigação Criminal da PSP de Faro detetaram o seu paradeiro e verificaram que o homem "continuava a vender droga" noutros pontos da região algarvia. 
+	Depois de detido, durante uma operação policial realizada na segunda-feira, o homem foi transportado para o Estabelecimento Prisional Regional de Faro. 
+	Na operação, a PSP apreendeu 2.500 euros, mais de nove quilos de haxixe, cerca 150 gramas de erva e 54 doses individuais de cocaína, entre outro material. 
+	A ação policial envolveu meios da estrutura de investigação criminal, com o apoio de Equipas de Reação e Prevenção Imediata.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="A PSP de Faro anunciou esta terça-feira ter detido um homem que tinha sido condenado a uma pena de prisão por tráfico de droga, roubo e outros crimes e que era procurado há dois anos pelas autoridades. ">
+		<NE>
+			<Organization> PSP de Faro</Organization>
+			<Time>terça-feira</Time>
+			<crimetype>tráfico de droga</crimetype>
+			<crimetype>roubo</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Em comunicado, a PSP adianta que o homem, de 26 anos, tinha pendente um mandado de detenção para cumprimento de uma pena efetiva de sete anos de prisão por crimes de roubo, roubo agravado, detenção de arma proibida e tráfico de droga. ">
+		<NE>
+			<Organization>PSP</Organization>
+			<crimetype>tráfico de droga</crimetype>
+			<crimetype>roubo</crimetype>
+			<crimetype>roubo agravado</crimetype>
+			<crimetype>detenção de arma proibida</crimetype>
+		</NE>
+	
+	</sent2>
+	
+	
+	<sent3 desc="O arguido mudou por completo a sua residência habitual e rotinas diárias, sendo o seu paradeiro desconhecido desde 2016, altura em que foi emitido o mandado, aquando de outra decisão no âmbito de um processo de tráfico de droga que determinava mais cinco anos e meio de prisão efetiva.">
+		<NE>
+			<Time>2016</Time>
+			<crimetype>tráfico de droga</crimetype>
+		</NE>
+	
+	</sent3>
+	
+	
+	<sent4 desc="Recentemente, segundo o comunicado, os elementos da Esquadra de Investigação Criminal da PSP de Faro detetaram o seu paradeiro e verificaram que o homem 'continuava a vender droga' noutros pontos da região algarvia.">
+		<NE>
+			<Organization>Esquadra de Investigação Criminal da PSP de Faro</Organization>
+		</NE>
+	
+	</sent4>
+	
+	<sent4 desc="Depois de detido, durante uma operação policial realizada na segunda-feira, o homem foi transportado para o Estabelecimento Prisional Regional de Faro. .">
+		<NE>
+			<Time>segunda-feira</Time>
+			<Organization>Estabelecimento Prisional Regional de Faro</Organization>
+		</NE>
+	
+	</sent4>
+	
+	<sent4 desc="Na operação, a PSP apreendeu 2.500 euros, mais de nove quilos de haxixe, cerca 150 gramas de erva e 54 doses individuais de cocaína, entre outro material .">
+		<NE>
+			<Numeric>2.000</Numeric>
+			<Numeric>150</Numeric>
+			<Numeric>54</Numeric>
+			<Organization>PSP</Organization>
+			<narcotics>haxixe</narcotics>
+			<narcotics>erva</narcotics>
+			<narcotics>cocaína</narcotics>
+		</NE>
+	
+	</sent4>
+	
+	<sent5 desc="A ação policial envolveu meios da estrutura de investigação criminal, com o apoio de Equipas de Reação e Prevenção Imediata..">
+		<NE>
+			<Organization>Equipas de Reação e Prevenção Imediata</Organization>
+		</NE>
+	
+	</sent5>
+	
+	
+</news017>

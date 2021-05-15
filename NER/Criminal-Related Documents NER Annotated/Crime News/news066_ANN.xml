@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><news066>
+    <docname>news066</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>27 Agosto 2018</publicationdate>
+    <title>Grupo tenta assaltar casa de Demi Lovato.</title>
+    <newstext>Um grupo de assaltantes tentou roubar a casa da cantora de 26 anos em Los Angeles. 
+	Demi Lovato está internada numa clínica de reabilitação após sofrer uma overdose de heroína.
+	</newstext>
+	
+	<Sentences num="2">
+	</Sentences>
+	
+	<sent1 desc="Um grupo de assaltantes tentou roubar a casa da cantora de 26 anos em Los Angeles.">
+		<NE>
+			<Numeric>26</Numeric>
+			<Place>Los Angeles</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Demi Lovato está internada numa clínica de reabilitação após sofrer uma overdose de heroína.">
+		<NE>
+			<Person>Demi Lovato</Person>
+			<narcotics>heroína</narcotics>
+		</NE>
+	</sent2>
+	
+</news066>

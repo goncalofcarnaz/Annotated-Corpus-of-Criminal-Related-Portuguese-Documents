@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><news056>
+    <docname>news056</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>14 Setembro 2018</publicationdate>
+    <title>Dez polícias investigados no caso da morte de português em Manchester.</title>
+    <newstext>Dez agentes da Polícia da Grande Manchester, no norte de Inglaterra, estão a ser investigados pela morte do português André Moura após a sua detenção em julho. 
+	"Três dos agentes foram informados de que estão sujeitos a uma investigação criminal e os outros sete foram informados de que há uma indicação antecipada de que o seu comportamento pode ser considerado má conduta grave", indicou, esta sexta-feira, a Agência Independente para a Conduta da Polícia (IOPC). 
+	Todos os dez agentes estiveram no local da prisão de André Moura, de 30 anos, no dia 6 de julho em Oldham, onde a polícia foi chamada perto das 23.30 horas em Oldham devido a um "incidente doméstico". 
+	Após a detenção, Moura foi levado numa carrinha da polícia para o posto de Ashton-under-Lyne, onde foi encontrado inconsciente. 
+	Uma ambulância levou o português para o Hospital Tameside, onde foi confirmado que morreu por volta da 1.30 de sábado, 7 de julho. 
+	Uma primeira autópsia não encontrou as razões da morte, pelo que as autoridades aguardam o resultado de mais testes, incluindo toxicológicos. 
+	Por ter morrido quando estava em custódia policial, a IOPC abriu uma investigação e entretanto recolheu e analisou imagens de videovigilância, filmagens feitas pelas câmaras usadas pelos agentes e vídeos feitos por cidadãos com telemóveis, além de ter interrogado vizinhos e testemunhas independentes.
+	A diretora regional do IOPC, Amanda Rowe, disse que a família estava a ser informada do decorrer da investigação. 
+	"Este é um caso muito sério e complexo, envolvendo um grande número de funcionários, o que requer uma investigação independente completa e rigorosa. 
+	No entanto, informar aos policiais que eles estão sujeitos a uma investigação criminal ou de má conduta não indica culpa", vincou.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	
+	<sent1 desc="Dez agentes da Polícia da Grande Manchester, no norte de Inglaterra, estão a ser investigados pela morte do português André Moura após a sua detenção em julho.">
+		<NE>
+			<Organization>Polícia da Grande Manchester</Organization>
+			<Place>Inglaterra</Place>
+			<Person>André Moura</Person>
+			<Time>julho</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="'Três dos agentes foram informados de que estão sujeitos a uma investigação criminal e os outros sete foram informados de que há uma indicação antecipada de que o seu comportamento pode ser considerado má conduta grave', indicou, esta sexta-feira, a Agência Independente para a Conduta da Polícia (IOPC).">
+		<NE>
+			<Organization>Agência Independente para a Conduta da Polícia (IOPC)</Organization>
+			<Organization>IOPC</Organization>
+			<Time>sexta-feira</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Todos os dez agentes estiveram no local da prisão de André Moura, de 30 anos, no dia 6 de julho em Oldham, onde a polícia foi chamada perto das 23.30 horas em Oldham devido a um 'incidente doméstico'. ">
+		<NE>
+			<Person>André Moura</Person>
+			<Numeric>30</Numeric>
+			<Time>6 de julho</Time>
+			<Place>Oldham</Place>
+			<Time>23.30</Time>
+			<Place>Oldham</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Após a detenção, Moura foi levado numa carrinha da polícia para o posto de Ashton-under-Lyne, onde foi encontrado inconsciente. ">
+		<NE>
+			<Person>Moura</Person>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Uma ambulância levou o português para o Hospital Tameside, onde foi confirmado que morreu por volta da 1.30 de sábado, 7 de julho. ">
+		<NE>
+			<Place>Hospital Tameside</Place>
+			<Time>1.30 de sábado</Time>
+			<Time>7 de julho</Time>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Uma primeira autópsia não encontrou as razões da morte, pelo que as autoridades aguardam o resultado de mais testes, incluindo toxicológicos. ">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Por ter morrido quando estava em custódia policial, a IOPC abriu uma investigação e entretanto recolheu e analisou imagens de videovigilância, filmagens feitas pelas câmaras usadas pelos agentes e vídeos feitos por cidadãos com telemóveis, além de ter interrogado vizinhos e testemunhas independentes.">
+		<NE>
+			<Organization>IOPC</Organization>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A diretora regional do IOPC, Amanda Rowe, disse que a família estava a ser informada do decorrer da investigação. ">
+		<NE>
+			<Organization>IOPC</Organization>
+			<Person> Amanda Rowe</Person>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Este é um caso muito sério e complexo, envolvendo um grande número de funcionários, o que requer uma investigação independente completa e rigorosa. ">
+		<NE>
+			
+		</NE>
+	</sent9>
+	
+	<sent10 desc="No entanto, informar aos policiais que eles estão sujeitos a uma investigação criminal ou de má conduta não indica culpa, vincou.">
+		<NE>
+			
+		</NE>
+	</sent10>
+	
+	
+	
+	
+</news056>

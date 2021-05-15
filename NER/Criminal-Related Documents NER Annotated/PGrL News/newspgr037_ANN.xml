@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr037>
+    <docname>newspgr037</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>03-10-2019</publicationdate>
+    <title> Detenção. Pornografia de menores. Prisão preventiva em estabelecimento hospitalar. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>Informa-se ao abrigo do disposto no artigo 86.º, n.º 13, al. b) do Código de Processo Penal que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 02.10.2019, um arguido fortemente indiciado pela prática de um crime de pornografia de menores.
+		Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 27 anos, no dia 1 de Outubro de 2019, apresentou-se voluntariamente na esquadra da PSP, sita no Cacém, manifestando sentir desejos sexuais com menores e que progressivamente vem idealizando a consumação dos mesmos. 
+		Para tanto, havia adquirido e detido imagens e vídeos de menores em poses pornográficas, com o propósito de satisfazer os seus instintos libidinosos, bem como para os ceder a terceiros.
+		O arguido ficou sujeito à medida de coação de prisão preventiva em estabelecimento hospitalar, considerados os perigos concretos de perturbação do inquérito na vertente da aquisição de conservação da prova, continuação da atividade criminosa e o de perturbação da ordem e tranquilidade públicas.
+		O processo encontra-se em segredo de justiça.
+		O inquérito foi dirigido pelo MP da na 4ª Secção do DIAP de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se ao abrigo do disposto no artigo 86.º, n.º 13, al. b) do Código de Processo Penal que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 02.10.2019, um arguido fortemente indiciado pela prática de um crime de pornografia de menores.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>02.10.2019</Time>
+			<crimetype>pornografia de menores</crimetype>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 27 anos, no dia 1 de Outubro de 2019, apresentou-se voluntariamente na esquadra da PSP, sita no Cacém, manifestando sentir desejos sexuais com menores e que progressivamente vem idealizando a consumação dos mesmos.">
+		<NE>
+			<Numeric>27 anos</Numeric>
+			<Time>1 de Outubro de 2019</Time>
+			<Organization>PSP</Organization>
+			<Place>Cacém</Place>
+		
+		</NE>
+	</sent2>
+	
+	
+	<sent3 desc="Para tanto, havia adquirido e detido imagens e vídeos de menores em poses pornográficas, com o propósito de satisfazer os seus instintos libidinosos, bem como para os ceder a terceiros.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="O arguido ficou sujeito à medida de coação de prisão preventiva em estabelecimento hospitalar, considerados os perigos concretos de perturbação do inquérito na vertente da aquisição de conservação da prova, continuação da atividade criminosa e o de perturbação da ordem e tranquilidade públicas.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O processo encontra-se em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O inquérito foi dirigido pelo MP da na 4ª Secção do DIAP de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>4ª Secção do DIAP de Sintra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+			<Organization>PSP</Organization>
+			
+		</NE>
+	</sent6>
+
+	
+</newspgr037>

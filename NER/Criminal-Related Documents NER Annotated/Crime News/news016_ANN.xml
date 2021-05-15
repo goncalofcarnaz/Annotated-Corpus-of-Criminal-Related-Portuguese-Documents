@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><news016>
+    <docname>news016</docname>
+    <authors>Noticiasaominuto - Jornal online</authors>
+    <publicationdate>03 Novembro 2018</publicationdate>
+    <title>Detido jovem de 16 anos que abusou sexualmente de seis idosas.</title>
+    <newstext>A polícia espanhola deteve um jovem de 16 anos que terá abusado sexualmente de seis mulheres octogenárias em Olot, Girona. 
+	A vítima mais velha tinha 88 anos. 
+	Entre 7 de agosto e 10 de outubro, o jovem terá agredido sexualmente uma das idosas e abusado de outras cinco. 
+	Segundo a imprensa espanhola, o agressor abordava as mulheres na rua quando escurecia, encurralava-as contra uma parede, batia-lhes e obrigava-as a observá-lo enquanto se masturbava. 
+	Na primeira queixa, uma mulher - que segundo fontes próximas à investigação teria sido prostituta anos antes - denunciou que, a princípio, seria um encontro sexual consensual, mas que a dado momento ela se recusou a continuar e o jovem a forçou. 
+	A unidade de investigação da polícia Mossos d'Esquadra de Olot iniciou a busca do suspeito com os dados fornecidos pela alegada vítima. 
+	A 29 de agosto, outra mulher relatou que um menor se tinha aproximado dela na rua. 
+	Durante o mês de setembro ocorreram três novos casos. 
+	Todas as vítimas, com mais de 60 anos, relataram que um jovem se aproximou delas ao fim da tarde e descreveram os mesmos abusos que as vítimas anteriores. 
+	Os detalhes dados pelas vítimas e as semelhanças nas características do alegado agressor levaram a que as autoridades suspeitassem que se tratava do mesmo indivíduo. 
+	Os elementos da Área de Investigação Criminal (AIC) de Girona assumiram a investigação e detiveram na sexta-feira o suspeito no meio de uma rua em Olot, como alegado autor de seis crimes contra a liberdade sexual, uma agressão sexual e cinco de abuso.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="A polícia espanhola deteve um jovem de 16 anos que terá abusado sexualmente de seis mulheres octogenárias em Olot, Girona.">
+		<NE>
+			<Organization>polícia espanhola</Organization>
+			<Numeric>16</Numeric>
+			<Place>Olot</Place>
+			<Place>Girona</Place>
+		</NE>
+	</sent1>
+	
+	
+	<sent2 desc="A vítima mais velha tinha 88 anos. ">
+		<NE>
+			<Numeric>88</Numeric>
+		</NE>
+	</sent2>
+	<sent3 desc="Entre 7 de agosto e 10 de outubro, o jovem terá agredido sexualmente uma das idosas e abusado de outras cinco. ">
+		<NE>
+			<Time>7 de agosto</Time>
+			<Time>10 de outubro</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Segundo a imprensa espanhola, o agressor abordava as mulheres na rua quando escurecia, encurralava-as contra uma parede, batia-lhes e obrigava-as a observá-lo enquanto se masturbava. ">
+		<NE>
+			<Organization>imprensa espanhola</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Na primeira queixa, uma mulher - que segundo fontes próximas à investigação teria sido prostituta anos antes - denunciou que, a princípio, seria um encontro sexual consensual, mas que a dado momento ela se recusou a continuar e o jovem a forçou. ">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A unidade de investigação da polícia Mossos d'Esquadra de Olot iniciou a busca do suspeito com os dados fornecidos pela alegada vítima. ">
+		<NE>
+			<Organization>unidade de investigação da polícia Mossos d'Esquadra de Olot</Organization>
+		</NE>
+	</sent6>
+		
+	<sent7 desc="A 29 de agosto, outra mulher relatou que um menor se tinha aproximado dela na rua.">
+		<NE>
+			<Time>29 de agosto</Time>
+		</NE>
+	</sent7>
+		
+	<sent8 desc="Durante o mês de setembro ocorreram três novos casos. ">
+		<NE>
+			<Time>setembro</Time>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Todas as vítimas, com mais de 60 anos, relataram que um jovem se aproximou delas ao fim da tarde e descreveram os mesmos abusos que as vítimas anteriores. ">
+		<NE>
+			<Numeric>60</Numeric>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="Os detalhes dados pelas vítimas e as semelhanças nas características do alegado agressor levaram a que as autoridades suspeitassem que se tratava do mesmo indivíduo. ">
+		<NE>
+			
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Os elementos da Área de Investigação Criminal de Girona assumiram a investigação e detiveram na sexta-feira o suspeito no meio de uma rua em Olot, como alegado autor de seis crimes contra a liberdade sexual, uma agressão sexual e cinco de abuso.">
+		<NE>
+			<Organization>Área de Investigação Criminal de Girona</Organization>
+			<Time>sexta-feira</Time>
+			<Place>Olot</Place>
+		</NE>
+	</sent11>
+	
+	
+	
+</news016>

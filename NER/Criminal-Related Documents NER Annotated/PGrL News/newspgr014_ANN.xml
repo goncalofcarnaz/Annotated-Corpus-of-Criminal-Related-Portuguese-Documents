@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr014>
+    <docname>newspgr014</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>28-10-2019</publicationdate>
+    <title>Detenção. Abuso sexual de criança. Sequestro. Perseguição. Prisão preventiva. DIAP Lisboa/Sede.</title>
+    <text> A PGDL informa que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 24.10.2019, um arguido fortemente indiciado pela prática de três crimes de abuso sexual de crianças, um crime de sequestro e um crime de perseguição.
+Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 20 anos de idade, de nacionalidade estrangeira, conheceu a vítima, do sexo feminino, de 12 anos de idade, estrangeira, numa rede social em janeiro de 2019. 
+A partir desta data, o arguido passou a abordar a menor em todos os locais onde esta se encontrava, perseguindo-a por diversas vezes com o propósito de assediar a menor, bem sabendo que com o seu comportamento lhe causava medo e inquietação.
+Em três situações o arguido manteve relações sexuais com a ofendida e numa das ocasiões, manteve-a no interior de um quarto, privando-a da sua liberdade, durante 3 dias, mesmo sabendo que os pais a procuravam e se encontravam preocupados com o seu bem-estar.
+Ao arguido foi aplicada a medida de coação de prisão preventiva por se verificarem, em concreto, os perigos de continuação da atividade criminosa, de perturbação do decurso do inquérito e de fuga.
+O processo não se encontra em segredo de justiça.
+O inquérito foi dirigido pela 2ª secção do MP do DIAP de Lisboa/Sede, com a coadjuvação da PJ.
+</text>
+
+<Sentences num="7">
+	
+</Sentences>
+	
+<sent1 desc="A PGDL informa que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 24.10.2019, um arguido fortemente indiciado pela prática de três crimes de abuso sexual de crianças, um crime de sequestro e um crime de perseguição.">
+		<NE>
+			<Organization>PGDL</Organization>
+			<Organization>JIC</Organization>
+			<Time>24.10.2019</Time>
+			<crimetype> abuso sexual de crianças</crimetype> 
+			<crimetype> sequestro</crimetype> 
+			<crimetype> perseguição</crimetype> 
+		</NE>
+</sent1>
+
+<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, de sexo masculino, de 20 anos de idade, de nacionalidade estrangeira, conheceu a vítima, do sexo feminino, de 12 anos de idade, estrangeira, numa rede social em janeiro de 2019. ">
+		<NE>
+			<Numeric> 20 anos</Numeric>
+			<Numeric>12 anos</Numeric>
+			<Time>janeiro de 2019</Time>
+		</NE>
+</sent2>
+
+<sent3 desc="A partir desta data, o arguido passou a abordar a menor em todos os locais onde esta se encontrava, perseguindo-a por diversas vezes com o propósito de assediar a menor, bem sabendo que com o seu comportamento lhe causava medo e inquietação.">
+		<NE>
+			
+		</NE>
+</sent3>
+
+<sent4 desc="Em três situações o arguido manteve relações sexuais com a ofendida e numa das ocasiões, manteve-a no interior de um quarto, privando-a da sua liberdade, durante 3 dias, mesmo sabendo que os pais a procuravam e se encontravam preocupados com o seu bem-estar.">
+		<NE>
+			<Numeric>3 dias</Numeric>
+			
+		</NE>
+</sent4>
+
+<sent5 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva por se verificarem, em concreto, os perigos de continuação da atividade criminosa, de perturbação do decurso do inquérito e de fuga.">
+		<NE>
+			
+		</NE>
+</sent5>
+
+<sent6 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+</sent6>
+
+<sent7 desc="O inquérito foi dirigido pela 2ª secção do MP do DIAP de Lisboa/Sede, com a coadjuvação da PJ.">
+		<NE>
+			<Organization>MP do DIAP de Lisboa/Sede</Organization>
+			<Organization>PJ</Organization>
+		</NE>
+</sent7>
+
+
+</newspgr014>

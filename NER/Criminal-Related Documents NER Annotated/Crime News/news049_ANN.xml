@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><news049>
+    <docname>news049</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>29 Setembro 2018</publicationdate>
+    <title>Supostos caçadores apanhados com iscos capazes de matar mil pessoas.</title>
+    <newstext>Dois alegados caçadores foram surpreendidos pela Guardia Civil espanhola quando tentavam colocar iscos envenenados numa zona de mato. 
+	Os iscos tinham capacidade para matar cerca de mil pessoas e 330 mil pequenas aves de rapina. 
+	Os homens, residentes em Pontevedra, na Galiza, foram detidos e são suspeitos de um crime ambiental contra a flora e a fauna por plantar veneno para caçar de forma ilegal. 
+	Em concreto: dois quilos de carne picada, 406 gramas de um veneno cujo princípio ativo é o carbofurano e os engenhos necessários para montar as armadilhas. 
+	A investigação começou em 2013, quando, no mesmo local, foram encontrados quatro cães mortos por envenenamento com estricnina.
+	</newstext>
+	
+	
+	<Sentences num="5">
+	</Sentences>
+	
+	<sent1 desc="Dois alegados caçadores foram surpreendidos pela Guardia Civil espanhola quando tentavam colocar iscos envenenados numa zona de mato.">
+		<NE>
+			<Organization>Guardia Civil espanhola</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Os iscos tinham capacidade para matar cerca de mil pessoas e 330 mil pequenas aves de rapina. ">
+		<NE>
+			<Numeric>330</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Os homens, residentes em Pontevedra, na Galiza, foram detidos e são suspeitos de um crime ambiental contra a flora e a fauna por plantar veneno para caçar de forma ilegal.">
+		<NE>
+			<Place>Pontevedra</Place>
+			<Place>Galiza</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Em concreto: dois quilos de carne picada, 406 gramas de um veneno cujo princípio ativo é o carbofurano e os engenhos necessários para montar as armadilhas.">
+		<NE>
+			<Numeric>406</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="A investigação começou em 2013, quando, no mesmo local, foram encontrados quatro cães mortos por envenenamento com estricnina.">
+		<NE>
+			<Time>2013</Time>
+		</NE>
+	</sent5>
+	
+	
+	
+</news049>

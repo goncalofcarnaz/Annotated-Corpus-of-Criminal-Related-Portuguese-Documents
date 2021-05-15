@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr031>
+    <docname>newspgr031</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>14-10-2019</publicationdate>
+    <title> Detenção. Violência doméstica agravado. Violação. Sequestro agravado. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>  Informa-se, que foi detido, a 10-10-2019 e posteriormente presente ao JIC para primeiro interrogatório judicial um arguido que ficou fortemente indiciado pela prática de crimes de violência doméstica agravado, de violação e de sequestro agravado.
+	Segundo os fortes indícios recolhidos, o arguido, de 38 anos de idade, vive com a sua companheira como se de marido e mulher se tratassem, desde pelo menos o ano de 2015. 
+	Desde o início do relacionamento que o arguido a molesta física e psicologicamente.
+	Durante o período referido o arguido, fazendo uso de uma faca, apontou-a à ofendida e obrigou-a manter relações sexuais com ele. 
+	Outras vezes, o arguido manteve a ofendida retida no interior da sua habitação do casal, sendo que numa dessas ocasiões, o arguido deixou a ofendida fechada em casa, durante uma semana, sem dinheiro e sem qualquer tipo de alimento.
+	O arguido tinha sido absolvido da prática de um crime de violência doméstica, na pessoa da ofendida, por factos praticados entre o ano de 2015 e 15 de outubro de 2016.
+	Neste momento o arguido encontra-se a ser julgado no âmbito de outro processo, pela prática de um crime de violência doméstica, na pessoa da ofendida, por factos praticados após 15 de outubro de 2016 até 14 de setembro de 2018.
+	No primeiro interrogatório foi aplicada ao arguido a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de perigo de continuação da atividade criminosa.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP do DIAP de Sintra.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc=" Informa-se, que foi detido, a 10-10-2019 e posteriormente presente ao JIC para primeiro interrogatório judicial um arguido que ficou fortemente indiciado pela prática de crimes de violência doméstica agravado, de violação e de sequestro agravado.">
+		<NE>
+			<Time>10-10-2019</Time>
+			<Organization>JIC</Organization>
+			<crimetype>violência doméstica agravado</crimetype>
+			<crimetype>violação</crimetype>
+			<crimetype>sequestro agravado</crimetype>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, de 38 anos de idade, vive com a sua companheira como se de marido e mulher se tratassem, desde pelo menos o ano de 2015. ">
+		<NE>
+			<Numeric>38 anos</Numeric>
+			<Time>2015</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Desde o início do relacionamento que o arguido a molesta física e psicologicamente.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Durante o período referido o arguido, fazendo uso de uma faca, apontou-a à ofendida e obrigou-a manter relações sexuais com ele.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Outras vezes, o arguido manteve a ofendida retida no interior da sua habitação do casal, sendo que numa dessas ocasiões, o arguido deixou a ofendida fechada em casa, durante uma semana, sem dinheiro e sem qualquer tipo de alimento.">
+		<NE>
+			
+		</NE>
+	</sent5>
+
+	<sent6 desc="O arguido tinha sido absolvido da prática de um crime de violência doméstica, na pessoa da ofendida, por factos praticados entre o ano de 2015 e 15 de outubro de 2016.">
+		<NE>
+			<crimetype>violência doméstica</crimetype>
+			<Time>2015</Time>
+			<Time>15 de outubro de 2016</Time>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Neste momento o arguido encontra-se a ser julgado no âmbito de outro processo, pela prática de um crime de violência doméstica, na pessoa da ofendida, por factos praticados após 15 de outubro de 2016 até 14 de setembro de 2018.">
+		<NE>
+			<Time>15 de outubro de 2016</Time>
+			<Time>14 de setembro de 2018</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="No primeiro interrogatório foi aplicada ao arguido a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de perigo de continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent9>
+	
+	<sent10 desc="A investigação prossegue sob a direção do MP do DIAP de Sintra.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>DIAP de Sintra</Organization>
+		</NE>
+	</sent10>
+	
+</newspgr031>

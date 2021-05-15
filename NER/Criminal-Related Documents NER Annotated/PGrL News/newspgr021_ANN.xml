@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr021>
+    <docname>newspgr021</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>23-10-2019</publicationdate>
+    <title>Detenção. Homicídio qualificado. Prisão preventiva. DIAP do Seixal/Comarca de Lisboa.</title>
+    <text> Informa-se que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 22.10.2019, um arguido que ficou fortemente indiciado pela prática de um crime de homicídio qualificado.
+	No essencial, e segundo os fortes indícios recolhidos, o arguido, no dia 21 de Outubro de 2019, no Miratejo, após uma troca de palavras com o ofendido, agrediu-o com um murro na cara. 
+	De seguida, o ofendido fugiu para o interior do seu prédio, tendo o arguido ido no seu encalço e quando o apanhou desferiu-lhe uma cabeçada, provocando a sua queda, ao que o arguido agarrou a vítima por uma das pernas, arrastando-o pelas escadas até ao exterior do edifício, tendo o ofendido durante o percurso embatido com a cabeça nos vários degraus. 
+	Já no exterior, enquanto o ofendido permanecia caído no chão, o arguido pegou em várias pedras da calçada e arremessou-as contra a cara e a cabeça daquele, bem como lhe desferiu vários pontapés na zona da cabeça.
+	Em consequência das agressões o ofendido sofreu várias lesões que foram causa direta e necessária da sua morte.
+	O arguido ficou sujeito à medida de coação de prisão preventiva.
+	A investigação prossegue sob a direção do Ministério Público do DIAP do Seixal da Comarca de Lisboa. 
+	O MP teve a coadjuvação da PJ de Setúbal.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 22.10.2019, um arguido que ficou fortemente indiciado pela prática de um crime de homicídio qualificado.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>22.10.2019</Time>
+			<crimetype>homicídio qualificado</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="No essencial, e segundo os fortes indícios recolhidos, o arguido, no dia 21 de Outubro de 2019, no Miratejo, após uma troca de palavras com o ofendido, agrediu-o com um murro na cara. ">
+		<NE>
+			<Time>21 de Outubro de 2019</Time>
+			<Place>Miratejo</Place>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="De seguida, o ofendido fugiu para o interior do seu prédio, tendo o arguido ido no seu encalço e quando o apanhou desferiu-lhe uma cabeçada, provocando a sua queda, ao que o arguido agarrou a vítima por uma das pernas, arrastando-o pelas escadas até ao exterior do edifício, tendo o ofendido durante o percurso embatido com a cabeça nos vários degraus.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="De seguida, o ofendido fugiu para o interior do seu prédio, tendo o arguido ido no seu encalço e quando o apanhou desferiu-lhe uma cabeçada, provocando a sua queda, ao que o arguido agarrou a vítima por uma das pernas, arrastando-o pelas escadas até ao exterior do edifício, tendo o ofendido durante o percurso embatido com a cabeça nos vários degraus.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Já no exterior, enquanto o ofendido permanecia caído no chão, o arguido pegou em várias pedras da calçada e arremessou-as contra a cara e a cabeça daquele, bem como lhe desferiu vários pontapés na zona da cabeça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Em consequência das agressões o ofendido sofreu várias lesões que foram causa direta e necessária da sua morte.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="O arguido ficou sujeito à medida de coação de prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A investigação prossegue sob a direção do Ministério Público do DIAP do Seixal da Comarca de Lisboa. ">
+		<NE>
+			<Organization>Ministério Público do DIAP do Seixal da Comarca de Lisboa</Organization>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O MP teve a coadjuvação da PJ de Setúbal.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization> PJ de Setúbal</Organization>
+		</NE>
+	</sent9>
+	
+	
+</newspgr021>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><news037>
+    <docname>news037</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>2019-07-17 20:34:00+00:00</publicationdate>
+    <title>PSP investiga fuga de detidos de tribunal no Porto.</title>
+    <newstext>A PSP iniciou uma averiguação interna para perceber como foi possível a fuga do Tribunal de Instrução Criminal (TIC) do Porto de três suspeitos de assaltar residências de idosos, disse esta sexta-feira fonte policial. 
+	"Terá havido uma falha" após a descida dos arguidos às celas do TIC, no piso -2 das instalações judiciais, uma possibilidade que está a ser averiguada internamente pelo Comando Metropolitano da PSP do Porto, acrescentou a fonte. 
+	Os três suspeitos de dezenas de furtos a idosos no Grande Porto fugiram do TIC na quinta-feira, à tarde, depois de um juiz de instrução lhes decretar prisão preventiva. 
+	Após a fuga, as autoridades policiais desencadearam uma operação de captura, sem resultados até meio da manhã de hoje. 
+	A PSP pediu a colaboração da população para capturar os foragidos, alertando que são considerados perigosos e estão "potencialmente" armados. 
+	Caso sejam localizados, a PSP pede que seja "dado conhecimento imediato às autoridades policiais" e que as informações úteis com vista à sua localização e captura deverão ser comunicadas para a Divisão de Investigação Criminal. 
+	Os foragidos são dois irmãos gémeos, de 35 anos, mais um cúmplice, de 25, com antecedentes criminais, que foram presentes ao juiz de instrução depois de terem sido detidos em flagrante delito na terça-feira em Baguim do Monte, concelho de Gondomar. 
+	São-lhes imputados pelo menos 30 assaltos violentos, que terão rendido meio milhão de euros em dinheiro e bens, em residências de idosos na zona mais oriental do Porto e em concelhos periféricos, como Gondomar, Valongo ou Maia. 
+	Os alvos do grupo eram pessoas com idades entre os 65 e os 95 anos.
+</newstext>
+
+	<Sentences num="9">
+	</Sentences>
+	
+	<sent1 desc="A PSP iniciou uma averiguação interna para perceber como foi possível a fuga do Tribunal de Instrução Criminal do Porto de três suspeitos de assaltar residências de idosos, disse esta sexta-feira fonte policial. ">
+		<NE>
+			<Organization>PSP</Organization>
+			<Organization> Tribunal de Instrução Criminal do Porto</Organization>
+			<Time>sexta-feira</Time>
+		</NE>
+	</sent1>
+
+	<sent2 desc="'Terá havido uma falha' após a descida dos arguidos às celas do TIC, no piso -2 das instalações judiciais, uma possibilidade que está a ser averiguada internamente pelo Comando Metropolitano da PSP do Porto, acrescentou a fonte.">
+		<NE>
+			<Organization>TIC</Organization>
+			<Organization>Comando Metropolitano da PSP do Porto</Organization>
+		</NE>
+	</sent2>
+
+	<sent3 desc="Os três suspeitos de dezenas de furtos a idosos no Grande Porto fugiram do TIC na quinta-feira, à tarde, depois de um juiz de instrução lhes decretar prisão preventiva.">
+		<NE>
+			<Organization>TIC</Organization>
+			<Time>sexta-feira</Time>
+		</NE>
+	</sent3>
+
+	<sent4 desc="Após a fuga, as autoridades policiais desencadearam uma operação de captura, sem resultados até meio da manhã de hoje.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="A PSP pediu a colaboração da população para capturar os foragidos, alertando que são considerados perigosos e estão 'potencialmente' armados.">
+		<NE>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Caso sejam localizados, a PSP pede que seja 'dado conhecimento imediato às autoridades policiais' e que as informações úteis com vista à sua localização e captura deverão ser comunicadas para a Divisão de Investigação Criminal.">
+		<NE>
+			<Organization>PSP</Organization>
+			<Organization>Divisão de Investigação Criminal</Organization>
+		</NE>
+	</sent6>
+
+	<sent7 desc="Os foragidos são dois irmãos gémeos, de 35 anos, mais um cúmplice, de 25, com antecedentes criminais, que foram presentes ao juiz de instrução depois de terem sido detidos em flagrante delito na terça-feira em Baguim do Monte, concelho de Gondomar.">
+		<NE>
+			<Numeric>35</Numeric>
+			<Numeric>25</Numeric>
+			<Place>Baguim do Monte</Place>
+			<Place>Gondomar</Place>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="São-lhes imputados pelo menos 30 assaltos violentos, que terão rendido meio milhão de euros em dinheiro e bens, em residências de idosos na zona mais oriental do Porto e em concelhos periféricos, como Gondomar, Valongo ou Maia.">
+		<NE>
+			<Numeric>30</Numeric>
+			<Place>Gondomar</Place>
+			<Place>Valongo</Place>
+			<Place>Maia</Place>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Os alvos do grupo eram pessoas com idades entre os 65 e os 95 anos.">
+		<NE>
+			<Numeric>65</Numeric>
+			<Numeric>95</Numeric>
+		</NE>
+	</sent9>
+	
+</news037>

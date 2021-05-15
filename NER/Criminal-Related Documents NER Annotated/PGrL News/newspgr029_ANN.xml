@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr029>
+    <docname>newspgr029</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>14-10-2019</publicationdate>
+    <title> Detenção. Associação criminosa. Furto qualificado. Prisão preventiva. DIAP de Lisboa/Sede.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa torna público que no âmbito de um inquérito em que se investigam factos suscetíveis de integrarem, a prática dos crimes de furto qualificado e de associação criminosa, foram emitidos vários mandados de detenção europeu e internacional, que resultaram na detenção em Barcelona de uma arguida, de nacionalidade estrangeira, a qual foi entregue às autoridades portuguesas e apresentada ao JIC no dia 10.10.2019.
+	No essencial, e segundo os fortes indícios recolhidos, a arguida, em co-autoria com outros cinco suspeitos já identificados, no dia 13 de Janeiro de 2019, no interior de um estabelecimento hospitalar sito em Lisboa, apropriou-se de nove equipamentos topo de gama de endoscopia e colonoscopia, avaliados em mais de 200 mil euros, numa prática criminosa organizada que também atuou em diversos países na europa e cujo valor dos furtos ascende a mais de 60 milhões de euros, equipamentos que teriam como destino vários países da América latina.
+	Foi aplicada à arguida a medida de coação de prisão preventiva.
+	A investigação prossegue sob a direção do Ministério Público do DIAP da Comarca de Lisboa – Direção, com a coadjuvação da Policia Judiciária do Porto.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público que no âmbito de um inquérito em que se investigam factos suscetíveis de integrarem, a prática dos crimes de furto qualificado e de associação criminosa, foram emitidos vários mandados de detenção europeu e internacional, que resultaram na detenção em Barcelona de uma arguida, de nacionalidade estrangeira, a qual foi entregue às autoridades portuguesas e apresentada ao JIC no dia 10.10.2019.">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+			
+			<crimetype>furto qualificado</crimetype>
+			<crimetype>associação criminosa</crimetype>
+			<Place>Barcelona</Place>
+			<Organization>JIC</Organization>
+			<Time>10.10.2019</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="No essencial, e segundo os fortes indícios recolhidos, a arguida, em co-autoria com outros cinco suspeitos já identificados, no dia 13 de Janeiro de 2019, no interior de um estabelecimento hospitalar sito em Lisboa, apropriou-se de nove equipamentos topo de gama de endoscopia e colonoscopia, avaliados em mais de 200 mil euros, numa prática criminosa organizada que também atuou em diversos países na europa e cujo valor dos furtos ascende a mais de 60 milhões de euros, equipamentos que teriam como destino vários países da América latina.">
+		<NE>
+			<Time>13 de Janeiro de 2019</Time>
+			<Place>Lisboa</Place>
+			<Numeric>200 mil</Numeric>
+			<Numeric>60 milhões</Numeric>
+			<Place>América Latina</Place>
+			
+				
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Foi aplicada à arguida a medida de coação de prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="A investigação prossegue sob a direção do Ministério Público do DIAP da Comarca de Lisboa – Direção, com a coadjuvação da Policia Judiciária do Porto.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>DIAP da Comarca de Lisboa – Direção</Organization>
+			<Organization>Policia Judiciária do Porto</Organization>
+		</NE>
+	</sent4>
+	
+
+	
+	
+</newspgr029>

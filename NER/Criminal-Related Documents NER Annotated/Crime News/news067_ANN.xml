@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><news067>
+    <docname>news067</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>24 Agosto 2018</publicationdate>
+    <title>Descobriu assassino do irmão no Facebook 37 anos depois do crime.</title>
+    <newstext>Foi graças ao Facebook que Penny Farmer, jornalista britânica, descobriu o homem que matou o irmão e a namorada, quando a internet ainda não fazia parte da vida das pessoas. 
+	A investigação acabaria por revelar que o suspeito terá matado 33 pessoas. 
+	A confirmarem-se todos os homicídios, Silas Boston terá sido um dos mais mortíferos assassinos em série dos Estados Unidos da América. 
+	Os cadáveres de Chris Farmer e Peta Frampton foram encontrados em julho de 1978 a flutuar junto à costa da Guatemala. 
+	Chris era um médico de 25 anos. 
+	Peta uma advogada de 24. 
+	Namoravam desde o liceu. 
+	Estavam de férias nas Caraíbas. 
+	Foram torturados e atirados ao mar. 
+	"O aspeto dos dois corpos era monstruoso", disse, então, o médico que realizou as autópsias. 
+	Conta a BBC, que entrevistou Penny Farmer, que, na época, a investigação acabaria por cair no esquecimento. 
+	Mas a dor ficaria para sempre nas famílias do casal. 
+	Até que, no dia 2 de outubro de 2015, Penny resolveu pesquisar o nome do suspeito no Facebook e, num ápice, 37 anos depois, ele ali estava. 
+	Ao alcance de um clique. 
+	Desse clique resultaram tantos outros e a verdade que vinha à tona tornava-se cada vez mais assustadora. 
+	"Não sei por que nunca me tinha lembrado de fazer aquilo antes!", confessou Penny, Segundo a jornalista, os filhos de Silas Boston disseram à Polícia que o pai havia matado o casal de turistas, mas, absurdamente, os seus depoimentos nunca foram levados a sério, nem recolhidos oficialmente. 
+	"Não havia exatamente uma força de segurança na Guatemala, era um país do terceiro mundo", ressalva Penny. 
+	Russel Boston, um dos filhos, disse ainda que na família todos sabiam que o pai tinha matado a mãe de ambos, dada como desaparecida pelas autoridades. 
+	Foram anos de medo e terror a viver com um pai que sabiam ser um assassino. 
+	Fruto de uma colaboração intensa entre Penny e os filhos de Boston, a 1 de dezembro de 2016, Silas foi detido. 
+	Era, ao fim de 38 anos, dado como suspeito dos homicídios de Chris e Peta. 
+	Mas, doente e com idade avançada, Silas acabaria por morrer alguns meses depois sem nunca responder por nenhum dos crimes. 
+	Antes de morrer, disse ao filho Russel que tinha matado não duas, mas 33 pessoas. 
+	Penny escreveu toda a história no livro "Dead in the water" ("Mortos na água") publicado este mês.
+	</newstext>
+
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Foi graças ao Facebook que Penny Farmer, jornalista britânica, descobriu o homem que matou o irmão e a namorada, quando a internet ainda não fazia parte da vida das pessoas.">
+		<NE>
+			<Organization>Facebook</Organization>
+			<Person>Penny Farmer</Person>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A investigação acabaria por revelar que o suspeito terá matado 33 pessoas. ">
+		<NE>
+			<Numeric>33</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="A confirmarem-se todos os homicídios, Silas Boston terá sido um dos mais mortíferos assassinos em série dos Estados Unidos da América. ">
+		<NE>
+			<Person>Silas Boston</Person>
+			<Place>Estados Unidos da América</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Os cadáveres de Chris Farmer e Peta Frampton foram encontrados em julho de 1978 a flutuar junto à costa da Guatemala. ">
+		<NE>
+			<Person>Chris Farmer</Person>
+			<Person>Peta Frampton</Person>
+			<Time>julho de 1978</Time>
+			<Place>Guatemala</Place>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Chris era um médico de 25 anos. ">
+		<NE>
+			<Numeric>25</Numeric>
+			<Person>Chris</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Peta uma advogada de 24. ">
+		<NE>
+			<Person>Peta</Person>
+			<Numeric>24</Numeric>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Namoravam desde o liceu.">
+		<NE>
+				
+		</NE>
+	</sent7>
+
+	
+	<sent8 desc="Estavam de férias nas Caraíbas. ">
+		<NE>
+			<Place>Caraíbas</Place>
+		</NE>
+	</sent8>
+	
+	
+	<sent9 desc="Foram torturados e atirados ao mar. ">
+		<NE>
+		
+		</NE>
+	</sent9>
+	
+	
+	<sent10 desc="'O aspeto dos dois corpos era monstruoso', disse, então, o médico que realizou as autópsias. ">
+		<NE>
+		
+		</NE>
+	</sent10>
+	
+	
+	<sent11 desc="Conta a BBC, que entrevistou Penny Farmer, que, na época, a investigação acabaria por cair no esquecimento.">
+		<NE>
+			<Organization>BBC</Organization>
+			<Person>Penny Farmer</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="Mas a dor ficaria para sempre nas famílias do casal. ">
+		<NE>
+		
+		</NE>
+	</sent12>
+	
+	
+	<sent13 desc="Até que, no dia 2 de outubro de 2015, Penny resolveu pesquisar o nome do suspeito no Facebook e, num ápice, 37 anos depois, ele ali estava.">
+		<NE>
+			<Time> 2 de outubro de 2015</Time>
+			<Person>Penny</Person>
+			<Organization>Facebook</Organization>
+			<Numeric>37</Numeric>
+		</NE>
+	</sent13>
+	
+	
+	<sent14 desc="Ao alcance de um clique. ">
+		<NE>
+		
+		</NE>
+	</sent14>
+	
+	<sent15 desc="Desse clique resultaram tantos outros e a verdade que vinha à tona tornava-se cada vez mais assustadora. ">
+		<NE>
+		
+		</NE>
+	</sent15>
+	
+	<sent16 desc="Não sei por que nunca me tinha lembrado de fazer aquilo antes!, confessou Penny, Segundo a jornalista, os filhos de Silas Boston disseram à Polícia que o pai havia matado o casal de turistas, mas, absurdamente, os seus depoimentos nunca foram levados a sério, nem recolhidos oficialmente. ">
+		<NE>
+			<Person>Penny</Person>
+			<Person>Silas Boston</Person>
+			<Organization>Polícia</Organization>
+			
+		</NE>
+	</sent16>
+	
+	
+	<sent17 desc="'Não havia exatamente uma força de segurança na Guatemala, era um país do terceiro mundo', ressalva Penny. ">
+		<NE>
+			<Person>Penny</Person>
+		</NE>
+	</sent17>
+	
+	<sent18 desc="Russel Boston, um dos filhos, disse ainda que na família todos sabiam que o pai tinha matado a mãe de ambos, dada como desaparecida pelas autoridades. ">
+		<NE>
+			<Person>Russel Boston</Person>
+		</NE>
+	</sent18>
+	
+	<sent19 desc="Foram anos de medo e terror a viver com um pai que sabiam ser um assassino. ">
+		<NE>
+		
+		</NE>
+	</sent19>
+	
+	<sent20 desc="Fruto de uma colaboração intensa entre Penny e os filhos de Boston, a 1 de dezembro de 2016, Silas foi detido. ">
+		<NE>
+			<Person>Penny</Person>
+			<Place>Boston</Place>
+			<Time>1 de dezembro de 2016</Time>
+			<Person>Silas</Person>
+		</NE>
+	</sent20>
+	
+	<sent21 desc="Era, ao fim de 38 anos, dado como suspeito dos homicídios de Chris e Peta. ">
+		<NE>
+			<Numeric>38</Numeric>
+			<Person>Chris</Person>	
+			<Person>Peta</Person>
+			<crimetype>homicídios</crimetype>
+		</NE>
+	</sent21>
+	
+	<sent22 desc="Mas, doente e com idade avançada, Silas acabaria por morrer alguns meses depois sem nunca responder por nenhum dos crimes. ">
+		<NE>
+			
+		</NE>
+	</sent22>
+	
+	<sent23 desc="Antes de morrer, disse ao filho Russel que tinha matado não duas, mas 33 pessoas. ">
+		<NE>
+			<Person>Russel</Person>
+			<Numeric>33</Numeric>
+		</NE>
+	</sent23>
+	
+	<sent24 desc="Penny escreveu toda a história no livro 'Dead in the water' ('Mortos na água') publicado este mês. ">
+		<NE>
+			<Person>Penny</Person>
+		</NE>
+	</sent24>
+	
+</news067>

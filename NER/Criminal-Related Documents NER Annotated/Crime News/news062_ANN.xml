@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><news062>
+    <docname>news062</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>29 Agosto 2018</publicationdate>
+    <title>Funcionária desviou 83 mil euros das licenças de pesca.</title>
+    <newstext>O Ministério Público acusou uma funcionária da Direção Regional de Agricultura e Pescas do Norte de desviar mais de 80 mil euros provenientes da emissão de licenças de pesca lúdica. 
+	A mulher está suspensa e vai ser julgada por peculato. 
+	A arguida, assistente técnica da Direção Regional de Agricultura e Pescas do Norte (DRAPN), organismo sediado em Mirandela e com delegações espalhadas pelo Norte, nomeadamente em Matosinhos e Senhora da Hora, terá começado a desviar o dinheiro das licenças que a própria emitia em 2007, pratica que terá continuado até março de 2015, altura em que foi descoberta. 
+	Segundo o MP, terá desviado 83341 euros. 
+	Ao que o JN apurou, a funcionária em questão terá chegado à DRAPN pouco antes de 2007, transferida após a extinção de outro organismo do Estado ligado ao mar que funcionava junto à Docapesca, em Matosinhos. 
+	Foi colocada nas delegações da Estrada da Circunvalação e Senhora da Hora. 
+	Terá sido o facto de as receitas "parecerem muito reduzidas", tendo em conta o "elevado número" de pescadores que ali se deslocavam para tirar licença, que o comportamento da mulher se tornou suspeito. 
+	A investigação do MP concluiu que a funcionária passou oito anos a desviar as receitas das licenças que cobrava para o Estado. 
+	Desde há alguns anos que é possível obter as licenças de pesca lúdica através da internet ou em qualquer multibanco. 
+	No entanto, desta forma, qualquer erro cometido, quer na seleção do tipo de licença, quer nos elementos de identificação, não pode ser retificado nem o pescador será reembolsado. 
+	Continuam por isso a ser milhares os que optam pela "emissão presencial", deslocando-se às delegações da DRAPN ou do Instituto da Conservação da Natureza e das Florestas, um método "menos complicado e mais seguro".
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="O Ministério Público acusou uma funcionária da Direção Regional de Agricultura e Pescas do Norte de desviar mais de 80 mil euros provenientes da emissão de licenças de pesca lúdica.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>Direção Regional de Agricultura e Pescas do Norte</Organization>
+			<Numeric>80</Numeric>
+			
+		</NE>
+	</sent1>
+	
+	<sent2 desc="A mulher está suspensa e vai ser julgada por peculato. ">
+		<NE>
+			<crimetype>peculato</crimetype>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="A arguida, assistente técnica da Direção Regional de Agricultura e Pescas do Norte (DRAPN), organismo sediado em Mirandela e com delegações espalhadas pelo Norte, nomeadamente em Matosinhos e Senhora da Hora, terá começado a desviar o dinheiro das licenças que a própria emitia em 2007, pratica que terá continuado até março de 2015, altura em que foi descoberta. ">
+		<NE>
+			<Organization>Direção Regional de Agricultura e Pescas do Norte</Organization>
+			<Organization>DRAPN</Organization>
+			<Place>Mirandela</Place>
+			<Place>Norte</Place>
+			<Place>Matosinhos</Place>
+			<Place>Senhora da Hora</Place>
+			<Time>2007</Time>
+			<Time>2015</Time>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Segundo o MP, terá desviado 83341 euros. ">
+		<NE>
+			<Numeric>83341</Numeric>
+			<Organization>MP</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Ao que o JN apurou, a funcionária em questão terá chegado à DRAPN pouco antes de 2007, transferida após a extinção de outro organismo do Estado ligado ao mar que funcionava junto à Docapesca, em Matosinhos. ">
+		<NE>
+			<Organization>JN</Organization>
+			<Organization>DRAPN</Organization>
+			<Time>2007</Time>
+			<Organization>Docapesca</Organization>
+			<Place>Matosinhos</Place>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Foi colocada nas delegações da Estrada da Circunvalação e Senhora da Hora. ">
+		<NE>
+			<Place>Estrada da Circunvalação</Place>
+			<Place>Senhora da Hora</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Terá sido o facto de as receitas 'parecerem muito reduzidas', tendo em conta o 'elevado número' de pescadores que ali se deslocavam para tirar licença, que o comportamento da mulher se tornou suspeito.">
+		<NE>
+		
+		</NE>
+	</sent7>
+	
+	<sent8 desc="A investigação do MP concluiu que a funcionária passou oito anos a desviar as receitas das licenças que cobrava para o Estado.">
+		<NE>
+			<Organization>MP</Organization>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Desde há alguns anos que é possível obter as licenças de pesca lúdica através da internet ou em qualquer multibanco. ">
+		<NE>
+		
+		</NE>
+	</sent9>
+	
+	<sent10 desc="No entanto, desta forma, qualquer erro cometido, quer na seleção do tipo de licença, quer nos elementos de identificação, não pode ser retificado nem o pescador será reembolsado. ">
+		<NE>
+		
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Continuam por isso a ser milhares os que optam pela 'emissão presencial', deslocando-se às delegações da DRAPN ou do Instituto da Conservação da Natureza e das Florestas, um método 'menos complicado e mais seguro'.">
+		<NE>
+			<Organization>DRAPN</Organization>
+			<Organization>Instituto da Conservação da Natureza e das Florestas</Organization>
+		</NE>
+	</sent11>
+	
+</news062>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><news079>
+    <docname>news079</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>21 Junho 2018</publicationdate>
+    <title>Condenado a 12 anos de prisão por ter ordenado ataque com ácido à ex-namorada.</title>
+    <newstext>Um homem acusado de ter ordenado um ataque com ácido à ex-namorada foi condenado, esta quinta-feira, a 12 anos de prisão por um crime de homicídio qualificado na forma tentada e um de violência doméstica. 
+	Os crimes ocorreram em maio de 2017, em Alvor, no concelho de Portimão.  
+	A vítima, Eleanor Chessel, de 29 anos e nacionalidade britânica, sofreu queimaduras em 60% do corpo. 
+	Foi atacada na rua por um outro homem, a mando do arguido, dois meses depois de ter terminado a relação de dois anos.  
+	De acordo com o Ministério Público (MP), Cláudio Gouveia, de 34 anos, arquitetou "um plano cruel e macabro" contra a ex-namorada. 
+	O casal morava na Madeira. 
+	Após a separação, Eleanor mudou-se para o Algarve. 
+	O Tribunal de Portimão deu como provado que Cláudio contratou um homem para planear um encontro com a vítima, criando um perfil falso numa rede social. 
+	Depois, ambos viajaram da Madeira para o Algarve para concretizar o plano. 
+	Ficou também provado que o arguido enviou várias mensagens à vítima e à mãe. 
+	Numa dizia que lhe ia queimar a cara. 
+	Ficou também provado que, no dia do ataque, Cláudio "ficou de vigia" enquanto assistia à ex-namorada a ser regada, na rua, com dois litros de ácido na cara e no corpo. 
+	O suspeito da autoria material dos crimes, Edmundo Fonseca, está em prisão preventiva, acusado pelo crime de homicídio qualificado na forma tentada, mas vai ser julgado num processo autónomo, uma vez que foi detido meses depois do mandante e o tribunal não o conseguiu notificar a tempo para ser julgado no mesmo processo.  
+	Cláudio Gouveia foi ainda condenado a pagar uma indemnização de 5 mil euros à vítima e está proibido de se aproximar de Eleanor pelo prazo de cinco anos.</newstext>
+
+	
+	<Sentences num="">
+
+	</Sentences>
+
+	<sent1 desc="Um homem acusado de ter ordenado um ataque com ácido à ex-namorada foi condenado, esta quinta-feira, a 12 anos de prisão por um crime de homicídio qualificado na forma tentada e um de violência doméstica. ">
+		<NE>
+			<Time>quinta-feira</Time>
+			<Numeric>12</Numeric>
+			<crimetype>homicídio qualificado</crimetype>
+		</NE>
+		
+	</sent1>	
+	
+	
+	<sent2 desc="Os crimes ocorreram em maio de 2017, em Alvor, no concelho de Portimão.  ">
+		<NE>
+			<Time>maio de 2017</Time>
+			<Place>Alvor</Place>
+			<Place>Portimão</Place>
+		</NE>
+	
+	</sent2>
+	
+	<sent3 desc="A vítima, Eleanor Chessel, de 29 anos e nacionalidade britânica, sofreu queimaduras em 60% do corpo. ">
+		<NE>
+			<Person>Eleanor Chessel</Person>
+			<Numeric>29</Numeric>
+			<Numeric>69%</Numeric>
+		</NE>
+	
+	</sent3>
+	
+	
+	<sent4 desc="Foi atacada na rua por um outro homem, a mando do arguido, dois meses depois de ter terminado a relação de dois anos.  ">
+		<NE>
+		</NE>
+	
+	</sent4>
+	
+	<sent5 desc="De acordo com o Ministério Público (MP), Cláudio Gouveia, de 34 anos, arquitetou 'um plano cruel e macabro' contra a ex-namorada. ">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>MP</Organization>
+			<Person>Cláudio Gouveia</Person>
+			<Numeric>34</Numeric>
+			
+		</NE>
+	
+	</sent5>
+	
+	<sent6 desc="O casal morava na Madeira.">
+		<NE>
+			<Place>Madeira</Place>
+		</NE>
+	
+	</sent6>
+	
+	<sent7 desc="Após a separação, Eleanor mudou-se para o Algarve. ">
+		<NE>
+			<Person>Eleanor</Person>
+			<Place>Algarve</Place>
+		</NE>
+	
+	</sent7>
+	
+	<sent8 desc="O Tribunal de Portimão deu como provado que Cláudio contratou um homem para planear um encontro com a vítima, criando um perfil falso numa rede social. ">
+		<NE>
+			<Organization>Tribunal de Portimão</Organization>
+			<Person>Cláudio</Person>
+		</NE>
+	
+	</sent8>
+	
+	
+	<sent9 desc="Depois, ambos viajaram da Madeira para o Algarve para concretizar o plano. ">
+		<NE>
+			<Place>Madeira</Place>
+			<Place>Algarve</Place>
+		</NE>
+	
+	</sent9>
+	
+	<sent10 desc="Ficou também provado que o arguido enviou várias mensagens à vítima e à mãe. ">
+		<NE>
+			
+		</NE>
+	
+	</sent10>
+	
+	<sent11 desc="Numa dizia que lhe ia queimar a cara. ">
+		<NE>
+		</NE>
+	
+	</sent11>
+	
+	<sent12 desc="Ficou também provado que, no dia do ataque, Cláudio 'ficou de vigia' enquanto assistia à ex-namorada a ser regada, na rua, com dois litros de ácido na cara e no corpo.">
+		<NE>
+			<Person>Cláudio</Person>
+		</NE>
+	
+	</sent12>
+	
+	<sent13 desc="O suspeito da autoria material dos crimes, Edmundo Fonseca, está em prisão preventiva, acusado pelo crime de homicídio qualificado na forma tentada, mas vai ser julgado num processo autónomo, uma vez que foi detido meses depois do mandante e o tribunal não o conseguiu notificar a tempo para ser julgado no mesmo processo. ">
+		<NE>
+			<Person> Edmundo Fonseca</Person>
+			<crimetype> homicídio qualificado na forma tentada</crimetype>
+			<Organization>tribunal</Organization>
+		</NE>
+	
+	</sent13>
+	
+	<sent11 desc="Cláudio Gouveia foi ainda condenado a pagar uma indemnização de 5 mil euros à vítima e está proibido de se aproximar de Eleanor pelo prazo de cinco anos.">
+		<NE>
+			<Person>Cláudio Gouveia</Person>
+			<Numeric>5</Numeric>
+			<Person>Eleanor</Person>
+		</NE>
+	
+	</sent11>
+	
+	
+</news079>

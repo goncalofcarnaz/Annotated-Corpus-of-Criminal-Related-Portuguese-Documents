@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><news010>
+    <docname>news010</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>2019-07-17 20:34:00+00:00</publicationdate>
+    <title>Detido suspeito de violar, sequestrar e agredir uma jovem em Braga.</title>
+    <newstext>A Polícia Judiciária (PJ) anunciou esta quarta-feira a detenção de um homem de 28 anos suspeito de violar, sequestrar e agredir uma jovem de 21 em Braga, em setembro último. 
+	Em comunicado, a PJ refere que o detido é estrangeiro e já foi levado a tribunal, para primeiro interrogatório judicial. 
+	Foram-lhe aplicadas as medidas de coação de apresentações diárias, proibição de contactar a vítima, proibição de frequentar espaços de diversão noturna e proibição de se ausentar do país. 
+	Está indiciado pela presumível autoria dos crimes de violação, coação sexual, sequestro e ofensa à integridade física. 
+	Os factos ocorreram na madrugada de 27 de setembro, nas imediações da Universidade do Minho, numa zona próxima dos bares.
+	</newstext>
+
+	<Sentences num="5">	
+	</Sentences>
+	
+	<sent1 desc="A Polícia Judiciária (PJ) anunciou esta quarta-feira a detenção de um homem de 28 anos suspeito de violar, sequestrar e agredir uma jovem de 21 em Braga, em setembro último. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>PJ</Organization>
+			<Time>quarta-feira</Time>
+			<Numeric>28</Numeric>
+			<Numeric>21</Numeric>
+			<Place>Braga</Place>
+			<Time>setembro</Time>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Em comunicado, a PJ refere que o detido é estrangeiro e já foi levado a tribunal, para primeiro interrogatório judicial.">
+		<NE>
+			<Organization>PJ</Organization>
+			<Organization>tribunal</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Foram-lhe aplicadas as medidas de coação de apresentações diárias, proibição de contactar a vítima, proibição de frequentar espaços de diversão noturna e proibição de se ausentar do país.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Está indiciado pela presumível autoria dos crimes de violação, coação sexual, sequestro e ofensa à integridade física. ">
+		<NE>
+			<crimetype>violação</crimetype>
+			<crimetype>coação sexual</crimetype>
+			<crimetype>sequestro</crimetype>
+			<crimetype>ofensa à integridade física</crimetype>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Os factos ocorreram na madrugada de 27 de setembro, nas imediações da Universidade do Minho, numa zona próxima dos bares.">
+		<NE>
+			<Time>27 de setembro</Time>
+			<Organization>Universidade do Minho</Organization>
+		</NE>
+	</sent5>
+	
+	
+</news010>

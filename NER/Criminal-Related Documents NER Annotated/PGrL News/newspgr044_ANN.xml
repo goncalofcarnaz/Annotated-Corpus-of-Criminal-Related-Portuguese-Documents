@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr044>
+    <docname>newspgr044</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>27-09-2019</publicationdate>
+    <title> Acusação. Contrabando qualificado continuado. Falsificação de documento. DIAP de Lisboa/Sede.</title>
+    <text>  O MP requereu o julgamento em Tribunal Coletivo de onze arguidos, dois deles, pessoas coletivas, estas pela prática de um crime de contrabando qualificado continuado e as pessoas singulares pela prática de um crime de contrabando qualificado continuado, em concurso real com um crime de falsificação de documento.
+	No essencial ficou suficientemente indiciado que os arguidos pessoas singulares, no período compreendido entre 13/12/2012 a 28/06/2018, enquanto responsáveis e trabalhadores das sociedades comerciais, em comunhão de esforços e na execução do plano previamente elaborado, obtiveram documentos forjados dos seus fornecedores, domiciliados na China, que apresentaram nas alfândegas, com intuito de esconder a real origem dos fornecedores da mercadoria importada ou do valor real das mercadorias, com o objetivo de beneficiarem da redução do pagamento de direitos aduaneiros e do não pagamento de direitos antidumping e, consequentemente, do IVA sobre esses direitos.
+	Dessa forma os arguidos lesaram os interesses do Estado português e da EU, obtendo um benefício fiscal aduaneiro que não lhes era devido, beneficiando de uma prestação tributária aduaneira em falta de €1.518.999,86.
+	Os arguidos encontram-se sujeitos a TIR.
+	O inquérito foi dirigido pelo MP na 8.ª secção do DIAP de Lisboa/sede, comarca de Lisboa, com a coadjuvação da DSAFA - Direção de Serviços Antifraude Aduaneira.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="O MP requereu o julgamento em Tribunal Coletivo de onze arguidos, dois deles, pessoas coletivas, estas pela prática de um crime de contrabando qualificado continuado e as pessoas singulares pela prática de um crime de contrabando qualificado continuado, em concurso real com um crime de falsificação de documento.">
+		<NE>
+			<Organization>MP</Organization>
+			<crimetype>contrabando qualificado continuado</crimetype>
+			<crimetype>falsificação de documento</crimetype>
+		</NE>
+	</sent1>
+
+	<sent2 desc="No essencial ficou suficientemente indiciado que os arguidos pessoas singulares, no período compreendido entre 13/12/2012 a 28/06/2018, enquanto responsáveis e trabalhadores das sociedades comerciais, em comunhão de esforços e na execução do plano previamente elaborado, obtiveram documentos forjados dos seus fornecedores, domiciliados na China, que apresentaram nas alfândegas, com intuito de esconder a real origem dos fornecedores da mercadoria importada ou do valor real das mercadorias, com o objetivo de beneficiarem da redução do pagamento de direitos aduaneiros e do não pagamento de direitos antidumping e, consequentemente, do IVA sobre esses direitos.">
+		<NE>
+			<Time>13/12/2012</Time>
+			<Time>28/06/2018</Time>
+			<Place>China</Place>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Dessa forma os arguidos lesaram os interesses do Estado português e da EU, obtendo um benefício fiscal aduaneiro que não lhes era devido, beneficiando de uma prestação tributária aduaneira em falta de €1.518.999,86.">
+		<NE>
+			<Organization>Estado</Organization>
+			<Organization>EU</Organization>
+			<Numeric>€1.518.999,86</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Os arguidos encontram-se sujeitos a TIR.">
+		<NE>
+			<Organization>TIR</Organization>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O inquérito foi dirigido pelo MP na 8.ª secção do DIAP de Lisboa/sede, comarca de Lisboa, com a coadjuvação da DSAFA - Direção de Serviços Antifraude Aduaneira.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>8.ª secção do DIAP de Lisboa/sede</Organization>
+			<Organization>comarca de Lisboa</Organization>
+			<Organization>DSAFA - Direção de Serviços Antifraude Aduaneira</Organization>
+		</NE>
+	</sent5>
+	
+	
+	
+</newspgr044>

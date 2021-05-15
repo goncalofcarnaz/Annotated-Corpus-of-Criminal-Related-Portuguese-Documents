@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><news082>
+    <docname>news082</docname>
+    <authors>Diario de Noticias</authors>
+    <publicationdate>20 Junho 2018</publicationdate>
+    <title>Mulher diz que matou filho de 11 anos para o proteger.</title>
+    <newstext>Uma mulher acusada de matar o filho de 11 anos confessou o crime esta quarta-feira, no Tribunal da Guarda, mas alegou que o fez porque "ouvia vozes" e estava na sua cabeça "fazer isso" para o proteger.  
+	"Estava na minha cabeça fazer isso", disse a arguida, indicando que todos os factos que constam da acusação "são verdadeiros".  
+	O crime ocorreu no dia 12 de setembro de 2017, na residência da família da arguida, no lugar de Catraia do Sortelhão, freguesia de Santana de Azinha, no concelho da Guarda, quando a mulher de 47 anos, desempregada, que sofria de depressão, decidiu matar o filho, asfixiando-o com um cachecol, tomando comprimidos para também colocar termo à própria vida.  
+	Segundo a acusação, na manhã daquele dia, Ilda Gonçalves trancou a porta de casa, dirigiu-se ao quarto do filho, Rafael Gonçalves, e passou-lhe um cachecol à volta do pescoço asfixiando-o, colocando depois o corpo no chão do 'hall' de entrada da habitação. 
+	Posteriormente, enviou uma mensagem à madrinha do menino, que naquele dia o levaria para a escola, a informar que ele não iria, deitando-se posteriormente na cama, onde esteve até às 16:30, quando o marido entrou em casa e encontrou o filho morto.  
+	A acusação considera que a arguida "agiu de forma deliberada e consciente".  
+	Nas declarações que prestou ao tribunal, Ilda Gonçalves disse que andava há dois anos a pensar em matar-se e em "levar" o filho com ela.  
+	Quando o juiz lhe perguntou porquê, respondeu que estava na sua cabeça "fazer isso", assumindo que sofria de depressão e que não andava a ser medicada.  
+	O filho "não se queixava dos colegas nem da escola", mas a mãe alegou que não queria que "gozassem" com a criança, segundo o cenário que existia na sua cabeça.  
+	"Era tudo na minha cabeça. Ouvia vozes para acabar com a minha vida e com a vida do meu filho", justificou. 
+	Na primeira sessão do julgamento foi ouvida por videoconferência a médica psiquiatra Ana Brito, que elaborou o relatório que está nos autos.  
+	A testemunha afirmou que, no dia do homicídio, a arguida podia ter sintomatologia depressiva, mas era "capaz de decidir entre matar o filho e não matar". 
+	Outra testemunha, Andreia Alves, disse na sessão que a vítima, de quem era prima e madrinha, "era uma criança espetacular, de sorriso tímido e envergonhado". 
+	O menino "era feliz" e "nunca se queixou" da escola nem de se ser maltratado em casa, referindo que a mãe "era muito protetora".  
+	A arguida, que se senta no banco dos réus acusada de um crime de homicídio qualificado, foi detida pela Polícia Judiciária da Guarda em 19 de outubro de 2017. 
+	No dia do crime foi internada no serviço de psiquiatria da Unidade Local de Saúde da Guarda e só teve alta naquela data, após o que permanece em prisão preventiva.</newstext>
+
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Uma mulher acusada de matar o filho de 11 anos confessou o crime esta quarta-feira, no Tribunal da Guarda, mas alegou que o fez porque 'ouvia vozes' e estava na sua cabeça 'fazer isso' para o proteger.">
+		<NE>
+			<Numeric>11</Numeric>
+			<Time>quarta-feira</Time>
+			<Organization>Tribunal da Guarda</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="'Estava na minha cabeça fazer isso', disse a arguida, indicando que todos os factos que constam da acusação 'são verdadeiros'. ">
+		<NE>
+			
+		
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O crime ocorreu no dia 12 de setembro de 2017, na residência da família da arguida, no lugar de Catraia do Sortelhão, freguesia de Santana de Azinha, no concelho da Guarda, quando a mulher de 47 anos, desempregada, que sofria de depressão, decidiu matar o filho, asfixiando-o com um cachecol, tomando comprimidos para também colocar termo à própria vida.">
+		<NE>
+			<Time>12 de setembro de 2017</Time>
+			<Place>Catraia do Sortelhão</Place>
+			<Place>Santana de Azinha</Place>
+			<Place>Guarda</Place>
+			<Numeric>47</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Segundo a acusação, na manhã daquele dia, Ilda Gonçalves trancou a porta de casa, dirigiu-se ao quarto do filho, Rafael Gonçalves, e passou-lhe um cachecol à volta do pescoço asfixiando-o, colocando depois o corpo no chão do 'hall' de entrada da habitação.">
+		<NE>
+			<Person>Rafael Gonçalves</Person>
+			<Person>Ilda Gonçalves</Person>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Posteriormente, enviou uma mensagem à madrinha do menino, que naquele dia o levaria para a escola, a informar que ele não iria, deitando-se posteriormente na cama, onde esteve até às 16:30, quando o marido entrou em casa e encontrou o filho morto.">
+		<NE>
+			<Time>16:30</Time>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A acusação considera que a arguida 'agiu de forma deliberada e consciente'.  ">
+		<NE>
+		
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Nas declarações que prestou ao tribunal, Ilda Gonçalves disse que andava há dois anos a pensar em matar-se e em 'levar' o filho com ela. ">
+		<NE>
+			<Person>Ilda Gonçalves</Person>
+			<Place>tribunal</Place>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Quando o juiz lhe perguntou porquê, respondeu que estava na sua cabeça 'fazer isso', assumindo que sofria de depressão e que não andava a ser medicada.">
+		<NE>
+		
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O filho 'não se queixava dos colegas nem da escola', mas a mãe alegou que não queria que 'gozassem' com a criança, segundo o cenário que existia na sua cabeça.">
+		<NE>
+		
+		</NE>
+	</sent9>
+	
+	<sent10 desc="'Era tudo na minha cabeça. Ouvia vozes para acabar com a minha vida e com a vida do meu filho', justificou">
+		<NE>
+		
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Na primeira sessão do julgamento foi ouvida por videoconferência a médica psiquiatra Ana Brito, que elaborou o relatório que está nos autos.">
+		<NE>
+			<Person>Ana Brito</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="A testemunha afirmou que, no dia do homicídio, a arguida podia ter sintomatologia depressiva, mas era 'capaz de decidir entre matar o filho e não matar'. ">
+		<NE>
+			<crimetype>homicídio</crimetype>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="Outra testemunha, Andreia Alves, disse na sessão que a vítima, de quem era prima e madrinha, 'era uma criança espetacular, de sorriso tímido e envergonhado'. ">
+		<NE>
+			<Person>Andreia Alves</Person>
+		</NE>
+	</sent13>
+	
+	<sent14 desc="O menino 'era feliz' e 'nunca se queixou' da escola nem de se ser maltratado em casa, referindo que a mãe 'era muito protetora'.">
+		<NE>
+			
+		</NE>
+	</sent14>
+	
+	<sent15 desc="A arguida, que se senta no banco dos réus acusada de um crime de homicídio qualificado, foi detida pela Polícia Judiciária da Guarda em 19 de outubro de 2017. ">
+		<NE>
+			<crimetype> homicídio qualificado</crimetype>
+			<Organization>Polícia Judiciária da Guarda</Organization>
+			<Time> 19 de outubro de 2017</Time>
+		</NE>
+	</sent15>
+	
+	<sent16 desc="No dia do crime foi internada no serviço de psiquiatria da Unidade Local de Saúde da Guarda e só teve alta naquela data, após o que permanece em prisão preventiva.">
+		<NE>
+			<Organization>Unidade Local de Saúde da Guarda</Organization>
+		</NE>
+	</sent16>
+	
+	
+	
+</news082>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr069>
+    <docname>newspgr069</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>17-07-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Prisão preventiva. DIAP de Lisboa/Sede.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foi detido, na sequência de mandados de detenção fora de flagrante delito emitidos pelo Ministério Público, e presente ao JIC, no dia 16.07.2019, para primeiro interrogatório, um arguido indiciado pela prática de um crime de violência doméstica.
+	Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 54 anos, filho da ofendida, de 79 anos, e com a mesma residente, desde 2004 (altura em que se divorciou e passou a residir com a mãe) que a maltrata, física e psicologicamente, desferindo-lhe bofetadas, forçando-a a contactos de natureza sexual contra a sua vontade, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a.
+	O arguido esteve internado durante alguns dias em serviço de psiquiatria Hospitalar. 
+	Contudo, após a alta, manteve o comportamento descrito, continuando a não tomar a medicação prescrita, a ingerir bebidas alcoólicas em excesso e a adotar atitudes cada vez mais agressivas e controladoras para com a mãe.
+	Ao arguido foi aplicada a medida de coação de prisão preventiva (a executar em ala psiquiátrica), em razão da verificação dos perigos de continuação da atividade criminosa e de perturbação do inquérito.
+	A investigação prossegue sob a direção do MP na 7.ª Secção do DIAP de Lisboa/sede, com a coadjuvação da PSP.
+	</text>
+	
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi detido, na sequência de mandados de detenção fora de flagrante delito emitidos pelo Ministério Público, e presente ao JIC, no dia 16.07.2019, para primeiro interrogatório, um arguido indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<Organization>JIC</Organization>
+			<Time>16.07.2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 54 anos, filho da ofendida, de 79 anos, e com a mesma residente, desde 2004 (altura em que se divorciou e passou a residir com a mãe) que a maltrata, física e psicologicamente, desferindo-lhe bofetadas, forçando-a a contactos de natureza sexual contra a sua vontade, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a.">
+		<NE>
+			<Numeric>54 anos</Numeric>
+			<Numeric>79 anos</Numeric>
+			<Time>2004</Time>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="O arguido esteve internado durante alguns dias em serviço de psiquiatria Hospitalar.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	
+	<sent5 desc="Contudo, após a alta, manteve o comportamento descrito, continuando a não tomar a medicação prescrita, a ingerir bebidas alcoólicas em excesso e a adotar atitudes cada vez mais agressivas e controladoras para com a mãe.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva (a executar em ala psiquiátrica), em razão da verificação dos perigos de continuação da atividade criminosa e de perturbação do inquérito.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A investigação prossegue sob a direção do MP na 7.ª Secção do DIAP de Lisboa/sede, com a coadjuvação da PSP.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>7.ª Secção do DIAP de Lisboa/sede</Organization>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent7>
+	
+	
+	
+</newspgr069>

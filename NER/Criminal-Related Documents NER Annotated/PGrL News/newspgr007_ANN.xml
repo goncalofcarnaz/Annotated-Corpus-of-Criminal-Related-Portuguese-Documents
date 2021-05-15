@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr007>
+    <docname>newspgr007</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>04-11-2019</publicationdate>
+    <title>  Acórdão. Roubo agravado. Juízo Central Criminal de Almada. DIAP de Almada/Comarca de Lisboa.</title>
+    <text> A PGDL informa que o Juízo Central Criminal da Comarca de Almada proferiu acórdão que condenou dois arguidos, pela prática do crime de roubo agravado, na pena de prisão efetiva 5 anos e 6 meses.
+		O tribunal deu como provado que, no dia 9.12.18, os arguidos, através de uma rede social, fizeram-se passar por indivíduos do sexo feminino para atraírem 2 ofendidos, com uma proposta sexual. 
+		Na sequência desse contacto, os arguidos abordaram as vítimas quando entravam num prédio do Monte da Caparica, em Almada, e nas escadas, com uma faca que lhes apontaram, desapossaram-nos de objetos e valores que transportavam.
+		Os arguidos, já tinham antecedentes criminais, tendo já sido condenados pela prática de crimes de roubo em penas suspensas.
+		Os arguidos tinham sido sujeitos à medida de coação de prisão preventiva, situação que se mantém.
+		O acórdão ainda não transitou em julgado. O inquérito foi dirigido pelo MP do DIAP de Almada Comarca de Lisboa, com a coadjuvação da GNR.</text>
+
+<Sentences num="10">
+</Sentences>
+
+
+<sent1 desc="A PGDL informa que o Juízo Central Criminal da Comarca de Almada proferiu acórdão que condenou dois arguidos, pela prática do crime de roubo agravado, na pena de prisão efetiva 5 anos e 6 meses..">
+	<NE>
+		<Organization>PGDL</Organization>
+		<Organization> Juízo Central Criminal da Comarca de Almada</Organization>
+		<crimetype>roubo agravado</crimetype>
+		<Numeric>5</Numeric>
+		<Numeric>6</Numeric>
+	</NE>
+</sent1>
+
+<sent2 desc="O tribunal deu como provado que, no dia 9.12.18, os arguidos, através de uma rede social, fizeram-se passar por indivíduos do sexo feminino para atraírem 2 ofendidos, com uma proposta sexual. .">
+	<NE>
+		<Time>9.12.18</Time>
+		<Numeric>2</Numeric>
+	</NE>
+</sent2>
+
+<sent3 desc="Na sequência desse contacto, os arguidos abordaram as vítimas quando entravam num prédio do Monte da Caparica, em Almada, e nas escadas, com uma faca que lhes apontaram, desapossaram-nos de objetos e valores que transportavam..">
+	<NE>
+		<Place>Monte da Caparica</Place>
+		<Place>Almada</Place>
+		
+	</NE>
+</sent3>
+
+<sent4 desc="Os arguidos, já tinham antecedentes criminais, tendo já sido condenados pela prática de crimes de roubo em penas suspensas.">
+	<NE>
+		
+	</NE>
+</sent4>
+
+<sent5 desc="Os arguidos tinham sido sujeitos à medida de coação de prisão preventiva, situação que se mantém.">
+	<NE>
+		
+	</NE>
+</sent5>
+
+<sent6 desc="O acórdão ainda não transitou em julgado. ">
+	<NE>
+		
+	</NE>
+</sent6>
+
+<sent7 desc="O inquérito foi dirigido pelo MP do DIAP de Almada Comarca de Lisboa, com a coadjuvação da GNR.">
+	<NE>
+		<Organization>MP</Organization>
+		<Organization>DIAP de Almada Comarca de Lisboa</Organization>
+		<Organization>GNR</Organization>
+	</NE>
+</sent7>
+
+
+</newspgr007>

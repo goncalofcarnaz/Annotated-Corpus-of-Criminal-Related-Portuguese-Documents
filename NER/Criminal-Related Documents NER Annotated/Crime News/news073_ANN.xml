@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><news099>
+    <docname>news099</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>19 Abril 2018</publicationdate>
+    <title>Mulher encontrada morta em casa com sinais de várias facada.</title>
+    <newstext>Uma mulher foi encontrada morta em casa, no Juncal, Porto de Mós, com várias lesões causadas por arma branca. 
+	Lurdes Cordeiro, de 51 anos, foi encontrada morta em casa, no Juncal, concelho de Porto de Mós, num cenário que os bombeiros da freguesia, os primeiros a chegar, descrevem como de extrema violência. 
+	A vítima, operária numa fábrica de cerâmica, apresentava inúmeras lesões resultantes de agressão com uma arma branca. 
+	Foi encontrada pelo companheiro, que deu o alerta pelas 17.47 horas de quinta-feira. 
+	A mulher evidenciava sinais de ter mais de uma dezena de facadas em várias zonas do corpo. 
+	O corpo estava na cozinha da habitação, que denotava claros indícios de um ataque violento, com cadeiras e utensílios espalhados no chão. 
+	O prato da última refeição ainda estava em cima da mesa. 
+	Além da corporação do Juncal, a operação envolveu bombeiros de Porto de Mós, INEM, GNR e Policia Judiciária, que lidera a investigação.
+	</newstext>
+
+	
+	<Sentences num="">
+
+	</Sentences>
+
+	<sent1 desc="Uma mulher foi encontrada morta em casa, no Juncal, Porto de Mós, com várias lesões causadas por arma branca.">
+		<NE>
+			<Place>Juncal</Place>
+			<Place>Porto de Mós</Place>
+		</NE>
+	</sent1>	
+	
+	<sent2 desc="Lurdes Cordeiro, de 51 anos, foi encontrada morta em casa, no Juncal, concelho de Porto de Mós, num cenário que os bombeiros da freguesia, os primeiros a chegar, descrevem como de extrema violência.">
+		<NE>
+			<Person>Lurdes Cordeiro</Person>
+			<Numeric>51</Numeric>
+			<Place>Juncal</Place>
+			<Place>Porto de Mós</Place>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="A vítima, operária numa fábrica de cerâmica, apresentava inúmeras lesões resultantes de agressão com uma arma branca.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Foi encontrada pelo companheiro, que deu o alerta pelas 17.47 horas de quinta-feira.">
+		<NE>
+			<Time>17.47</Time>
+			<Time>quinta-feira</Time>
+		</NE>
+	</sent4>
+	
+	<sent1 desc="A mulher evidenciava sinais de ter mais de uma dezena de facadas em várias zonas do corpo. ">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent1 desc="O corpo estava na cozinha da habitação, que denotava claros indícios de um ataque violento, com cadeiras e utensílios espalhados no chão. ">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent1 desc="O prato da última refeição ainda estava em cima da mesa.">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent1 desc="Além da corporação do Juncal, a operação envolveu bombeiros de Porto de Mós, INEM, GNR e Policia Judiciária, que lidera a investigação.">
+		<NE>
+			<Organization>INEM</Organization>
+			<Organization>GNR</Organization>
+			<Organization>Policia Judiciária</Organization>
+			<Place>Porto de Mós</Place>
+			<Place>Juncal</Place>
+		</NE>
+	</sent1>
+	
+</news099>

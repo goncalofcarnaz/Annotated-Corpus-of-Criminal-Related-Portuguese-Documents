@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr018>
+    <docname>newspgr018</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>25-10-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Proibição de contactos monitorizada. DIAP da Amadora/Comarca de Lisboa Oeste.</title>
+    <text>Informa-se, que foi detido e apresentado ao JIC, a 23/10/2019, para primeiro interrogatório judicial, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.
+		Segundo os fortes indícios recolhidos, o arguido, residiu com a ofendida de novembro de 2016 a outubro de 2018, em união de facto, estando atualmente separados. No decurso da relação entre ambos, bem como após o términus da mesma, o arguido, revela um ciúme em relação a todas as pessoas com quem a ofendida convive, perseguindo-a para todo o lado, assim como a agride física e psicologicamente.
+		O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a vitima, proibição de permanência na residência, no local de trabalho e nas proximidades destes, fixando- se uma distancia de 500 metros, com fiscalização através de meios de vigilância eletrónica por se verificarem, em concreto, os perigos de continuação da atividade criminosa e de perturbação da ordem e da tranquilidade públicas.
+		O processo não se encontra em segredo de justiça.
+		A investigação prossegue sob a direção do MP da Amadora do DIAP da Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido e apresentado ao JIC, a 23/10/2019, para primeiro interrogatório judicial, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>23.10.2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, residiu com a ofendida de novembro de 2016 a outubro de 2018, em união de facto, estando atualmente separados. ">
+		<NE>
+			<Time>novembro de 2016</Time>
+			<Time>outubro de 2018</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="No decurso da relação entre ambos, bem como após o términus da mesma, o arguido, revela um ciúme em relação a todas as pessoas com quem a ofendida convive, perseguindo-a para todo o lado, assim como a agride física e psicologicamente.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a vitima, proibição de permanência na residência, no local de trabalho e nas proximidades destes, fixando- se uma distancia de 500 metros, com fiscalização através de meios de vigilância eletrónica por se verificarem, em concreto, os perigos de continuação da atividade criminosa e de perturbação da ordem e da tranquilidade públicas.">
+		<NE>
+			<Numeric>500 metros</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A investigação prossegue sob a direção do MP da Amadora do DIAP da Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP da Amadora do DIAP da Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent6>
+	
+</newspgr018>

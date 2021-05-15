@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><news035>
+    <docname>news035</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>2019-07-17 20:34:00+00:00</publicationdate>
+    <title>PJ deteve em Celorico da Beira coautor dos crimes de lenocínio e abuso sexual.</title>
+    <newstext>A Polícia Judiciária (PJ) anunciou hoje a detenção de um homem de 58 anos, no concelho de Celorico da Beira, indiciado pela alegada prática de crimes de lenocínio e de abuso sexual agravado de uma menor. 
+	O Departamento de Investigação Criminal da PJ da Guarda refere em comunicado que o homem está “fortemente indiciado da prática continuada, desde há aproximadamente dois anos, dos crimes de lenocínio e de abuso sexual agravado de uma menor, atualmente com 13 anos”. 
+	“Os abusos foram cometidos com favorecimento por parte da progenitora da menor, anteriormente já detida por esta polícia e entretanto sujeita à medida de coação de prisão preventiva, e do companheiro marital desta, agora detido”, refere a fonte. 
+	Fonte policial disse à agência Lusa que o companheiro da mãe da criança também fazia “deslocar regularmente” a menor à residência de um homem, detido em abril deste ano, pelos mesmos crimes de lenocínio e de abusos sexuais de uma menor.
+	</newstext>
+
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="A Polícia Judiciária (PJ) anunciou hoje a detenção de um homem de 58 anos, no concelho de Celorico da Beira, indiciado pela alegada prática de crimes de lenocínio e de abuso sexual agravado de uma menor. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>PJ</Organization>
+			<Numeric>58</Numeric>
+			<Place>Celorico da Beira</Place>
+			<crimetype>lenocínio</crimetype>
+			<crimetype>abuso sexual agravado de uma menor</crimetype>
+		</NE>
+	</sent1>
+	
+	
+	<sent2 desc="O Departamento de Investigação Criminal da PJ da Guarda refere em comunicado que o homem está “fortemente indiciado da prática continuada, desde há aproximadamente dois anos, dos crimes de lenocínio e de abuso sexual agravado de uma menor, atualmente com 13 anos”.">
+		<NE>
+			<Organization>Departamento de Investigação Criminal da PJ da Guarda</Organization>
+			<Numeric>13</Numeric>
+			<crimetype>lenocínio</crimetype>
+			<crimetype>abuso sexual agravado de uma menor</crimetype>
+		</NE>
+	</sent2>
+	
+	
+	
+	
+	<sent3 desc="'Os abusos foram cometidos com favorecimento por parte da progenitora da menor, anteriormente já detida por esta polícia e entretanto sujeita à medida de coação de prisão preventiva, e do companheiro marital desta, agora detido', refere a fonte.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	
+	
+	<sent5 desc="Fonte policial disse à agência Lusa que o companheiro da mãe da criança também fazia “deslocar regularmente” a menor à residência de um homem, detido em abril deste ano, pelos mesmos crimes de lenocínio e de abusos sexuais de uma menor.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	
+	
+	
+	
+	
+</news035>

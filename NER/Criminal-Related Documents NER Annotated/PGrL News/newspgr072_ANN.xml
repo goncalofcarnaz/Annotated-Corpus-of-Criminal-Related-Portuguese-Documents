@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr072>
+    <docname>newspgr072</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>12-07-2019</publicationdate>
+    <title> Detenção. Violência doméstica. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foi detido e presente ao JIC, no dia 08.07.2019, um arguido indiciado pela prática de dois crimes de violência doméstica.
+	Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 70 anos, casado com a ofendida desde 1968, desde o início do relacionamento de ambos e com maior intensidade no último ano, que a agride física e psicologicamente, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a de morte.
+	Ao arguido foi aplicada a medida de coação de prisão preventiva, em razão da verificação do perigo de continuação da atividade criminosa.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP na 5ª Secção do DIAP de Sintra/Comarca de Lisboa Oeste, com a coadjuvação do NIAV.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+
+	<sent2 desc="Foi detido e presente ao JIC, no dia 08.07.2019, um arguido indiciado pela prática de dois crimes de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>08.07.2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent2>
+
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, de 70 anos, casado com a ofendida desde 1968, desde o início do relacionamento de ambos e com maior intensidade no último ano, que a agride física e psicologicamente, dirigindo-lhe palavras ofensivas da sua honra e consideração e ameaçando-a de morte.">
+		<NE>
+			<Numeric>70 anos</Numeric>
+			<Time>1968</Time>
+		</NE>
+	</sent3>
+
+	
+	<sent4 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva, em razão da verificação do perigo de continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent4>
+
+
+	<sent5 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent5>
+
+	
+	<sent6 desc="A investigação prossegue sob a direção do MP na 5ª Secção do DIAP de Sintra/Comarca de Lisboa Oeste, com a coadjuvação do NIAV">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>5ª Secção do DIAP de Sintra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+			<Organization>NIAV</Organization>
+		</NE>
+	</sent6>
+
+
+
+</newspgr072>

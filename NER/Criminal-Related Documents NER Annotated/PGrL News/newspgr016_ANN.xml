@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr016>
+    <docname>newspgr016</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>28-10-2019</publicationdate>
+    <title>Detenção. Burla. Prisão preventiva. Diap de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>  A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:
+	Foi detida, no Luxemburgo, uma arguida, no dia 22.10.2019, na sequência de mandados de detenção Europeus. 
+	Presente ao JIC, no dia 24.10.2019, para primeiro interrogatório, a arguida foi indiciada pela prática de três crimes de burla agravada.
+	Segundo os fortes indícios recolhidos, a arguida juntamente com outros arguidos delineou um plano que consistia em vender a terceiros, ofendidos, diamantes que sabiam ser falsos, fazendo-os acreditar serem verdadeiros e um bom investimento, obtendo desse modo proveitos económicos a que sabiam não ter direito, causando o correspondente prejuízo aos ofendidos.
+	À arguida foi aplicada a medida de coação de prisão preventiva em razão da verificação do perigo de fuga.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP da 4.ª Secção do DIAP de Sintra/Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi detida, no Luxemburgo, uma arguida, no dia 22.10.2019, na sequência de mandados de detenção Europeus.">
+		<NE>
+			<Place>Luxemburgo</Place>
+			<Time>22.10.2019</Time>
+			
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Presente ao JIC, no dia 24.10.2019, para primeiro interrogatório, a arguida foi indiciada pela prática de três crimes de burla agravada.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>24.10.2019</Time>
+			<crimetype>burla agravada</crimetype>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Segundo os fortes indícios recolhidos, a arguida juntamente com outros arguidos delineou um plano que consistia em vender a terceiros, ofendidos, diamantes que sabiam ser falsos, fazendo-os acreditar serem verdadeiros e um bom investimento, obtendo desse modo proveitos económicos a que sabiam não ter direito, causando o correspondente prejuízo aos ofendidos.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="À arguida foi aplicada a medida de coação de prisão preventiva em razão da verificação do perigo de fuga.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A investigação prossegue sob a direção do MP da 4.ª Secção do DIAP de Sintra/Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization> MP da 4.ª Secção do DIAP de Sintra/Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent7>
+	
+</newspgr016>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><news014>
+    <docname>news014</docname>
+    <authors>Jornal O Jogo</authors>
+    <publicationdate>13 Novembro 2018</publicationdate>
+    <title>Homicida de Daniel Corrêa.</title>
+    <newstext>Uma testemunha contou, esta terça-feira, que o homicida de Daniel Corrêa, jogador do São Paulo torturado e morto no Brasil, obrigou os convidados a limpar as manchas de sangue que ficaram pela casa após as agressões. 
+	Segundo o jornal paulista "Estadão", uma jovem de 19 anos, que esteve com Daniel Corrêa na festa de Aniversário de Allana Brittes, filha do homicida confesso, contou à polícia que os convidados foram "obrigados" por Edison Brittes "a limpar as manchas de sangue que ficaram pela casa depois das agressões". 
+	A jovem contou que não conheceu o jogador na discoteca onde se realizou a festa. 
+	Conversaram sobre os factos de ambos terem filhos e de Daniel ter ido para casa dos Brittes para uma festa, sem ser convidado. 
+	No entanto, nega que o jogador estivesse embriagado: "Estava tranquilo, conversava normalmente". 
+	Edison Brittes justificou o homicídio com uma suposta tentativa de violação mas, ainda segundo o mesmo depoimento, a jovem diz que nunca ouviu Cristiana Brittes, mulher do homicida, gritar ou tocar no assunto. 
+	Disse que ouviu Cristiana pedir ajuda à filha, afirmando que o marido "ia matar o menino". Edison segurava Daniel pelo pescoço e, segundo a jovem, terá agredido a mulher com duas bofetadas. 
+	Edison, que teria apanhado Daniel na cama da mulher, Cristiana Brittes, justificou o homicídio com uma suposta tentativa de violação, mas a jovem diz que nunca ouviu a mãe da aniversariante gritar ou sequer falar nisso. 
+	Diz que ouviu Cristiana chamar a filha e dizer-lhe "ajuda, desce porque o teu pai vai matar o menino". 
+	Edison segurava o jogador pelo pescoço no quarto do casal e ainda agrediu a mulher com duas bofetadas. 
+	A jovem de 19 anos relatou ainda que uma parte do tecido do colchão do casal, bem como os documentos de Daniel, foram queimados. 
+	Depois do crime, Edison quis juntar as testemunhas num centro comercial para combinar os depoimentos à polícia, mas a jovem não foi "por medo". 
+	Entretanto, a polícia de São José dos Pinhais voltou a ouvir David Willian Silva, de 18 anos, e Igor King, de 19, dois dos quatro ocupantes da viatura que transportou Daniel Corrêa depois de ter sido espancada em casa do homicida. 
+	David contou que a ideia inicial era largar o jogador no meio da rua, todo nu. 
+	"Tudo estava tranquilo dentro do carro, a intenção era deixar o Daniel no meio da rua, para passar vergonha. 
+	O Edison trazia consigo um telemóvel, que eu não sei se era dele ou não. Estava normal e, ao ver algo no telemóvel, ficou descontrolado e disse que ia matar o Daniel", pode ler-se no interrogatório transcrito pela imprensa brasileira. 
+	David e Igor disseram também que não saíram do carro quando Daniel foi retirado do bagageira e que não viram o jogador ser morto. 
+	Foi Edison e Eduardo Henrique, outro ocupante da viatura e primo de Cristiana que retiraram o futebolista: "O Edison voltou ao carro com uma faca na mão, todo sujo de sangue, Eduardo apresentava pequenos respingos de sangue nas calças mas Edison estava bem sujo, com as mãos todas ensanguentadas", disseram. 
+	Daniel Correa, de 24 anos, foi encontrado morto num matagal, em Curitiba. 
+	O corpo apresentava cortes profundos na zona do pescoço e os órgãos genitais cortados. 
+	A polícia confirmou que o jogador foi agredido com uma arma branca e que terá sido torturado.
+	</newstext>
+	
+	<Sentences num="14"> </Sentences>
+	
+	<sent1 desc="Uma testemunha contou, esta terça-feira, que o homicida de Daniel Corrêa, jogador do São Paulo torturado e morto no Brasil, obrigou os convidados a limpar as manchas de sangue que ficaram pela casa após as agressões.">
+		<NE>
+			<Person>Daniel Corrêa</Person>
+			<Organization>São Paulo</Organization>
+			<Place>Brasil</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo o jornal paulista 'Estadão', uma jovem de 19 anos, que esteve com Daniel Corrêa na festa de Aniversário de Allana Brittes, filha do homicida confesso, contou à polícia que os convidados foram 'obrigados' por Edison Brittes 'a limpar as manchas de sangue que ficaram pela casa depois das agressões'.">
+		<NE>
+			<Organization>jornal paulista 'Estadão'</Organization>
+			<Person>Daniel Corrêa</Person>
+			<Person>Allana Brittes</Person>
+			<Organization>policia</Organization>
+			<Person>Edison Brittes</Person>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="A jovem contou que não conheceu o jogador na discoteca onde se realizou a festa.">
+		<NE>
+			<Place>discoteca</Place>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Conversaram sobre os factos de ambos terem filhos e de Daniel ter ido para casa dos Brittes para uma festa, sem ser convidado.">
+		<NE>
+			<Person>Daniel</Person>
+			<Person>Brittes</Person>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="No entanto, nega que o jogador estivesse embriagado: 'Estava tranquilo, conversava normalmente'. ">
+		<NE>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Edison Brittes justificou o homicídio com uma suposta tentativa de violação mas, ainda segundo o mesmo depoimento, a jovem diz que nunca ouviu Cristiana Brittes, mulher do homicida, gritar ou tocar no assunto. ">
+		<NE>
+			<Person>Edison Brittes</Person>
+			<crimetype>tentativa de violação</crimetype>
+			<Person>Cristiana Brittes</Person>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="A jovem de 19 anos relatou ainda que uma parte do tecido do colchão do casal, bem como os documentos de Daniel, foram queimados. ">
+		<NE>
+			<Numeric>19</Numeric>
+			<Person>Daniel</Person>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Depois do crime, Edison quis juntar as testemunhas num centro comercial para combinar os depoimentos à polícia, mas a jovem não foi 'por medo'.">
+		<NE>
+			<Person>Edison</Person>
+			<Organization>policia</Organization>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Entretanto, a polícia de São José dos Pinhais voltou a ouvir David Willian Silva, de 18 anos, e Igor King, de 19, dois dos quatro ocupantes da viatura que transportou Daniel Corrêa depois de ter sido espancada em casa do homicida.">
+		<NE>
+			<Organization>polícia</Organization>
+			<Place>São José dos Pinhais</Place>
+			<Person> David Willian Silva</Person>
+			<Numeric>18</Numeric>
+			<Person>Igor King</Person>
+			<Person>Daniel Corrêa</Person>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="David contou que a ideia inicial era largar o jogador no meio da rua, todo nu.">
+		<NE>
+			<Person>David</Person>
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Foi Edison e Eduardo Henrique, outro ocupante da viatura e primo de Cristiana que retiraram o futebolista: 'O Edison voltou ao carro com uma faca na mão, todo sujo de sangue, Eduardo apresentava pequenos respingos de sangue nas calças mas Edison estava bem sujo, com as mãos todas ensanguentadas', disseram. ">
+		<NE>
+			<Person>Edison</Person>
+			<Person>Eduardo Henrique</Person>
+			<Person>Cristiana</Person>
+			<Person>Edison</Person>
+			<Person>Eduardo</Person>
+			<Person>Edison</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="Daniel Correa, de 24 anos, foi encontrado morto num matagal, em Curitiba.">
+		<NE>
+			<Person>Daniel Correa</Person>
+			<Numeric>24</Numeric>
+			<Place>Curitiba</Place>
+		</NE>
+			
+	</sent12>
+	
+	<sent13 desc="O corpo apresentava cortes profundos na zona do pescoço e os órgãos genitais cortados. ">
+		<NE>
+		</NE>
+	</sent13>
+	
+	<sent14 desc="A polícia confirmou que o jogador foi agredido com uma arma branca e que terá sido torturado.">
+		<NE>
+			<Organization>polícia</Organization>
+		</NE>
+	</sent14>
+	
+</news014>

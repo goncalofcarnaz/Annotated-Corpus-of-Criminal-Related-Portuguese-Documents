@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><news074>
+    <docname>news074</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>30 Julho 2018</publicationdate>
+    <title>Homem mata vizinho à facada por estar a fazer barulho em Aveiro.</title>
+    <newstext>Um homem com cerca de 40 anos morreu esfaqueado no prédio onde morava, esta noite de segunda-feira, em Aveiro. 
+	O crime terá ocorrido num prédio situado na rua Príncipe Perfeito, no centro de Aveiro, ao lado das instalações do Departamento de Investigação e Ação Penal (DIAP) da cidade. 
+	Segundo relatos de vizinhos ouvidos pelo JN, a vítima, José Joaquim, morava num apartamento com a mulher, de cerca de 60 anos. 
+	O alegado homicida, que tem 73 anos, vivia num quarto alugado no mesmo prédio. 
+	Terá atacado o homem nas escadas comuns do edifício depois de se ter queixado do barulho que vinha da casa da vítima, onde José Joaquim estaria com amigos e a mulher em festa. 
+	A discussão intensificou-se e o agressor atacou a vítima com uma faca de grande porte. 
+	José Joaquim caiu pelas escadas. 
+	Foram os gritos da companheira, em choque, que alertaram a vizinhança para a ocorrência do crime. 
+	Ao início da madrugada, o corpo ainda se encontrava no local do crime e o alegado agressor também. 
+	Além de meios da Polícia Judiciária, no terreno estavam igualmente elementos da PSP. 
+	Inicialmente, o alerta recebido pelos Bombeiros Velhos dava conta de uma agressão com vítima e atacante presentes no local.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Um homem com cerca de 40 anos morreu esfaqueado no prédio onde morava, esta noite de segunda-feira, em Aveiro. ">
+		<NE>
+			<Numeric>40</Numeric>
+			<Time>segunda-feira</Time>
+			<Place>Aveiro</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="O crime terá ocorrido num prédio situado na rua Príncipe Perfeito, no centro de Aveiro, ao lado das instalações do Departamento de Investigação e Ação Penal (DIAP) da cidade. ">
+		<NE>
+			<Place>rua Príncipe Perfeito</Place>
+			<Organization>Departamento de Investigação e Ação Penal (DIAP)</Organization>
+			<Organization>DIAP</Organization>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Segundo relatos de vizinhos ouvidos pelo JN, a vítima, José Joaquim, morava num apartamento com a mulher, de cerca de 60 anos.">
+		<NE>
+			<Organization>JN</Organization>
+			<Person>José Joaquim</Person>
+			<Numeric>60</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O alegado homicida, que tem 73 anos, vivia num quarto alugado no mesmo prédio. ">
+		<NE>
+			<Numeric>73</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Terá atacado o homem nas escadas comuns do edifício depois de se ter queixado do barulho que vinha da casa da vítima, onde José Joaquim estaria com amigos e a mulher em festa. ">
+		<NE>
+			<Person>José Joaquim</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A discussão intensificou-se e o agressor atacou a vítima com uma faca de grande porte. ">
+		<NE>
+		
+		</NE>
+	</sent6>
+	
+	<sent7 desc="José Joaquim caiu pelas escadas.">
+		<NE>
+			<Person>José Joaquim</Person>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Foram os gritos da companheira, em choque, que alertaram a vizinhança para a ocorrência do crime. ">
+		<NE>
+		
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Ao início da madrugada, o corpo ainda se encontrava no local do crime e o alegado agressor também. ">
+		<NE>
+		
+		</NE>
+	</sent9>
+	
+	<sent10 desc="Além de meios da Polícia Judiciária, no terreno estavam igualmente elementos da PSP. ">
+		<NE>
+			<Organization>Polícia Judiciária</Organization>
+			<Organization>PSP</Organization>
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Inicialmente, o alerta recebido pelos Bombeiros Velhos dava conta de uma agressão com vítima e atacante presentes no local. ">
+		<NE>
+			<Organization>Bombeiros Velhos</Organization>
+		</NE>
+	</sent11>
+	
+</news074>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr036>
+    <docname>newspgr036</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>03-10-2019</publicationdate>
+    <title>Detenção. Homicídio qualificado tentado. Ofensa à integridade física qualificada. Detenção de arma proibida. Dano agravado. Prisão preventiva. DIAP do Seixal/Comarca de Lisboa.</title>
+    <text>Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foram detidos e apresentados ao JIC para primeiro interrogatório judicial, no dia 2.10.2019, oito arguidos que ficaram fortemente indiciados pela prática de crimes de homicídio qualificado na forma tentada, ofensa à integridade física, ofensa à integridade física qualificada, detenção de arma proibida, dano simples e dano agravado.
+	No essencial, e segundo os fortes indícios recolhidos, os 8 arguidos são suspeitos de, no dia 23 de Agosto de 2019, cerca das 21h30m, no interior de um estabelecimento comercial de restauração, situado em Paio Pires, terem agredido os funcionários que ali se encontravam, bem como terem arremessado garrafas, cadeiras e mesas, danificando-as e partindo o vidro do estabelecimento, causando vários prejuízos. 
+	Nesse dia, antes de abandonarem o referido estabelecimento, um dos arguidos ainda efetuou disparos para o ar com uma arma de fogo.
+	No seguimento destes acontecimentos, e como forma de retaliação, os arguidos, munidos de armas de fogo, deslocaram-se no dia 27 de Agosto de 2019, pelas 17h30m, a um prédio localizado em Paio Pires, com o intuito de matar o proprietário do estabelecimento onde haviam estado no dia 23 de Agosto de 2019. 
+	Ali chegados, todos os arguidos efetuaram vários disparos na direção das janelas do prédio, que atingiram quatro frações onde se encontravam os seus habitantes, os quais não foram atingidos por motivos alheios à vontade dos arguidos. 
+	Os disparos provocaram vários danos nas habitações, bem como numa viatura automóvel que se encontrava estacionada no local.
+	Aos arguidos foi aplicada a medida de coação de prisão preventiva.
+	O inquérito encontra-se em segredo de justiça.
+	A investigação prossegue sob a direção do Ministério Público do Seixal do DIAP da Comarca de Lisboa, com a coadjuvação da Policia Judiciária de Setúbal.
+
+	
+	</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Ao abrigo do disposto no art. 86.º, n.º 13, al. b) do Código de Processo Penal, a Procuradoria-Geral Distrital de Lisboa torna público o seguinte:">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+			
+		</NE>
+	</sent1>	
+	
+	<sent2 desc="Foram detidos e apresentados ao JIC para primeiro interrogatório judicial, no dia 2.10.2019, oito arguidos que ficaram fortemente indiciados pela prática de crimes de homicídio qualificado na forma tentada, ofensa à integridade física, ofensa à integridade física qualificada, detenção de arma proibida, dano simples e dano agravado.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>02.10.2019</Time>
+			<crimetype>homicídio qualificado na forma tentada</crimetype>
+			<crimetype>ofensa à integridade física</crimetype>
+			<crimetype>ofensa à integridade física qualificada</crimetype>
+			<crimetype>dano simples</crimetype>
+			<crimetype>dano agravado</crimetype>
+		</NE>
+	</sent2>	
+	
+	
+	<sent3 desc="No essencial, e segundo os fortes indícios recolhidos, os 8 arguidos são suspeitos de, no dia 23 de Agosto de 2019, cerca das 21h30m, no interior de um estabelecimento comercial de restauração, situado em Paio Pires, terem agredido os funcionários que ali se encontravam, bem como terem arremessado garrafas, cadeiras e mesas, danificando-as e partindo o vidro do estabelecimento, causando vários prejuízos. ">
+		<NE>
+			<Numeric>8</Numeric>
+			<Time>23 de Agosto de 2019</Time>
+			<Time>21h30m</Time>
+			<Place>Paio Pires</Place>
+		</NE>
+	</sent3>	
+	
+	
+	<sent4 desc="Nesse dia, antes de abandonarem o referido estabelecimento, um dos arguidos ainda efetuou disparos para o ar com uma arma de fogo.">
+		<NE>
+			
+		</NE>
+	</sent4>	
+
+	<sent5 desc="No seguimento destes acontecimentos, e como forma de retaliação, os arguidos, munidos de armas de fogo, deslocaram-se no dia 27 de Agosto de 2019, pelas 17h30m, a um prédio localizado em Paio Pires, com o intuito de matar o proprietário do estabelecimento onde haviam estado no dia 23 de Agosto de 2019.">
+		<NE>
+			<Time>27 de Agosto de 2019</Time>
+			<Place>Paio Pires</Place>
+			<Time>23 de Agosto de 2019</Time>
+		</NE>
+	</sent5>	
+	
+	<sent6 desc="Ali chegados, todos os arguidos efetuaram vários disparos na direção das janelas do prédio, que atingiram quatro frações onde se encontravam os seus habitantes, os quais não foram atingidos por motivos alheios à vontade dos arguidos.">
+		<NE>
+			
+		</NE>
+	</sent6>	
+	
+	
+	<sent7 desc="Os disparos provocaram vários danos nas habitações, bem como numa viatura automóvel que se encontrava estacionada no local.">
+		<NE>
+			
+		</NE>
+	</sent7>	
+	
+	<sent8 desc="Aos arguidos foi aplicada a medida de coação de prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent8>
+	
+	<sent9 desc="O inquérito encontra-se em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent9>	
+	
+	<sent10 desc="A investigação prossegue sob a direção do Ministério Público do Seixal do DIAP da Comarca de Lisboa, com a coadjuvação da Policia Judiciária de Setúbal.">
+		<NE>
+			<Organization>Ministério Público do Seixal</Organization>
+			<Organization>DIAP da Comarca de Lisboa</Organization>
+			<Organization>Policia Judiciária de Setúbal</Organization>
+		</NE>
+	</sent10>		
+	
+</newspgr036>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><news009>
+    <docname>news009</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>29 Novembro 2018</publicationdate>
+    <title>Assassino em série confessou a morte de 90 pessoas.</title>
+    <newstext>Um homem a cumprir pena de prisão está a ser investigado depois de ter confessado o assassinato de 90 pessoas, durante quatro décadas, nos EUA. 
+	O FBI acredita que Samuel Little, de 78 anos, pode ser o responsável por uma das maiores ondas de assassinatos nos Estados Unidos da América. 
+	As autoridades estão agora a tentar compreender se a confissão que o homem fez vai ao encontro das mortes de dezenas de mulheres que ocorreram entre 1970 e 2005. 
+	Segundo a BBC, os investigadores já conseguiram estabelecer uma relação entre o homem e 34 mortes e estão a trabalhar para estabelecer a ligação com outras. 
+	Samuel está atualmente a cumprir pena depois de ter sido acusado da morte de três mulheres em 2014. 
+	Em 2012, o homem foi detido num espaço para sem-abrigo, em Kentucky, onde foi procurado por acusações relacionadas com droga. 
+	Uma amostra de ADN foi o suficiente para ligar o homem à morte de três pessoas em Los Angeles, entre 1987 e 1989. 
+	As três vítimas foram espancadas e estranguladas antes de os seus corpos serem enterrados separadamente. 
+	Apesar de ter-se declarado inocente, foi condenado a três penas de prisão perpétuas, sem oportunidade de liberdade condicional. 
+	As condenações associadas a estes três crimes fizeram com que Samuel fosse colocado num programa do FBI, que analisa infrações relacionadas com crimes violentos e sexuais, compartilhando informações com policias locais para cruzar crimes não resolvidos. 
+	Foi desta forma que os agentes responsáveis pelo programa conseguiram estabelecer "padrões alarmantes" com outros assassinatos nos EUA, levando à reabertura de um caso não resolvido de um assassinato em Odessa, no Texas, de uma mulher chamada Denise Christie. 
+	Um Ranger daquela localidade deslocou-se à Califórnia para falar com Samuel que, pensando que o contratavam para mudar de prisão, aceitou falar. 
+	Foi, então, que o homem confessou a autoria de 90 mortes. 
+	Fonte do FBI disse que o homem está em más condições de saúde e que o mais provável é que fique numa prisão do Texas até à morte. 
+	"A maior lição que podemos retirar daqui é o poder da partilha de informação", disse Kevin Fitzsimmons, responsável pelo programa que levou à confissão de Samuel.
+	</newstext>
+	
+	<Sentences num="15">
+	</Sentences>
+	
+	<sent1 desc="Um homem a cumprir pena de prisão está a ser investigado depois de ter confessado o assassinato de 90 pessoas, durante quatro décadas, nos EUA.">
+		<NE>
+			<Numeric>90</Numeric>
+			<Numeric>quatro</Numeric>
+			<Place>EUA</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="O FBI acredita que Samuel Little, de 78 anos, pode ser o responsável por uma das maiores ondas de assassinatos nos Estados Unidos da América. ">
+		<NE>
+			<Organization>FBI</Organization>
+			<Person>Samuel Little</Person>
+			<Numeric>78</Numeric>
+			<Place>Estados Unidos da América</Place>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="As autoridades estão agora a tentar compreender se a confissão que o homem fez vai ao encontro das mortes de dezenas de mulheres que ocorreram entre 1970 e 2005. ">
+		<NE>
+			<Time>1970</Time>
+			<Time>2005</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Segundo a BBC, os investigadores já conseguiram estabelecer uma relação entre o homem e 34 mortes e estão a trabalhar para estabelecer a ligação com outras.">
+		<NE>
+			<Organization>BBC</Organization>
+			<Numeric>34</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Samuel está atualmente a cumprir pena depois de ter sido acusado da morte de três mulheres em 2014. ">
+		<NE>
+			<Person>Samuel</Person>
+			<Numeric>três</Numeric>
+			<Time>2014</Time>
+		</NE>
+	</sent5>
+
+	<sent6 desc="Em 2012, o homem foi detido num espaço para sem-abrigo, em Kentucky, onde foi procurado por acusações relacionadas com droga.">
+		<NE>
+			<Time>2012</Time>
+			<Place>Kentucky</Place>
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Uma amostra de ADN foi o suficiente para ligar o homem à morte de três pessoas em Los Angeles, entre 1987 e 1989.">
+		<NE>
+			<Numeric>três</Numeric>
+			<Place>Los Angeles</Place>
+			<Time>1987</Time>
+			<Time>1989</Time>
+		</NE>
+	</sent7>
+	
+	<sent8 desc="As três vítimas foram espancadas e estranguladas antes de os seus corpos serem enterrados separadamente.">
+		<NE>
+			<Numeric>três</Numeric>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Apesar de ter-se declarado inocente, foi condenado a três penas de prisão perpétuas, sem oportunidade de liberdade condicional. ">
+		<NE>	
+			<Numeric>três</Numeric>
+		</NE>
+	</sent9>
+	
+	<sent10 desc="As condenações associadas a estes três crimes fizeram com que Samuel fosse colocado num programa do FBI, que analisa infrações relacionadas com crimes violentos e sexuais, compartilhando informações com policias locais para cruzar crimes não resolvidos. ">
+		<NE>
+			<Numeric>três</Numeric>
+			<Organization>FBI</Organization>
+			<Place>Samuel</Place>
+		</NE>
+	</sent10>
+	
+	<sent11 desc="Foi desta forma que os agentes responsáveis pelo programa conseguiram estabelecer 'padrões alarmantes' com outros assassinatos nos EUA, levando à reabertura de um caso não resolvido de um assassinato em Odessa, no Texas, de uma mulher chamada Denise Christie.">
+		<NE>
+			<Place>EUA</Place>
+			<Place>Odessa</Place>
+			<Place>Texas</Place>
+			<Person>Denise Christie</Person>
+		</NE>
+	</sent11>
+	
+	<sent12 desc="Um Ranger daquela localidade deslocou-se à Califórnia para falar com Samuel que, pensando que o contratavam para mudar de prisão, aceitou falar.">
+		<NE>
+			<Place>Califórnia</Place>
+		</NE>
+	</sent12>
+	
+	<sent13 desc="Foi, então, que o homem confessou a autoria de 90 mortes. ">
+		<NE>
+			<Numeric>90</Numeric>
+		</NE>
+	</sent13>
+	
+	<sent14 desc="Fonte do FBI disse que o homem está em más condições de saúde e que o mais provável é que fique numa prisão do Texas até à morte.">
+		<NE>
+			<Organization>FBI</Organization>
+			<Place>Texas</Place>
+		</NE>
+		
+	</sent14>
+
+	<sent15 desc="'A maior lição que podemos retirar daqui é o poder da partilha de informação', disse Kevin Fitzsimmons, responsável pelo programa que levou à confissão de Samuel.">
+		<NE>
+			<Person>Kevin Fitzsimmons</Person>
+			<Person>Samuel</Person>
+		</NE>
+	</sent15>
+</news009>

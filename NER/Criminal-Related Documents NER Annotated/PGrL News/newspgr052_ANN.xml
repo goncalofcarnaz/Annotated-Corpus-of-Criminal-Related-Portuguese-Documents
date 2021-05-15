@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr052>
+    <docname>newspgr052</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>20-09-2019</publicationdate>
+    <title> Detenção. Rapto. DIAP de Almada /Comarca de Lisboa.</title>
+    <text>  A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.
+	Foi detida e presente ao Juiz de Instrução Criminal para primeiro interrogatório judicial, no dia 19.09.2019, uma arguida, fortemente indiciada pela prática de um crime de rapto.
+	Segundo os fortes indícios recolhidos, a arguida, no dia 17 de Setembro de 2019, dirigiu-se ao Centro Acolhimento, sito em Almada, onde estava provisoriamente acolhido o seu filho, nascido em 20 de Julho de 2018, ao qual foi aplicada, em 6 de Março de 2019, medida de confiança judicial com vista a futura adoção, ficando a arguida e o outro progenitor inibidos do exercício das responsabilidades parentais e cujo termo ocorrerá com a futura adoção. 
+	Aí chegada e após ter encetado conversações com a psicóloga da instituição, empurrou-a, por forma a retirar o menor daquele local, colocando-se de imediato em fuga, levando-o para parte incerta, vindo o mesmo a ser encontrado, horas após, no Hospital da Estefânia em Lisboa.
+	A arguida ficou sujeita às medidas de coação de apresentações periódicas quinzenais e proibição de contactos com o menor e com as pessoas que laboram na Instituição em apreço.
+	A investigação prossegue sob a direção do MP de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da PSP de Almada.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa torna público o seguinte:.">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi detida e presente ao Juiz de Instrução Criminal para primeiro interrogatório judicial, no dia 19.09.2019, uma arguida, fortemente indiciada pela prática de um crime de rapto.">
+		<NE>
+			<Time> 19.09.2019</Time>
+			<crimetype>rapto</crimetype>
+		</NE>
+	</sent2>
+	
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, a arguida, no dia 17 de Setembro de 2019, dirigiu-se ao Centro Acolhimento, sito em Almada, onde estava provisoriamente acolhido o seu filho, nascido em 20 de Julho de 2018, ao qual foi aplicada, em 6 de Março de 2019, medida de confiança judicial com vista a futura adoção, ficando a arguida e o outro progenitor inibidos do exercício das responsabilidades parentais e cujo termo ocorrerá com a futura adoção. ">
+		<NE>
+			<Time>17 de Setembro de 2019</Time>
+			<Time>20 de Julho de 2018</Time>
+			<Time>6 de Março de 2019</Time>
+		</NE>
+	</sent3>
+	
+	
+	<sent4 desc="Aí chegada e após ter encetado conversações com a psicóloga da instituição, empurrou-a, por forma a retirar o menor daquele local, colocando-se de imediato em fuga, levando-o para parte incerta, vindo o mesmo a ser encontrado, horas após, no Hospital da Estefânia em Lisboa.">
+		<NE>
+			<Place>Hospital da Estefânia em Lisboa</Place>
+		</NE>
+	</sent4>
+	
+	
+	
+	<sent5 desc="A arguida ficou sujeita às medidas de coação de apresentações periódicas quinzenais e proibição de contactos com o menor e com as pessoas que laboram na Instituição em apreço.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	
+	<sent6 desc="A investigação prossegue sob a direção do MP de Almada do DIAP da Comarca de Lisboa, com a coadjuvação da PSP de Almada.">
+		<NE>
+			<Organization>MP de Almada</Organization>
+			<Organization>DIAP da Comarca de Lisboa</Organization>
+			<Organization>PSP de Almada</Organization>
+		</NE>
+	</sent6>
+	
+
+</newspgr052>

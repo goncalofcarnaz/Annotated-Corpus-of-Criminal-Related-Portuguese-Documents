@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr076>
+    <docname>newspgr076</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>09-07-2019</publicationdate>
+    <title> Detenções. Criminalidade organizada. Associação criminosa. Furto qualificado. Recetação agravada. Falsificação de documento. Prisão preventiva. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text> A Procuradoria-Geral Distrital de Lisboa informa que:.
+	No âmbito de um inquérito em que se investigam factos suscetíveis de integrarem a prática dos crimes de crimes de associação criminosa, furto qualificado, recetação agravada, falsificação de documento e furto qualificado, foram emitidos 8 mandados de detenção fora de flagrante delito, 10 mandados de busca domiciliária e 9 mandados de busca não domiciliária, os quais tiveram lugar nas zonas de Sintra, Amadora, Mafra, Cascais, Loures, Lisboa e Tomar, tendo sido constituídos como arguidos 4 pessoas.
+	Segundo os fortes indícios recolhidos, em data anterior a janeiro de 2019 os arguidos criaram um grupo organizado com o intuito de, em conjunto, e com a colaboração de outros indivíduos, planear e executar a subtração de veículos ou de peças de veículos, bem como a aquisição de veículo subtraídos, que depois desmantelavam e vendiam as respetivas peças, com o objetivo de obterem uma vantagem patrimonial e entre eles dividirem os lucros apurados. 
+	Os arguidos dispunham de armazéns onde procediam ao desmantelamento das viaturas furtadas.
+	Dos 4 arguidos sujeitos a interrogatório judicial, 2 ficaram sujeitos à medida de coação de prisão preventiva, 1 com apresentações diárias e o último sujeito a TIR.
+	A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sintra, com a coadjuvação da PSP-EIC de Sintra.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="A Procuradoria-Geral Distrital de Lisboa informa que:.">
+		<NE>
+			<Organization>Procuradoria-Geral Distrital de Lisboa</Organization>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="No âmbito de um inquérito em que se investigam factos suscetíveis de integrarem a prática dos crimes de crimes de associação criminosa, furto qualificado, recetação agravada, falsificação de documento e furto qualificado, foram emitidos 8 mandados de detenção fora de flagrante delito, 10 mandados de busca domiciliária e 9 mandados de busca não domiciliária, os quais tiveram lugar nas zonas de Sintra, Amadora, Mafra, Cascais, Loures, Lisboa e Tomar, tendo sido constituídos como arguidos 4 pessoas.">
+		<NE>
+			<crimetype>associação criminosa</crimetype>
+			<crimetype>furto qualificado</crimetype>
+			<crimetype>recetação agravada</crimetype>
+			<crimetype>falsificação de documento</crimetype>
+			<crimetype>furto qualificado</crimetype>
+			<Numeric>10</Numeric>
+			<Numeric>9</Numeric>
+			<Place>Sintra</Place>
+			<Place>Amadora</Place>
+			<Place>Mafra</Place>
+			<Place>Cascais</Place>
+			<Place> Loures</Place>
+			<Place> Lisboa</Place>
+			<Place>Tomar</Place>
+			<Numeric>4</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Segundo os fortes indícios recolhidos, em data anterior a janeiro de 2019 os arguidos criaram um grupo organizado com o intuito de, em conjunto, e com a colaboração de outros indivíduos, planear e executar a subtração de veículos ou de peças de veículos, bem como a aquisição de veículo subtraídos, que depois desmantelavam e vendiam as respetivas peças, com o objetivo de obterem uma vantagem patrimonial e entre eles dividirem os lucros apurados.">
+		<NE>
+			<Time>janeiro de 2019</Time>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Os arguidos dispunham de armazéns onde procediam ao desmantelamento das viaturas furtadas.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	
+	<sent5 desc="Dos 4 arguidos sujeitos a interrogatório judicial, 2 ficaram sujeitos à medida de coação de prisão preventiva, 1 com apresentações diárias e o último sujeito a TIR.">
+		<NE>
+			<Numeric>4</Numeric>
+			<Numeric>2</Numeric>
+			<Numeric>1</Numeric>
+			<Organization>TIR</Organization>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sintra, com a coadjuvação da PSP-EIC de Sintra.">
+		<NE>
+			<Organization>MP</Organization>
+			<Organization>4ª secção do DIAP de Sintra</Organization>
+			<Organization>PSP-EIC de Sintra</Organization>
+		</NE>
+	</sent6>
+
+	
+</newspgr076>

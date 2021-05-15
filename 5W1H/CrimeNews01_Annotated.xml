@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Texto Anotado : CrimeNews01 -->
+
+<CrimeNews01>
+    <Event id="NewsCrime01_Event_1">
+        <!-- Pedro Henriques WHO tinha WHAT um plano WHO e cumpriu-o em 24 horas WHEN. -->
+		<WHEN>e cumpriu-o em 24 horas</WHEN>
+        <WHO>Pedro Henriques</WHO>
+		 <WHO>um plano</WHO>
+        <WHAT>tinha </WHAT>
+		<WHAT>cumpriu-o</WHAT>
+    </Event>
+	
+	<Event id="NewsCrime01_Event_2">
+        <!-- Nesse período When, conseguiu matar What com arma branca How a ex-sogra Who, fugir What um dia e uma noite** com 
+		a filha de dois anos**, e ser ele mesmo who a ligar What ao INEM Where para 
+		dar conta What de onde Where as autoridades who podiam encontrar What  o corpo da criança who, que terá igualmente matado What. -->
+		<WHEN>Nesse período</WHEN>
+        <WHAT>matar</WHAT>
+		<WHO>com arma branca</WHO>
+		<WHO>a ex-sogra</WHO>
+		<WHAT>fugir</WHAT>
+		<WHO>e ser ele mesmo</WHO>
+		<WHAT>a ligar</WHAT>
+		<WHO>ao INEM </WHO>
+		<WHAT>para dar conta</WHAT>
+		<WHERE> de onde </WHERE>
+		<WHO>as autoridades</WHO>
+		<WHAT>podiam encontrar</WHAT>
+		<WHO>o corpo da criança</WHO>
+		<WHAT>que terá igualmente matado</WHAT>
+	</Event>
+    
+	<Event id="NewsCrime01_Event_3">
+        <!-- Quais foram WHAT os passos WHO que o homicida who deu WHAT para cumprir WHAT as ameaças WHAT de anos Who. -->
+		<WHAT>foram</WHAT>
+		<WHO>homicida</WHO>
+		<WHY>deu para cumprir</WHY>
+		<WHAT>ameaças </WHAT>
+    </Event>
+		<Event id="NewsCrime01_Event_4">
+        <!-- Helena Cabrita who, de 60 anos, espera what a neta,who uma bebé de 
+		dois anos e meio,who no interior de sua casa, Where um apartamento na Cruz de Pau, Where no concelho do Seixal Where. -->
+		<WHO>Helena Cabrita</WHO>
+		<WHO>de 60 anos, espera a neta</WHO>
+		<WHO>uma bebé de dois anos e meio</WHO>
+		<WHERE>no interior de sua casa</WHERE>
+		<WHERE>um apartamento na Cruz de Pau</WHERE>
+		<WHERE>no concelho do Seixal</WHERE>
+		<WHAT>espera</WHAT>
+    </Event>
+	
+   <Event id="NewsCrime01_Event_5">
+        <!-- Passam poucos minutos das oito da manhã When e será WHAT o ex-genro,who Pedro Henriques who, de 39 anos, quem 
+		irá entregar What a criança who, mas a entrega What de Lara who nunca acontece WHAT . -->
+		<WHEN>Passam poucos minutos das oito da manhã</WHEN>
+        <WHO>e será o ex-genro</WHO>
+		<WHO>Pedro Henriques</WHO>
+        <WHAT>entregar</WHAT>
+		<WHO>a criança</WHO>
+		
+    </Event>
+	   <Event id="NewsCrime01_Event_6">
+        <!-- Mas a entrega What de Lara who nunca acontece. . -->
+	    <WHAT>entregar</WHAT>
+		<WHO>Lara</WHO>
+    </Event>
+	
+	</Event>
+	   <Event id="NewsCrime01_Event_7">
+        <!-- O homicida who força WHAT a porta, entra WHAT dentro de casa Where e mata WHAT a mãe da ex-companheira who. -->
+	    <WHERE>entra dentro de casa</WHERE>
+		<HOW>força a porta</HOW>
+		<WHO>O homicida</WHO>
+		<WHAT>e mata</WHAT>
+		<WHO>a mãe da ex-companheira</WHO>
+    </Event>
+	
+	</Event>
+	   <Event id="NewsCrime01_Event_8">
+        <!-- Às 8:30 When a polícia who é alertada WHAT  por moradores Who do prédio na Rua do Minho Where para um caso de 
+		violência doméstica CRIME TYPE, que terminou WHAT com o esfaqueamento CRIMINAL ACTION da vítima who. 
+		-->
+	    <WHEN>Às 8:30</WHEN>
+		<WHO>a polícia </WHO>
+		<WHAT>alertada</WHAT>
+		<WHO>por moradores </WHO>
+		<WHERE>do prédio na Rua do Minho</WHERE>
+		<WHAT>terminou</WHAT>
+		<HOW>que terminou com o esfaqueamento</HOW>
+		<WHO>da vítima</WHO>
+    </Event>
+	 </Event>
+	   <Event id="NewsCrime01_Event_9">
+        <!-- Ao mesmo tempo When que a mãe who é brutalmente WHAT assassinada , Sandra Cabrita who, 
+		única filha de Rui e Helena Cabrita who, está WHAT no café dos pais Where, a pastelaria Orly Where.  -->
+	    <WHEN>Ao mesmo tempo</WHEN>
+		<WHO>que a mãe</WHO>
+		<WHAT> brutalmente</WHAT>
+		<WHO>Sandra Cabrita</WHO>
+		<WHO>única filha de Rui e Helena Cabrita</WHO>
+		<WHERE>está no café dos pais</WHERE>
+		<WHERE>a pastelaria Orly </WHERE>
+    </Event>
+	
+	 </Event>
+	   <Event id="NewsCrime01_Event_10">
+        <!-- Iriam todos who encontrar-se WHAT às 10:00 When no Tribunal de Família e Menores do Seixal Where para, a pedido Why 
+		da mãe de Lara who, alterar WHAT o regime de guarda partilhada Why.  -->
+	    <WHAT>encontrar-se</WHAT>
+		<WHO>Iriam todos</WHO>
+		<WHEN>às 10:00</WHEN>
+		<WHERE>Tribunal de Família e Menores do Seixal</WHERE>
+		<WHY>para, a pedido</WHY>
+		<WHO>da mãe de Lara</WHO>
+		<WHY>alterar o regime de guarda partilhada</WHY>
+		
+    </Event>
+	
+	
+	  <Event id="NewsCrime01_Event_11">
+        <!-- Pedro Henriques WHO era WHAT violento , ameaçava WHAT a família inteira Why, 
+		estava desempregado Why  e não tinha condições para cuidar WHAT da criança Why, no entender WHAT de Sandra Cabrita who . -->
+	    <WHAT>era violento</WHAT>
+		<WHO>Pedro Henriques</WHO>
+		<WHY>ameaçava a família inteira</WHY>
+		<WHO>da mãe de Lara</WHO>
+		<WHY>estava desempregado</WHY>
+		<WHY>e não tinha condições para cuidar da criança</WHY>
+		<WHO> no entender de Sandra Cabrita </WHO>
+    </Event>
+	
+	</Event>
+	   <Event id="NewsCrime01_Event_12">
+        <!-- Terá sido a iminência da audiência Why em tribunal Where que precipitou What os atos do homicida who -->
+	    <WHERE> em tribunal</WHERE>
+		<WHAT> precipitou </WHAT>
+		<WHY>Terá sido a iminência da audiência</WHY>
+		<WHO>os atos do homicida</WHO>
+		
+    </Event>
+	
+	
+</CrimeNews01>

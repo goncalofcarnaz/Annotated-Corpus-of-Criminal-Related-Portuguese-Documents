@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><news030>
+    <docname>news030</docname>
+    <authors>Jornal as Beiras</authors>
+    <publicationdate>15 Dezembro 2015</publicationdate>
+    <title>Mariz e Carreira estão acusados de um crime de peculato.</title>
+    <newstext>Os antigos administradores da sociedade Metro Mondego, José Mariz e Guilherme Carreira, foram acusados da prática de um crime de peculato. 
+	De acordo com a acusação, que foi comunicada na passada sexta-feira, os dois arguidos terão usado o cartão de crédito da sociedade para “fins e satisfazer pagamentos com despesas que não tinham qualquer relação com o exercício dos cargos públicos em que estavam investidos”.</newstext>
+
+	<Sentences num="2">
+	</Sentences>
+
+	<sent1 desc="Os antigos administradores da sociedade Metro Mondego, José Mariz e Guilherme Carreira, foram acusados da prática de um crime de peculato. ">
+		<NE>
+			<Organization>Metro Mondego</Organization>
+			<Person>José Mariz </Person>
+			<Person> Guilherme Carreira</Person>
+			<crimetype>peculato</crimetype>
+		</NE>
+	</sent1>	
+	
+	<sent2 desc="De acordo com a acusação, que foi comunicada na passada sexta-feira, os dois arguidos terão usado o cartão de crédito da sociedade para 'fins e satisfazer pagamentos com despesas que não tinham qualquer relação com o exercício dos cargos públicos em que estavam investidos'">
+		<NE>
+			<Time>sexta-feira</Time>
+		</NE>
+	</sent2>
+	
+</news030>

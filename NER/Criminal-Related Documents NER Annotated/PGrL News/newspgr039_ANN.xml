@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr039>
+    <docname>newspgr039</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>02-10-2019</publicationdate>
+    <title>Detenção. Violência doméstica. DIAP de Cascais/Comarca de Lisboa Oeste.</title>
+    <text>Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 27-09-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.
+	Segundo os fortes indícios recolhidos, o arguido, que tem a visão diminuída em oitenta e cinco por cento, em data não apurada de 2015, posterior a Novembro, permitiu que a arguida viesse ocupar um quarto na sua habitação. 
+	Decorrido cerca de um mês, contra o consentimento e vontade da vítima, a arguida trouxe para habitar consigo o arguido, seu namorado. 
+	Desde esta data que os arguidos maltratam física e psicologicamente o ofendido, sabendo os arguidos que por força da incapacidade visual da vítima, esta não tinha qualquer capacidade séria de oferecer oposição à atuação concertada dos arguidos.
+	O arguido ficou sujeito à medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de perturbação do inquérito da ordem pública e de continuação da atividade criminosa.
+	O processo não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do MP do núcleo de Cascais, Comarca de Lisboa Oeste.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se, que foi detido e apresentado ao JIC para primeiro interrogatório judicial, no dia 27-09-2019, um arguido, fortemente indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>27-09-2019</Time>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, que tem a visão diminuída em oitenta e cinco por cento, em data não apurada de 2015, posterior a Novembro, permitiu que a arguida viesse ocupar um quarto na sua habitação.">
+		<NE>
+			<Time>2005</Time>
+			<Time>Novembro</Time>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Decorrido cerca de um mês, contra o consentimento e vontade da vítima, a arguida trouxe para habitar consigo o arguido, seu namorado.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Desde esta data que os arguidos maltratam física e psicologicamente o ofendido, sabendo os arguidos que por força da incapacidade visual da vítima, esta não tinha qualquer capacidade séria de oferecer oposição à atuação concertada dos arguidos.">
+		<NE>
+			
+		</NE>
+	</sent4>
+	<sent5 desc="O arguido ficou sujeito à medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de perturbação do inquérito da ordem pública e de continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent5>
+	
+	<sent6 desc="O processo não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+		
+	<sent7 desc="A investigação prossegue sob a direção do MP do núcleo de Cascais, Comarca de Lisboa Oeste.">
+		<NE>
+			<Organization>MP do núcleo de Cascais</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+		</NE>
+	</sent7>
+	
+</newspgr039>

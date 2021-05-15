@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr051>
+    <docname>newspgr051</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>20-09-2019</publicationdate>
+    <title> Detenção. Violência doméstica. DIAP de Sintra/Comarca de Lisboa Oeste.</title>
+    <text>   Informa-se que foi detido (fora de flagrante delito) e apresentado ao JIC, para primeiro interrogatório judicial, no dia 18-09-2019, um arguido, de quase 90 anos, fortemente indiciado pela prática de um crime de violência doméstica.
+	Segundo os fortes indícios recolhidos, o arguido, ao longo dos 56 anos de casamento ofendeu a vítima, sua mulher, verbalmente, tendo no corrente ano a agredido fisicamente.
+	O arguido ficou sujeito às medidas de coação de proibição de contactos, por qualquer meio, com a ofendida, e de proibição de permanecer nas proximidades da casa desta, por se verificarem os perigos de perturbação da ordem e tranquilidade pública e o perigo de continuação da atividade criminosa.
+	O inquérito não se encontra em segredo de justiça.
+	A investigação prossegue sob a direção do DIAP/ Núcleo de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.
+	</text>
+	
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="Informa-se que foi detido (fora de flagrante delito) e apresentado ao JIC, para primeiro interrogatório judicial, no dia 18-09-2019, um arguido, de quase 90 anos, fortemente indiciado pela prática de um crime de violência doméstica.">
+		<NE>
+			<Organization>JIC</Organization>
+			<Time>18-09-2019</Time>
+			<Numeric>90 anos</Numeric>
+			<crimetype>violência doméstica</crimetype>
+		</NE>
+	</sent1>
+	
+	<sent1 desc="Segundo os fortes indícios recolhidos, o arguido, ao longo dos 56 anos de casamento ofendeu a vítima, sua mulher, verbalmente, tendo no corrente ano a agredido fisicamente.">
+		<NE>
+			<Numeric>56 anos</Numeric>
+			
+		</NE>
+	</sent1>
+	
+	
+	<sent1 desc="O arguido ficou sujeito às medidas de coação de proibição de contactos, por qualquer meio, com a ofendida, e de proibição de permanecer nas proximidades da casa desta, por se verificarem os perigos de perturbação da ordem e tranquilidade pública e o perigo de continuação da atividade criminosa.">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	
+	<sent1 desc="O inquérito não se encontra em segredo de justiça.">
+		<NE>
+			
+		</NE>
+	</sent1>
+	
+	<sent1 desc="A investigação prossegue sob a direção do DIAP/ Núcleo de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.">
+		<NE>
+			<Organization>DIAP/ Núcleo de Sintra</Organization>
+			<Organization>Comarca de Lisboa Oeste</Organization>
+			<Organization>PSP</Organization>
+			
+		</NE>
+	</sent1>
+	
+	
+	
+</newspgr051>

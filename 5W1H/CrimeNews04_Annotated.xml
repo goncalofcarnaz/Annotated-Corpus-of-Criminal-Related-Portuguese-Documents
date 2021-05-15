@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Texto Anotado : CrimeNews04 -->
+
+
+<CrimeNews04>
+    <Event id="NewsCrime04_Event_1">
+	 <!-- 
+	 As autoridades do estado who de Guerrero where, no sul do México where, informaram what esta quarta-feira when que seis polícias who 
+	 e dez suspeitos who foram mortos what em dois tiroteios How.  
+	 -->
+	<WHO> As autoridades do estado</WHO>
+	<WHERE>de Guerrero </WHERE>
+	<WHERE>no sul do México </WHERE>
+	<WHAT> informaram</WHAT>
+	<WHEN>esta quarta-feira</WHEN>
+	<WHO>que seis polícias</WHO>
+	<WHO>e dez suspeitos</WHO>
+	<WHAT>foram mortos</WHAT>
+	<CRIMINALACTION> tiroteios</CRIMINALACTION>
+	
+	
+	</Event>
+	
+	 <Event id="NewsCrime04_Event_2">
+	 <!-- 
+	O porta-voz da segurança estadual who declarou WHAT que o primeiro tiroteio CRIMINALACTION ocorreu na terça-feira when, quando polícias do Estado WHO sofreram um ataque How 
+	numa cidade perto de um 'resort' em Zihuatanejo where, na costa do Pacífico where.  
+	 -->
+	<WHO>O porta-voz da segurança estadual</WHO>
+	<WHAT>declarou</WHAT>
+	<CRIMINALACTION>tiroteio</CRIMINALACTION>
+	<WHEN>ocorreu na terça-feira </WHEN>
+	<WHO>polícias do Estado</WHO>
+	<WHAT>sofreram</WHAT>
+	<WHERE>Zihuatanejo</WHERE>
+	<WHERE>na costa do Pacífico</WHERE>
+	
+	</Event>
+	
+	<Event id="NewsCrime04_Event_3">
+	 <!-- 
+	Um agente who foi ferido what neste ataque e a polícia who ripostou o fogo what e matou dez supostos pistoleiros what, num tiroteio CRIMINALACTION 
+	que durou cerca de 30 minutos when. 
+	 -->
+	<WHO>Um agente	</WHO>
+	<WHAT>foi ferido</WHAT>
+	<WHO>e a polícia</WHO>
+	<WHAT>ripostou o fogo </WHAT>
+	<WHAT>e matou </WHAT>
+	<WHO>dez supostos pistoleiros</WHO>
+	<CRIMINALACTION>  tiroteio </CRIMINALACTION>
+	
+	</Event>
+	
+	<Event id="NewsCrime04_Event_4">
+	 <!-- 
+	O porta-voz Roberto Alvarez who declarou que what, posteriormente when, mais a norte where, homens armados who atacaram uma coluna da polícia how 
+	e mataram WHAT seis agentes WHO, o que poderia ter sido uma retaliação às mortes no primeiro ataque why. 
+	 -->
+	<WHO>O porta-voz Roberto Alvarez</WHO>
+	<WHAT>declarou que </WHAT>
+	<WHEN>posteriormente </WHEN>
+	<WHERE> mais a norte</WHERE>
+	<WHO>homens armados</WHO>
+	<WHAT>atacaram</WHAT>
+	<WHO>coluna da polícia</WHO>
+	<WHAT>mataram</WHAT>
+	<WHO> seis agentes</WHO>
+	<WHY>o que poderia ter sido uma retaliação às mortes no primeiro ataque</WHY>
+	
+	</Event>
+	
+	<Event id="NewsCrime04_Event_5">
+	 <!-- 
+	 Estes polícias who estavam a visitar WHAT famílias consideradas em risco what, presumivelmente por causa da violência dos gangues de drogas why 
+	que assolam a região where.   
+
+	 -->
+	<WHO>Estes polícias	</WHO>
+	<WHAT>estavam a visitar</WHAT>
+	<WHO>famílias</WHO>
+	<WHAT>consideradas em risco </WHAT>
+	<WHY> presumivelmente por causa da violência dos gangues de drogas</WHY>
+	
+	</Event>
+	
+	
+</CrimeNews04>

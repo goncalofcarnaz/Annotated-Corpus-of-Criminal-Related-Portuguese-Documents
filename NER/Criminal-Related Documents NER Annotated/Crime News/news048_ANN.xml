@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><news048>
+    <docname>news048</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>04 Outubro 2018</publicationdate>
+    <title>Pulseira fit tramou idoso suspeito de matar enteada.</title>
+    <newstext>Tudo aconteceu numa casa em San José, na Califórnia, EUA. 
+	Foi a última vez que Anthony Aiello e a enteada se encontraram. 
+	Ele, 90 anos, preparou uma piza e "biscotti" (biscoitos de amêndoa italianos) para a visitar. 
+	Ela, de 67, terá acompanhado o padrasto de volta a casa e deu-lhe duas rosas como agradecimento. 
+	No entanto, cinco dias depois daquele 8 de setembro, Karen Navarra foi encontrada morta em casa por um colega de trabalho. 
+	Um acessório em especial pode ser usado como prova e ajudar a resolver o crime. 
+	Nada menos do que uma pulseira fitness, daquelas que registam o ritmo cardíaco e se tornaram populares entre praticantes de atividade física. 
+	Quase como que retirado de um filme de terror, com uma pitada de humor à mistura, o caso de homicídio pode ser resolvido porque os investigadores descobriram que o ritmo cardíaco de Karen disparou significativamente por volta das 15 horas, altura em que terá recebido a visita do padrasto, e foi baixando até parar, meia hora depois e cerca de cinco minutos antes de Anthony ter deixado a casa. 
+	Como resultado da análise àquele aparelho, o homem de 90 anos foi detido pela polícia de San José e está acusado de homicídio.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Tudo aconteceu numa casa em San José, na Califórnia, EUA.">
+		<NE>
+			<Place>San José</Place>
+			<Place>Califórnia</Place>
+			<Place>EUA</Place>
+		</NE>
+	</sent1>
+	
+	<sent2 desc="Foi a última vez que Anthony Aiello e a enteada se encontraram.">
+		<NE>
+			<Person>Anthony Aiello</Person>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="Ele, 90 anos, preparou uma piza e 'biscotti' (biscoitos de amêndoa italianos) para a visitar. ">
+		<NE>
+			<Numeric>90</Numeric>
+		</NE>
+	</sent3>
+	
+	<sent4 desc="Ela, de 67, terá acompanhado o padrasto de volta a casa e deu-lhe duas rosas como agradecimento. ">
+		<NE>
+			<Numeric>67</Numeric>
+		</NE>
+	</sent4>
+	
+	<sent5 desc="No entanto, cinco dias depois daquele 8 de setembro, Karen Navarra foi encontrada morta em casa por um colega de trabalho. ">
+		<NE>
+			<Time>8 de setembro</Time>
+			<Person>Karen Navarra</Person>
+		</NE>
+	</sent5>
+	
+	<sent6 desc="Um acessório em especial pode ser usado como prova e ajudar a resolver o crime. ">
+		<NE>
+			
+		</NE>
+	</sent6>
+	
+	<sent7 desc="Nada menos do que uma pulseira fitness, daquelas que registam o ritmo cardíaco e se tornaram populares entre praticantes de atividade física.">
+		<NE>
+			
+		</NE>
+	</sent7>
+	
+	<sent8 desc="Quase como que retirado de um filme de terror, com uma pitada de humor à mistura, o caso de homicídio pode ser resolvido porque os investigadores descobriram que o ritmo cardíaco de Karen disparou significativamente por volta das 15 horas, altura em que terá recebido a visita do padrasto, e foi baixando até parar, meia hora depois e cerca de cinco minutos antes de Anthony ter deixado a casa.">
+		<NE>
+			<Time>15 horas</Time>
+			<Person>Karen</Person>
+			<Person>Anthony</Person>
+		</NE>
+	</sent8>
+	
+	<sent9 desc="Como resultado da análise àquele aparelho, o homem de 90 anos foi detido pela polícia de San José e está acusado de homicídio.">
+		<NE>
+			<Numeric>90</Numeric>
+			<Place>San José </Place>
+			<crimetype>homicídio</crimetype>
+		</NE>
+	</sent9>
+	
+	
+	
+</news048>

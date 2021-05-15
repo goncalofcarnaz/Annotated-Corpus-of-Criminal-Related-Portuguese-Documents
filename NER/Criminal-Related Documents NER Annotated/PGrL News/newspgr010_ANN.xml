@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr010>
+    <docname>newspgr010</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>30-10-2019</publicationdate>
+    <title> Acusação. Homicídio qualificado. Violência doméstica agravado. Violação de domicílio agravado. DIAP da Almada/Comarca de Lisboa.</title>
+    <text>O MP requereu o julgamento, em tribunal coletivo, de um arguido pela prática de crimes de homicídio qualificado, de violência doméstica agravado e de violação de domicílio agravado.
+No essencial está indiciado que o arguido, no decurso do relacionamento amoroso que manteve com a ofendida, agrediu-a física e psicologicamente, mesmo em frente dos filhos desta.
+Depois de terminada a relação, o arguido continuou a manter sentimentos de ciúmes e de posse relativamente à vítima, controlando os seus passos, entrando na sua residência, contra a sua vontade, telefonando-lhe com frequência, não aceitando o fim da relação nem que a vitima andasse com outro homem, ameaçando que a mataria.
+No entanto, a ofendida, no final de 2018, encetou relacionamento amoroso com outro individuo, o que fez com que o arguido, ao tomar conhecimento de tal facto, no dia 11.01.2019, se dirige-se à residência daquela, arrombou a porta de entrada, dirigiu-se à vitima, desferiu-lhe murros e pontapés nas pernas, tronco e face, atirou-a contra as paredes, móveis e eletrodomésticos e desferiu-lhe pancadas na cabeça, deixando-a inanimada na sala e a sangrar, abandonando de seguida o local, provocando-lhe lesões que lhe determinaram a morte.
+O arguido encontra-se sujeito à medida de coação de Prisão Preventiva.
+A investigação foi efetuada sob a direção do MP do DIAP-Núcleo de Almada, Comarca de Lisboa. 
+O Ministério Público foi coadjuvado, nesta investigação, pela Polícia Judiciária de Setúbal.
+</text>
+
+
+<Sentences num="">
+</Sentences>
+
+<sent1 desc="O MP requereu o julgamento, em tribunal coletivo, de um arguido pela prática de crimes de homicídio qualificado, de violência doméstica agravado e de violação de domicílio agravado.">
+	<NE>
+		<Organization>MP</Organization>
+		<crimetype>homicídio qualificado</crimetype>
+		<crimetype>violência doméstica agravado</crimetype>
+		<crimetype>violação de domicílio agravado</crimetype>
+		
+	</NE>
+</sent1>
+
+<sent2 desc="No essencial está indiciado que o arguido, no decurso do relacionamento amoroso que manteve com a ofendida, agrediu-a física e psicologicamente, mesmo em frente dos filhos desta.">
+	<NE>
+	
+	</NE>
+</sent2>
+
+<sent3 desc="Depois de terminada a relação, o arguido continuou a manter sentimentos de ciúmes e de posse relativamente à vítima, controlando os seus passos, entrando na sua residência, contra a sua vontade, telefonando-lhe com frequência, não aceitando o fim da relação nem que a vitima andasse com outro homem, ameaçando que a mataria.">
+	<NE>
+	
+	</NE>
+</sent3>
+
+<sent4 desc="No entanto, a ofendida, no final de 2018, encetou relacionamento amoroso com outro individuo, o que fez com que o arguido, ao tomar conhecimento de tal facto, no dia 11.01.2019, se dirige-se à residência daquela, arrombou a porta de entrada, dirigiu-se à vitima, desferiu-lhe murros e pontapés nas pernas, tronco e face, atirou-a contra as paredes, móveis e eletrodomésticos e desferiu-lhe pancadas na cabeça, deixando-a inanimada na sala e a sangrar, abandonando de seguida o local, provocando-lhe lesões que lhe determinaram a morte.">
+	<NE>
+		<Time>2018</Time>
+	</NE>
+</sent4>
+
+<sent5 desc="O arguido encontra-se sujeito à medida de coação de Prisão Preventiva.">
+	<NE>
+	
+	</NE>
+</sent5>
+
+<sent6 desc="A investigação foi efetuada sob a direção do MP do DIAP-Núcleo de Almada, Comarca de Lisboa. ">
+	<NE>
+		<Organization>MP</Organization>
+		<Organization>DIAP-Núcleo de Almada</Organization>
+		<Organization>Comarca de Lisboa</Organization>
+	</NE>
+</sent6>
+
+<sent7 desc="O Ministério Público foi coadjuvado, nesta investigação, pela Polícia Judiciária de Setúbal.">
+	<NE>
+		<Organization>Ministério Público</Organization>
+		<Organization>Polícia Judiciária</Organization>
+		<Place>Setúbal</Place>
+	</NE>
+</sent7>
+
+
+
+</newspgr010>

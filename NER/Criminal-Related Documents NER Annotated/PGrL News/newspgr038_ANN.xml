@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><newspgr038>
+    <docname>newspgr038</docname>
+    <authors>Procudoria-Geral Distrital de Lisboa</authors>
+    <publicationdate>02-10-2019</publicationdate>
+    <title> Acusação. Violação agravada tentada. DIAP de Almada /Comarca de Lisboa.</title>
+    <text>O Ministério Público deduziu acusação contra um arguido, imputando-lhe a prática de um crime de violação agravado, na forma tentada.
+		No essencial ficou suficientemente indiciado que o arguido, no dia 15 de Janeiro de 2019, abordou uma menor de 14 anos de idade, que regressava da escola, agarrou-a pelo braço, puxou-a, levou-a para local ermo, onde contra a vontade desta tentou manter com a mesma relações sexuais, o que apenas não conseguiu devido à intervenção de terceiros.
+		O arguido encontra-se sujeito à medida de coação em prisão preventiva.
+		O inquérito foi dirigido pelo MP de Almada DIAP da Comarca de Lisboa, coadjuvado pela Polícia Judiciária de Setúbal.
+</text>
+
+	<Sentences num="">
+	
+	</Sentences>
+	
+	<sent1 desc="O Ministério Público deduziu acusação contra um arguido, imputando-lhe a prática de um crime de violação agravado, na forma tentada.">
+		<NE>
+			<Organization>Ministério Público</Organization>
+			<crimetype>violação agravado</crimetype>
+		</NE>
+	</sent1>
+
+	<sent2 desc="No essencial ficou suficientemente indiciado que o arguido, no dia 15 de Janeiro de 2019, abordou uma menor de 14 anos de idade, que regressava da escola, agarrou-a pelo braço, puxou-a, levou-a para local ermo, onde contra a vontade desta tentou manter com a mesma relações sexuais, o que apenas não conseguiu devido à intervenção de terceiros.">
+		<NE>
+			<Time> 15 de Janeiro de 2019</Time>
+			<Numeric>14 anos</Numeric>
+		</NE>
+	</sent2>
+	
+	<sent3 desc="O arguido encontra-se sujeito à medida de coação em prisão preventiva.">
+		<NE>
+			
+		</NE>
+	</sent3>
+	
+	<sent4 desc="O inquérito foi dirigido pelo MP de Almada DIAP da Comarca de Lisboa, coadjuvado pela Polícia Judiciária de Setúbal.">
+		<NE>
+			<Organization>MP de Almada DIAP da Comarca de Lisboa</Organization>
+			<Organization> Polícia Judiciária de Setúbal</Organization>
+		</NE>
+	</sent4>
+	
+</newspgr038>

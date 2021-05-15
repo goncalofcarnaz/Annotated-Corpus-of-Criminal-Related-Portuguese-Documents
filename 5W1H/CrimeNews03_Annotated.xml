@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Texto Anotado : CrimeNews02 -->
+   
+
+<CrimeNews03>
+    <Event id="NewsCrime03_Event_1">
+	 <!-- Um cidadão estrangeiro who foi detido what no aeroporto de Lisboa where 
+	 na posse de um bilhete de identidade italiano falso why e no Porto where um outro passageiro who também foi detido what 
+	 por falsificação de documento CRIMETYPE, informou what esta quarta-feira when o Serviço de Estrangeiros e Fronteiras (SEF) who.
+	 -->
+	<WHO> Um cidadão estrangeiro</WHO>
+	<WHAT>foi detido</WHAT>
+	<WHERE>no aeroporto de Lisboa</WHERE>
+	<WHY>na posse de um bilhete de identidade italiano falso</WHY>
+	<WHERE>e no Porto</WHERE>
+	<WHO>um outro passageiro</WHO>
+	<WHAT>também foi detido</WHAT>
+	<CRIMETYPE>por falsificação de documento</CRIMETYPE>
+	<WHAT>informou</WHAT>
+	<WHEN>esta quarta-feira</WHEN>
+	<WHO>o Serviço de Estrangeiros e Fronteiras </WHO>
+	 
+   </Event>
+    <Event id="NewsCrime03_Event_2">
+	 <!-- 
+	  A detenção what resultou do controlo de fronteira do SEF How, tendo o detido who e o documento falso WHO  sido entregue WHAT no tribunal competente what.
+	 -->
+	 <WHAT>A detenção</WHAT>
+	 <HOW>resultou do controlo de fronteira do SEF</HOW>
+	 <WHO>endo o detido</WHO>
+	 <WHAT>entregue</WHAT>
+	 <WHO>documento falso</WHO>
+	 <WHO>tribunal</WHO>
+	 
+	</Event>
+   <Event id="NewsCrime03_Event_3">
+	 <!-- 
+	   Entretanto when, no aeroporto Sá Carneiro where, no Porto where, o SEF) who deteve what um outro cidadão estrangeiro who 
+	   pela prática do crime de falsificação de documento CRIMETYPE.
+	 -->
+	<WHEN>Entretanto</WHEN>
+	<WHERE>no aeroporto Sá Carneiro</WHERE>
+	<WHERE> no Porto </WHERE>
+	<WHO> Serviço de Estrangeiros e Fronteiras </WHO>
+	<WHAT>deteve</WHAT>
+	<WHO>um outro cidadão estrangeiro</WHO>
+	<CRIMETYPE>falsificação de documento</CRIMETYPE>
+	 
+	</Event>
+   
+	<Event id="NewsCrime03_Event_4">
+	 <!-- 
+	   Entretanto when, no aeroporto Sá Carneiro where, no Porto where, o SEF) who deteve what um outro cidadão estrangeiro who 
+	   pela prática do crime de falsificação de documento CRIMETYPE.
+	 -->
+	<WHEN>Entretanto</WHEN>
+	<WHERE>no aeroporto Sá Carneiro</WHERE>
+	<WHERE> no Porto </WHERE>
+	<WHO> Serviço de Estrangeiros e Fronteiras </WHO>
+	<WHAT>deteve</WHAT>
+	<WHO>um outro cidadão estrangeiro</WHO>
+	<CRIMETYPE>falsificação de documento</CRIMETYPE>
+	 
+	</Event>
+  
+	<Event id="NewsCrime03_Event_5">
+	 <!-- 
+	    O passageiro who foi detido what pelos inspetores do SEF who no controlo de um voo How para Londres where, 
+		por apresentar um bilhete de identidade grego falsificado why.
+	-->
+	<WHO>O passageiro </WHO>
+	<WHAT>foi detido</WHAT>
+	<WHO>pelos inspetores do SEF</WHO>
+	<WHERE>para Londres</WHERE>
+	<WHO>bilhete de identidade grego falsificado</WHO>
+	 
+	</Event>
+
+	
+	<Event id="NewsCrime03_Event_6">
+	 <!-- 
+	    Apresentou what, posteriormente when, título de viagem grego WHO, emitido ao abrigo what da Convenção de Genebra who de 1951 when, 
+		que lhe reconhece o estatuto de refugiado what na Suíça where.
+	-->
+		<WHAT>Apresentou</WHAT>
+		<WHEN> posteriormente </WHEN>
+		<WHO>título de viagem grego </WHO>
+		<WHAT>emitido ao abrigo </WHAT>
+		<WHO>da Convenção de Genebra</WHO>
+		<WHEN>de 1951</WHEN>
+		<WHAT>que lhe reconhece o estatuto de refugiado </WHAT>
+		<WHERE>na Suíça</WHERE>
+	
+	
+	</Event>
+	
+	
+	<Event id="NewsCrime03_Event_7">
+	 <!-- 
+	    O homem who foi levado what ao Tribunal Judicial da Comarca da Maia where para primeiro interrogatório judicial CRIMINALACTION, 
+		tendo-lhe sido aplicada WHAT a pena de multa CRIMINALACTION.
+	-->
+		<WHO> O homem</WHO>
+		<WHAT> foi levado</WHAT>
+		<WHERE>ao Tribunal Judicial da Comarca da Maia</WHERE>
+		<CRIMINALACTION>interrogatório judicial </CRIMINALACTION>
+		<CRIMINALACTION>pena de multa </CRIMINALACTION>
+		<WHAT>tendo-lhe sido aplicada</WHAT>
+		
+	</Event>
+	
+	
+</CrimeNews03>

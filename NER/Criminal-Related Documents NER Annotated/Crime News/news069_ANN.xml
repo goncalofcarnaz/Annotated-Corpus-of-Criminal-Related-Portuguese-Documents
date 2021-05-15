@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><news069>
+    <docname>news069</docname>
+    <authors>Jornal de Noticias</authors>
+    <publicationdate>14 Agosto 2018</publicationdate>
+    <title>Homem ameaçou pessoas com cutelo em avenida movimentada de Setúbal.</title>
+    <newstext>Um homem com 28 anos foi detido pela PSP, na segunda-feira, por ameaçar com um cutelo pessoas que circulavam na movimentada Avenida José Mourinho, em plena frente ribeirinha de Setúbal. 
+	De acordo com a PSP, trata-se de um indivíduo já conhecido pelas autoridades e com cadastro por crimes de arma proibida, tráfico de estupefacientes e agressões.
+	</newstext>
+	
+	<Sentences num="">
+	</Sentences>
+	
+	<sent1 desc="Um homem com 28 anos foi detido pela PSP, na segunda-feira, por ameaçar com um cutelo pessoas que circulavam na movimentada Avenida José Mourinho, em plena frente ribeirinha de Setúbal.">
+		<NE>
+			<Numeric>28</Numeric>
+			<Organization>PSP</Organization>
+			<Time>segunda-feira</Time>
+			<Place>Avenida José Mourinho</Place>
+			<Place>Setúbal</Place>
+		</NE>
+	</sent1>
+	
+	<sent1 desc="De acordo com a PSP, trata-se de um indivíduo já conhecido pelas autoridades e com cadastro por crimes de arma proibida, tráfico de estupefacientes e agressões">
+		<NE>
+			<Organization>PSP</Organization>
+			<crimetype> arma proibida</crimetype>
+			<crimetype> tráfico de estupefacientes</crimetype>
+			<crimetype>agressões</crimetype>
+		</NE>
+	</sent1>
+	
+	
+</news069>
