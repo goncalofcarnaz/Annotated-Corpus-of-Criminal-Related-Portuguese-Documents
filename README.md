@@ -1,7 +1,7 @@
 # SEMCrime
 
 
-In /Dataset folder
+/Dataset 
    /Data collection
 	- Folder: CrimeNews - dataset built after a collection in online newspapers related to crime.
 	- Folder: PGrLisboa - dataset built after a collection in Procudoria Geral da Republica de Lisboa (Open Source News) related to crime.
