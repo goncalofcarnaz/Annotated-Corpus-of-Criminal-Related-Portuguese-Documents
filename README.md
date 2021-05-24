@@ -1,4 +1,4 @@
-# SEMCrime
+# SEMCrime - Annotated Portuguese Criminal-Related Corpus
 
 	/Dataset 
 		/Data collection
