@@ -1,4 +1,12 @@
+NOTICE: 
+This repo is original part of a PhD Thesis. 
+Documents were retrieved from Open Sources or Private Repositories (this data was anonimyzed).
+Please DO NOT modify this file directly. 
+We have provided a corpus built from set of criminal-related documents to contribute for Natural Language Processing researches. 
+
+
 # SEMCrime - Annotated Portuguese Criminal-Related Corpus
+
 
 	/Dataset 
 		/Data collection
