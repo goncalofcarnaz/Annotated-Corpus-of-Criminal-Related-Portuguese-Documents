@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><newspgr027>
-    <docname>newspgr027</docname>
+<?xml version="1.0" encoding="UTF-8"?><newspgr028>
+    <docname>newspgr028</docname>
     <authors>Procudoria-Geral Distrital de Lisboa</authors>
     <publicationdate>15-10-2019</publicationdate>
     <title>Detenções. Buscas. Operação Rota do Cabo. DIAP de Lisboa/Sede.</title>
     <text>Ao abrigo do art.º 86.º, n.º 13, al. b), do Código de Processo Penal, informa-se que foram realizadas, esta terça-feira, cerca de seis dezenas de buscas no âmbito de um inquérito dirigido pelo Ministério Público do Departamento de Investigação e Ação Penal de Lisboa. 
 		As buscas, das quais 45 domiciliárias, decorreram em vários locais, incluindo em alguns organismos públicos e em três escritórios de advogados.
-		No decurso das diligências foram efetuadas 22 detenções. 
-		Os detidos serão presentes ao Tribunal de Instrução Criminal para aplicação das medidas de coação.
-		No âmbito do inquérito investigam-se, designadamente crimes de associação criminosa, auxílio à imigração ilegal, abuso de poder, corrupção e branqueamento.
-		Na operação estiveram envolvidos três magistrados do Ministério Público, três juízes de Instrução Criminal; três representantes da Ordem dos Advogados e 280 elementos da Polícia Judiciária.
-		A investigação foi efectuada sob a direção do MP na 4ª secção do DIAP de Lisboa/Sede com a coadjuvação da PJ.
-</text>
+	No decurso das diligências foram efetuadas 22 detenções. 
+	Os detidos serão presentes ao Tribunal de Instrução Criminal para aplicação das medidas de coação.
+	No âmbito do inquérito investigam-se, designadamente crimes de associação criminosa, auxílio à imigração ilegal, abuso de poder, corrupção e branqueamento.
+	Na operação estiveram envolvidos três magistrados do Ministério Público, três juízes de Instrução Criminal; três representantes da Ordem dos Advogados e 280 elementos da Polícia Judiciária.
+	A investigação foi efectuada sob a direção do MP na 4ª secção do DIAP de Lisboa/Sede com a coadjuvação da Polícia Judiciária.
+	</text>
 	
-	<Sentences num="">
+	<Sentences num="7">
 	
 	</Sentences>
 	
 	<sent1 desc="Ao abrigo do art.º 86.º, n.º 13, al. b), do Código de Processo Penal, informa-se que foram realizadas, esta terça-feira, cerca de seis dezenas de buscas no âmbito de um inquérito dirigido pelo Ministério Público do Departamento de Investigação e Ação Penal (DIAP) de Lisboa. ">
 		<NE>
-			<Organization>Ministério Público do Departamento de Investigação e Ação Penal de Lisboa</Organization>
+			<Organization> Ministério Público do Departamento de Investigação e Ação Penal de Lisboa</Organization>
 		</NE>
 	</sent1>
-
+	
 	<sent2 desc="As buscas, das quais 45 domiciliárias, decorreram em vários locais, incluindo em alguns organismos públicos e em três escritórios de advogados.">
 		<NE>
 			<Numeric>45</Numeric>
@@ -45,7 +45,7 @@
 			<crimetype>associação criminosa</crimetype>
 			<crimetype>auxílio à imigração ilegal</crimetype>
 			<crimetype>abuso de poder</crimetype>
-			<crimetype>corrupção</crimetype>
+			<crimetype> corrupção</crimetype>
 			<crimetype>branqueamento</crimetype>
 		</NE>
 	</sent5>
@@ -53,7 +53,8 @@
 	<sent6 desc="Na operação estiveram envolvidos três magistrados do Ministério Público, três juízes de Instrução Criminal; três representantes da Ordem dos Advogados e 280 elementos da Polícia Judiciária.">
 		<NE>
 			<Organization>Ministério Público</Organization>
-			<Organization>Ordem dos Advogados </Organization>
+			<Organization>Ordem dos Advogados</Organization>
+			<Numeric>280</Organization>
 			<Organization>Polícia Judiciária</Organization>
 		</NE>
 	</sent6>
@@ -62,8 +63,9 @@
 		<NE>
 			<Organization>MP</Organization>
 			<Organization>4ª secção do DIAP de Lisboa/Sede</Organization>
-			<Organization>PJ</Organization>
+			<Organization>Polícia Judiciária</Organization>
 		</NE>
 	</sent7>
+
 	
-</newspgr027>
+</newspgr028>

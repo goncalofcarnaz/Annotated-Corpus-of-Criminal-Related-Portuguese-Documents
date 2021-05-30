@@ -3,8 +3,8 @@
     <authors>Procudoria-Geral Distrital de Lisboa</authors>
     <publicationdate>18-10-2019</publicationdate>
     <title>“Operação Rota do Cabo”. Detenções. Prisão preventiva. Suspensão de funções. DIAP de Lisboa/Sede.</title>
-    <text>Ao abrigo do disposto na alínea b) do nº 13 do artº 86 do CPP, o MP informa o seguinte: na sequência da notícia de 15.10.2019, os 23 arguidos detidos foram presentes a 1º interrogatório judicial, tendo sido determinada a prisão preventiva de um dos arguidos, tendo os restantes saído em liberdade com as medidas de coação de termo de identidade e residência, suspensão de funções, proibição de contactos, proibição de frequentar instalações ou serviços, por qualquer meio, do SEF, AT e ISS, e apresentações semanais no posto policial da área da sua residência.
-	A investigação prossegue sob a direção do MP na 4ª secção do DIAP de Lisboa/Sede com a coadjuvação da PJ.
+    <text>Ao abrigo do disposto na alínea b) do nº 13 do artº 86 do CPP, o MP informa o seguinte: na sequência da notícia de 15.10.2019, os 23 arguidos detidos foram presentes a 1º interrogatório judicial, tendo sido determinada a prisão preventiva de um dos arguidos, tendo os restantes saído em liberdade com as medidas de coação de termo de identidade e residência, suspensão de funções, proibição de contactos, proibição de frequentar instalações ou serviços, por qualquer meio, do Serviço de Estrangeiros e Fronteiras, Autoridade Tributária e ISS, e apresentações semanais no posto policial da área da sua residência.
+	A investigação prossegue sob a direção do Ministério Público na 4ª secção do DIAP de Lisboa/Sede com a coadjuvação da Policia Judiciária.
 	
 </text>
 
@@ -14,10 +14,10 @@
 	
 	<sent1 desc="Ao abrigo do disposto na alínea b) do nº 13 do artº 86 do CPP, o MP informa o seguinte: na sequência da notícia de 15.10.2019, os 23 arguidos detidos foram presentes a 1º interrogatório judicial, tendo sido determinada a prisão preventiva de um dos arguidos, tendo os restantes saído em liberdade com as medidas de coação de termo de identidade e residência, suspensão de funções, proibição de contactos, proibição de frequentar instalações ou serviços, por qualquer meio, do SEF, AT e ISS, e apresentações semanais no posto policial da área da sua residência.">
 		<NE>
-			<Organization>SEF</Organization>
-			<Organization>AT</Organization>
+			<Organization>Serviço de Estrangeiros e Fronteiras</Organization>
+			<Organization>Autoridade Tributária</Organization>
 			<Organization>ISS</Organization>
-			<Organization>MP</Organization>
+			<Organization>Ministério Público</Organization>
 		</NE>
 	</sent1>
 	
@@ -25,7 +25,7 @@
 		<NE>
 			<Organization>MP</Organization>
 			<Organization>4ª secção do DIAP de Lisboa/Sede</Organization>
-			<Organization>PJ</Organization>
+			<Organization>Policia Judiciária</Organization>
 		</NE>
 	</sent2>
 	
