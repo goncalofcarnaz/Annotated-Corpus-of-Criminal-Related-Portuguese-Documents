@@ -18,7 +18,7 @@ Gonçalo Carnaz is a PhD Candidate in Computer Science at the University of Évo
 
 Vitor Beires Nogueira, Assistant Professor in the Department of Computer Science at the University of Évora, obtained a PhD in Computer Sciences from the University of Évora in 2009. His research interests include declarative approaches to knowledge representation and computational reasoning, natural language processing and IoT. He is a researcher of NOVA LINCS.
 
-Mário Antunes, Professor at Computers Engineering Dept., School of Technology and Management, Polytechnic of Leiria, where coordinates a MSc program in Cybersecurity and Digital Forensics. Holds a PhD in  Computer Science, by the University of Porto obtained in 2011.
+Mário Antunes, Professor at Computers Engineering Dept., School of Technology and Management, Polytechnic of Leiria, where coordinates a MSc program in Cybersecurity and Digital Forensics. Holds a PhD in  Computer Science, by the University of Porto obtained in 2011. He is a senior research at INESC-TEC. 
 
 # Publications
 
