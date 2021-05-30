@@ -16,7 +16,7 @@ The annotated corpus aims to contribute for Machine Learning and Natural Languag
 
 Gonçalo Carnaz is a PhD Candidate in Computer Science at the University of Évora. His main research interests are graph databases, natural language processing, information extraction and machine learning.
 
-Vitor Beires Nogueira, Assistant Professor in the Department of Computer Science at the University of Évora, obtained a PhD in Computer Sciences from the University of Évora in 2009. He has actively participated in several research projects and is currently a researcher in 2 projects. His research interests include declarative approaches to knowledge representation and computational reasoning, natural language processing and IoT. He is a researcher of NOVA LINCS.
+Vitor Beires Nogueira, Assistant Professor in the Department of Computer Science at the University of Évora, obtained a PhD in Computer Sciences from the University of Évora in 2009. His research interests include declarative approaches to knowledge representation and computational reasoning, natural language processing and IoT. He is a researcher of NOVA LINCS.
 
 Mário Antunes, Professor at Computers Engineering Dept., School of Technology and Management, Polytechnic of Leiria, where coordinates a MSc program in Cybersecurity and Digital Forensics. Holds a PhD in  Computer Science, by the University of Porto obtained in 2011.
 
