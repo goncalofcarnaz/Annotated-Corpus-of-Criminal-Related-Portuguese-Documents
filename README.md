@@ -14,14 +14,11 @@ The annotated corpus aims to contribute for Machine Learning and Natural Languag
 
 # Authors
 
-Gonçalo Carnaz is a PhD Candidate in Computer Science at the University of \'{E}vora. IT Teacher at the Portuguese Ministry of Education. He is graduated by Polytechnic of Coimbra in Computers Engineering and holds a MSc in Informatics and Systems by the same Institution. He lectures in the areas of programming languages, cybersecurity and introduction to computers systems. His main research interests are graph databases, natural language processing, information extraction and machine learning.
+Gonçalo Carnaz is a PhD Candidate in Computer Science at the University of \'{E}vora. His main research interests are graph databases, natural language processing, information extraction and machine learning.
 
-Vitor Beires Nogueira, Assistant Professor in the Department of Computer Science at the University of Évora, obtained a PhD in Computer Sciences from the University of Évora in 2009, an MSc in Applied Artificial Intelligence from the New University of Lisbon in 2001 and a BSc in Applied Mathematics - Computer Science Branch from the University of Porto in 1994.
-He is assistant of the direction of the Doctorate in Computer Sciences and responsible for several curricular units (undergraduate, master and doctorate). Currently, supervising (or co-supervising) two doctoral thesis in Computer Sciences and three master’s theses in Informatics Engineering, having already successfully supervised one doctoral work and twelve master's theses. 
-He has actively participated in several research projects and is currently a researcher in 2 projects. His research interests include declarative approaches to knowledge representation and computational reasoning, natural language processing and IoT. He is a researcher of NOVA LINCS.
+Vitor Beires Nogueira, Assistant Professor in the Department of Computer Science at the University of Évora, obtained a PhD in Computer Sciences from the University of Évora in 2009. He has actively participated in several research projects and is currently a researcher in 2 projects. His research interests include declarative approaches to knowledge representation and computational reasoning, natural language processing and IoT. He is a researcher of NOVA LINCS.
 
-Mário Antunes, Professor at Computers Engineering Dept., School of Technology and Management, Polytechnic of Leiria, where coordinates a MSc program in Cybersecurity and Digital Forensics. Holds a PhD in  Computer Science, by the University of Porto obtained in 2011. He is graduated by Polytechnic of Porto in Computers Engineering and holds a MSc in Informatics-Systems and Networks by University of Porto. He lectures in the areas of computers networking security, cybersecurity and datacenters infrastructures. His main research interests are cybersecurity, networking and information security, datacenters and cloud technologies and machine learning applied to anomaly detection. 
-He is a senior research at INESC-TEC. He is also member of Technical Program Committee of International Conferences and Journals.
+Mário Antunes, Professor at Computers Engineering Dept., School of Technology and Management, Polytechnic of Leiria, where coordinates a MSc program in Cybersecurity and Digital Forensics. Holds a PhD in  Computer Science, by the University of Porto obtained in 2011. He is a senior research at INESC-TEC. He is also member of Technical Program Committee of International Conferences and Journals.
 
 
 # Publications
