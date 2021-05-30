@@ -10,7 +10,7 @@
 	A investigação prossegue sob a direção do DIAP/ Núcleo de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.
 	</text>
 	
-	<Sentences num="">
+	<Sentences num="5">
 	
 	</Sentences>
 	
@@ -23,35 +23,35 @@
 		</NE>
 	</sent1>
 	
-	<sent1 desc="Segundo os fortes indícios recolhidos, o arguido, ao longo dos 56 anos de casamento ofendeu a vítima, sua mulher, verbalmente, tendo no corrente ano a agredido fisicamente.">
+	<sent2 desc="Segundo os fortes indícios recolhidos, o arguido, ao longo dos 56 anos de casamento ofendeu a vítima, sua mulher, verbalmente, tendo no corrente ano a agredido fisicamente.">
 		<NE>
 			<Numeric>56 anos</Numeric>
 			
 		</NE>
-	</sent1>
+	</sent2>
 	
 	
-	<sent1 desc="O arguido ficou sujeito às medidas de coação de proibição de contactos, por qualquer meio, com a ofendida, e de proibição de permanecer nas proximidades da casa desta, por se verificarem os perigos de perturbação da ordem e tranquilidade pública e o perigo de continuação da atividade criminosa.">
+	<sent3 desc="O arguido ficou sujeito às medidas de coação de proibição de contactos, por qualquer meio, com a ofendida, e de proibição de permanecer nas proximidades da casa desta, por se verificarem os perigos de perturbação da ordem e tranquilidade pública e o perigo de continuação da atividade criminosa.">
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent3>
 	
 	
-	<sent1 desc="O inquérito não se encontra em segredo de justiça.">
+	<sent4 desc="O inquérito não se encontra em segredo de justiça.">
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent4>
 	
-	<sent1 desc="A investigação prossegue sob a direção do DIAP/ Núcleo de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.">
+	<sent5 desc="A investigação prossegue sob a direção do DIAP/ Núcleo de Sintra, Comarca de Lisboa Oeste, com a coadjuvação da PSP.">
 		<NE>
 			<Organization>DIAP/ Núcleo de Sintra</Organization>
 			<Organization>Comarca de Lisboa Oeste</Organization>
 			<Organization>PSP</Organization>
 			
 		</NE>
-	</sent1>
+	</sent5>
 	
 	
 	
