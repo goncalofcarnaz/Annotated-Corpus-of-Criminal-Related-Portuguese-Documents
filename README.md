@@ -6,6 +6,17 @@ Please DO NOT modify this file directly. (this repo will be updated continuously
 
 The annotated corpus aims to contribute for Machine Learning and Natural Language Processing tasks. 
 
+# Authors
+
+
+
+# Publications
+
+Gonçalo Carnaz, Vitor Nogueira, Mário Antunes; "Knowledge Representation of Crime-Related Events: a Preliminary Approach"; 8th Symposium on Languages, Applications and Technologies (SLATE'19); ISBN: 978-3-95977-114-6; vol.74; pp. 13:1-13:8; June 2019; Coimbra, Portugal
+
+Gonçalo Carnaz, Vitor Nogueira, Paulo Quaresma, Mário Antunes, Nuno Ferreira; "A Review on Relations Extraction in Police Reports"; 7th World Conference on Information Systems and Technologies (WCIST'19); vol.930; pp.494-503; April 2019; La Toja, Spain
+
+Gonçalo Carnaz, Vitor Nogueira, Mário Antunes, Nuno Ferreira; "An automated system for criminal police reports analysis"; 14th International Conference on Information Assurance and Security (IAS'18); ISBN: 978-3-030-17064-6; pp.360-369; December 2018; Editor: Springer; Porto, Portugal
 
 # Annotated Portuguese Criminal-Related Corpus
 
