@@ -37,7 +37,7 @@
 	<sent4 desc="O caso está a ser investigado pela Polícia Judiciária, que, pelas 19 horas desta quinta-feira, se encontrava ainda no local.">
 		<NE>
 			<Organization>Polícia Judiciária</Organization>
-			<Numeric>19</Numeric>
+			<Time>19 horas</Time>
 			<Time>quinta-feira</Time>
 		</NE>
 	</sent4>

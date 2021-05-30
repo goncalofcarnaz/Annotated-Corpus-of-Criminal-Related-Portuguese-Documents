@@ -20,7 +20,7 @@
 	Quanto à saída do pai de carro, a jovem acrescentou que Edison levava uma caixa de ferramentas.
 	</newstext>
 	
-	<Sentences num="">
+	<Sentences num="15">
 	</Sentences>
 	
 	<sent1 desc="Foram revelados esta quarta-feira os depoimentos de Cristiana Brites e Allana Brites, mulher e filha de Edison Brittes Júnior, alegado homicida de Daniel Corrêa, jogador do São Paulo torturado e assassinado no Brasil.">
@@ -124,10 +124,10 @@
 		</NE>
 	</sent14>
 	
-	<sent1 desc="Quanto à saída do pai de carro, a jovem acrescentou que Edison levava uma caixa de ferramentas. ">
+	<sent15 desc="Quanto à saída do pai de carro, a jovem acrescentou que Edison levava uma caixa de ferramentas. ">
 		<NE>
 			<Person>Edison</Person>
 		</NE>
-	</sent1>
+	</sent15>
 	
 </news015>
