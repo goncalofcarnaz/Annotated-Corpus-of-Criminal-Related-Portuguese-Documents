@@ -1,21 +1,20 @@
 NOTICE: 
-This repo is original part of a PhD Thesis. 
 
 Documents were retrieved from Open Sources or Private Repositories (this data was anonimyzed).
 
 Please DO NOT modify this file directly. (this repo will be updated continuously, maintaining a file named as change_tracker)
 
-We have provided a corpus built from set of criminal-related documents to contribute for Natural Language Processing tasks. 
+The annotated corpus aims to contribute for Machine Learning and Natural Language Processing tasks. 
 
 
-# SEMCrime - Annotated Portuguese Criminal-Related Corpus
+# Annotated Portuguese Criminal-Related Corpus
 
 
 	/Dataset 
 		/Data collection
 		- Folder: CrimeNews - dataset built after a collection in online newspapers related to crime.
 		- Folder: PGrLisboa - dataset built after a collection in Procudoria Geral da Republica de Lisboa (Open Source News) related to crime.
-		- Folder: Criminal Investigation Reports - data built by police reports after being anonymized (the used names, locations, time, phone numbers, license plates are not related to original report).
+		- Folder: Criminal Investigation Reports - The data retrieved from the criminal Investigation Reports, namely names, locations and dates, was anonimyzed..
 					
 		/NER
 		- Folder: Common -   The training and testing dataset for NER Classifiers (Named-Entities: Person, Location, Organization, Date and Numeric);
