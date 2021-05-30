@@ -1,6 +1,9 @@
 NOTICE: 
 
-Documents were retrieved from Open Sources or Private Repositories (this data was anonimyzed).
+Documents were retrieved from the following repositories:
+- Criminal Investigation Reports: these reports synthesize in one or multiple documents the information collected during a criminal investigation, namely witnesses, suspects,   police investigators, or fact descriptions. The documents are about cases in which there have been a final decision and are no longer subject to appeal;
+- Criminal News: documents published in online newspapers, usually written by investigative journalists.
+- PGdLisboa: another source for criminal reports is the Procuradoria-Geral Distrital de Lisboa (https://www.pgdlisboa.pt/) website. The news are about cases in which there have been a final decision and are no longer subject to appeal.  
 
 Please DO NOT modify this file directly. (this repo will be updated continuously, maintaining a file named as change_tracker)
 
