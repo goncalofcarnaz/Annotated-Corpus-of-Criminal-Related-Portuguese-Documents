@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><news099>
+<?xml version="1.0" encoding="UTF-8"?><news073>
     <docname>news099</docname>
     <authors>Jornal de Noticias</authors>
     <publicationdate>19 Abril 2018</publicationdate>
@@ -48,25 +48,25 @@
 		</NE>
 	</sent4>
 	
-	<sent1 desc="A mulher evidenciava sinais de ter mais de uma dezena de facadas em várias zonas do corpo. ">
+	<sent5 desc="A mulher evidenciava sinais de ter mais de uma dezena de facadas em várias zonas do corpo. ">
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent5>
 	
-	<sent1 desc="O corpo estava na cozinha da habitação, que denotava claros indícios de um ataque violento, com cadeiras e utensílios espalhados no chão. ">
+	<sent6 desc="O corpo estava na cozinha da habitação, que denotava claros indícios de um ataque violento, com cadeiras e utensílios espalhados no chão. ">
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent6>
 	
-	<sent1 desc="O prato da última refeição ainda estava em cima da mesa.">
+	<sent7 desc="O prato da última refeição ainda estava em cima da mesa.">
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent7>
 	
-	<sent1 desc="Além da corporação do Juncal, a operação envolveu bombeiros de Porto de Mós, INEM, GNR e Policia Judiciária, que lidera a investigação.">
+	<sent8 desc="Além da corporação do Juncal, a operação envolveu bombeiros de Porto de Mós, INEM, GNR e Policia Judiciária, que lidera a investigação.">
 		<NE>
 			<Organization>INEM</Organization>
 			<Organization>GNR</Organization>
@@ -74,6 +74,6 @@
 			<Place>Porto de Mós</Place>
 			<Place>Juncal</Place>
 		</NE>
-	</sent1>
+	</sent8>
 	
-</news099>
+</news073>

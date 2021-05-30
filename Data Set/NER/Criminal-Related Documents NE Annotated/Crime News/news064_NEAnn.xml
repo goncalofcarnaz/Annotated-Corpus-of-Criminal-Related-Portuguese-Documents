@@ -14,7 +14,7 @@
 	Foi condenada a 13 anos de prisão por um tribunal suíço.
 	</newstext>
 
-	<Sentences num="">
+	<Sentences num="9">
 	
 	</Sentences>
 	
@@ -79,7 +79,7 @@
 		
 	<sent9 desc="Foi condenada a 13 anos de prisão por um tribunal suíço.">
 		<NE>
-			<Numeric>13</Numeric>
+			<Time>13 anos</Time>
 			<Organization>tribunal</Organization>
 		</NE>
 	</sent9>
