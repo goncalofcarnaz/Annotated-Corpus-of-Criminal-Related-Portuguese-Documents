@@ -28,6 +28,18 @@ Gonçalo Carnaz, Vitor Nogueira, Paulo Quaresma, Mário Antunes, Nuno Ferreira; 
 
 Gonçalo Carnaz, Vitor Nogueira, Mário Antunes, Nuno Ferreira; "An automated system for criminal police reports analysis"; 14th International Conference on Information Assurance and Security (IAS'18); ISBN: 978-3-030-17064-6; pp.360-369; December 2018; Editor: Springer; Porto, Portugal
 
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
 # Dataset layout
 
 	/Dataset 
