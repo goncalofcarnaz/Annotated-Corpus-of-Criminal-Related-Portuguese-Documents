@@ -32,13 +32,13 @@ Mário Antunes, Professor at Computers Engineering Dept., School of Technology a
 
 # Publications
 
-Carnaz G, Nogueira VB, Antunes M. A Graph Database Representation of Portuguese Criminal-Related Documents. Informatics. 2021; 8(2):37. (URL: https://www.mdpi.com/1137858)
+Carnaz G, Nogueira VB, Antunes M. A Graph Database Representation of Portuguese Criminal-Related Documents. Informatics. 2021; 8(2):37 (URL: https://www.mdpi.com/1137858)
 
-Gonçalo Carnaz, Vitor Nogueira, Mário Antunes; "Knowledge Representation of Crime-Related Events: a Preliminary Approach"; 8th Symposium on Languages, Applications and Technologies (SLATE'19); ISBN: 978-3-95977-114-6; vol.74; pp. 13:1-13:8; June 2019; Coimbra, Portugal
+Gonçalo Carnaz, Vitor Nogueira, Mário Antunes; "Knowledge Representation of Crime-Related Events: a Preliminary Approach"; 8th Symposium on Languages, Applications and Technologies (SLATE'19); ISBN: 978-3-95977-114-6; vol.74; pp. 13:1-13:8; June 2019; Coimbra, Portugal (URL: https://drops.dagstuhl.de/opus/volltexte/2019/10880/pdf/OASIcs-SLATE-2019-13.pdf)
 
-Gonçalo Carnaz, Vitor Nogueira, Paulo Quaresma, Mário Antunes, Nuno Ferreira; "A Review on Relations Extraction in Police Reports"; 7th World Conference on Information Systems and Technologies (WCIST'19); vol.930; pp.494-503; April 2019; La Toja, Spain
+Gonçalo Carnaz, Vitor Nogueira, Paulo Quaresma, Mário Antunes, Nuno Ferreira; "A Review on Relations Extraction in Police Reports"; 7th World Conference on Information Systems and Technologies (WCIST'19); vol.930; pp.494-503; April 2019; La Toja, Spain (URL: https://link.springer.com/chapter/10.1007/978-3-030-16181-1_47)
 
-Gonçalo Carnaz, Vitor Nogueira, Mário Antunes, Nuno Ferreira; "An automated system for criminal police reports analysis"; 14th International Conference on Information Assurance and Security (IAS'18); ISBN: 978-3-030-17064-6; pp.360-369; December 2018; Editor: Springer; Porto, Portugal
+Gonçalo Carnaz, Vitor Nogueira, Mário Antunes, Nuno Ferreira; "An automated system for criminal police reports analysis"; 14th International Conference on Information Assurance and Security (IAS'18); ISBN: 978-3-030-17064-6; pp.360-369; December 2018; Editor: Springer; Porto, Portugal (URL:https://link.springer.com/chapter/10.1007/978-3-030-17065-3_36)
 
 
 
