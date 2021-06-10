@@ -25,7 +25,7 @@
 	<sent2 desc="O crime aconteceu três anos depois, na Amadora.">
 		<NE>
 			<Numeric>três</Numeric>
-			<Place>Amadora</Place>
+			<Location>Amadora</Location>
 		</NE>
 	</sent2>
 	

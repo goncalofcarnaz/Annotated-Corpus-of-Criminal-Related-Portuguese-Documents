@@ -27,7 +27,7 @@
 		<NE>
 			<Numeric>90</Numeric>
 			<Numeric>quatro</Numeric>
-			<Place>EUA</Place>
+			<Location>EUA</Location>
 		</NE>
 	</sent1>
 	
@@ -36,7 +36,7 @@
 			<Organization>FBI</Organization>
 			<Person>Samuel Little</Person>
 			<Numeric>78</Numeric>
-			<Place>Estados Unidos da América</Place>
+			<Location>Estados Unidos da América</Location>
 		</NE>
 	</sent2>
 	
@@ -65,14 +65,14 @@
 	<sent6 desc="Em 2012, o homem foi detido num espaço para sem-abrigo, em Kentucky, onde foi procurado por acusações relacionadas com droga.">
 		<NE>
 			<Time>2012</Time>
-			<Place>Kentucky</Place>
+			<Location>Kentucky</Location>
 		</NE>
 	</sent6>
 	
 	<sent7 desc="Uma amostra de ADN foi o suficiente para ligar o homem à morte de três pessoas em Los Angeles, entre 1987 e 1989.">
 		<NE>
 			<Numeric>três</Numeric>
-			<Place>Los Angeles</Place>
+			<Location>Los Angeles</Location>
 			<Time>1987</Time>
 			<Time>1989</Time>
 		</NE>
@@ -94,22 +94,22 @@
 		<NE>
 			<Numeric>três</Numeric>
 			<Organization>FBI</Organization>
-			<Place>Samuel</Place>
+			<Location>Samuel</Location>
 		</NE>
 	</sent10>
 	
 	<sent11 desc="Foi desta forma que os agentes responsáveis pelo programa conseguiram estabelecer 'padrões alarmantes' com outros assassinatos nos EUA, levando à reabertura de um caso não resolvido de um assassinato em Odessa, no Texas, de uma mulher chamada Denise Christie.">
 		<NE>
-			<Place>EUA</Place>
-			<Place>Odessa</Place>
-			<Place>Texas</Place>
+			<Location>EUA</Location>
+			<Location>Odessa</Location>
+			<Location>Texas</Location>
 			<Person>Denise Christie</Person>
 		</NE>
 	</sent11>
 	
 	<sent12 desc="Um Ranger daquela localidade deslocou-se à Califórnia para falar com Samuel que, pensando que o contratavam para mudar de prisão, aceitou falar.">
 		<NE>
-			<Place>Califórnia</Place>
+			<Location>Califórnia</Location>
 		</NE>
 	</sent12>
 	
@@ -122,7 +122,7 @@
 	<sent14 desc="Fonte do FBI disse que o homem está em más condições de saúde e que o mais provável é que fique numa prisão do Texas até à morte.">
 		<NE>
 			<Organization>FBI</Organization>
-			<Place>Texas</Place>
+			<Location>Texas</Location>
 		</NE>
 		
 	</sent14>

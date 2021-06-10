@@ -14,8 +14,8 @@
 	
 	<sent1 desc="As autoridades do estado de Guerrero, no sul do México, informaram esta quarta-feira que seis polícias e dez suspeitos foram mortos em dois tiroteios.">
 		<NE>
-			<Place>Guerrero</Place>
-			<Place>México</Place>
+			<Location>Guerrero</Location>
+			<Location>México</Location>
 			<Time>quarta-feira</Time>
 			<Numeric>seis</Numeric>
 			<Numeric>dois</Numeric>
@@ -24,7 +24,7 @@
 	<sent2 desc="O porta-voz da segurança estadual declarou que o primeiro tiroteio ocorreu na terça-feira, quando polícias do Estado sofreram um ataque numa cidade perto de um 'resort' em Zihuatanejo, na costa do Pacífico. ">
 		<NE>
 			<Time>terça-feira</Time>
-			<Place>Zihuatanejo</Place>
+			<Location>Zihuatanejo</Location>
 			<Organization>Estado</Organization>
 		</NE>
 	</sent2>	

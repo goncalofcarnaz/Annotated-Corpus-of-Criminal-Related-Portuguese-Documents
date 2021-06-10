@@ -42,8 +42,8 @@
 			<Person>Helena Cabrita</Person>
 			<Numeric>60 anos</Numeric>
 			<Numeric>dois anos e meio</Numeric>
-			<Place>Cruz de Pau</Place>
-			<Place>Seixal</Place>
+			<Location>Cruz de Pau</Location>
+			<Location>Seixal</Location>
 		</NE>
 	</sent4>
 	<sent5 desc="Passam poucos minutos das oito da manhã e será o ex-genro, Pedro Henriques, de 39 anos, quem irá entregar a criança.">
@@ -64,7 +64,7 @@
 	<sent8 desc="Às 8:30 a polícia é alertada por moradores do prédio na Rua do Minho para um caso de violência doméstica, que terminou com o esfaqueamento da vítima. ">
 		<NE>
 			<Time>8:30</Time>
-			<Place>Rua do Minho</Place>
+			<Location>Rua do Minho</Location>
 			<crimetype>violência doméstica</crimetype>
 		</NE>
 	</sent8>
@@ -73,7 +73,7 @@
 			<Person>Sandra Cabrita</Person>
 			<Person>Rui</Person>
 			<Person>Helena Cabrita</Person>
-			<Place>pastelaria Orly</Place>
+			<Location>pastelaria Orly</Location>
 		</NE>
 		
 	</sent9>

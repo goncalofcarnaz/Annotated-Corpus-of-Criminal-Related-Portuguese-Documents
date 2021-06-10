@@ -16,8 +16,8 @@
 	
 	<sent1 desc="Um cidadão estrangeiro foi detido no aeroporto de Lisboa na posse de um bilhete de identidade italiano falso e no Porto um outro passageiro também foi detido por falsificação de documento, informou esta quarta-feira o Serviço de Estrangeiros e Fronteiras (SEF).">
 		<NE>
-			<Place>Lisboa</Place>
-			<Place>Porto</Place>
+			<Location>Lisboa</Location>
+			<Location>Porto</Location>
 			<crimetype>falsificação de documento</crimetype>
 			<Time>quarta-feira</Time>
 			<Organization>Serviço de Estrangeiros e Fronteiras</Organization>
@@ -30,7 +30,7 @@
 	</sent2>
 	<sent3 desc="Entretanto, no aeroporto Sá Carneiro, no Porto, o SEF deteve um outro cidadão estrangeiro pela prática do crime de falsificação de documento.">
 		<NE>
-			<Place>aeroporto Sá Carneiro</Place>
+			<Location>aeroporto Sá Carneiro</Location>
 			<Organization>SEF</Organization>
 			<crimetype>falsificação de documento</crimetype>
 		</NE>
@@ -38,7 +38,7 @@
 	<sent4 desc="Apresentou, posteriormente, título de viagem grego, emitido ao abrigo da Convenção de Genebra de 1951, que lhe reconhece o estatuto de refugiado na Suíça. ">
 		<NE>
 			<Time>1951</Time>
-			<Place>Suiça</Place>
+			<Location>Suiça</Location>
 		</NE>
 	</sent4>
 	<sent5 desc="O homem foi levado ao Tribunal Judicial da Comarca da Maia para primeiro interrogatório judicial, tendo-lhe sido aplicada a pena de multa.">

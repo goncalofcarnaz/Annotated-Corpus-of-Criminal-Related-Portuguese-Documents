@@ -14,7 +14,7 @@
 	<sent1 desc="Cinco pessoas foram constituídas arguidas, no Porto, no âmbito de uma operação policial para desmantelar grupos que, de forma organizada, se dedicavam a furtar carteiras, anunciou a Polícia de Segurança Pública (PSP) este sábado.">
 		<NE>
 			<Numeric>Cinco</Numeric>
-			<Place>Porto</Place>
+			<Location>Porto</Location>
 			<Organization>Polícia de Segurança Pública</Organization>
 			<Organization>PSP</Organization>
 		</NE>
@@ -27,7 +27,7 @@
 			<Numeric>33</Numeric>
 			<Organization>PSP</Organization>
 			<Time>sexta-feira</Time>
-			<Place>Terreiro da Sé</Place>
+			<Location>Terreiro da Sé</Location>
 		</NE>
 	</sent2>
 	<sent3 desc="Durante aquela 'operação policial, cujo propósito assenta na desagregação de grupos de indivíduos que de forma organizada se dedicam à prática dos crimes de furto de carteiras', foram ainda apreendidos 305 euros e uma máquina fotográfica, entre outros objetos, segundo a PSP. ">
@@ -40,7 +40,7 @@
 		<NE>
 			<Organization>PSP do Porto</Organization>
 			<Time>10 de Maio</Time>
-			<Place>rua Infante D. Henrique</Place>
+			<Location>rua Infante D. Henrique</Location>
 			<Numeric>três</Numeric>
 			<Numeric>578</Numeric>
 			

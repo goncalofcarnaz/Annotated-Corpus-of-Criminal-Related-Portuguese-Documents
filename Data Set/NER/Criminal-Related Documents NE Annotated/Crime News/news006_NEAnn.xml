@@ -33,7 +33,7 @@
 	<sent2 desc="Durante a leitura da decisão judicial, no Tribunal São João Novo, no Porto, tendo o arguido, de 59 anos, estado ausente por motivos de doença, a presidente do coletivo de juízes considerou que atuou 'com ganância', existindo o perigo de volta a cometer os mesmos atos.">
 		<NE>
 			<Organization>Tribunal São João Novo</Organization>
-			<Place>Porto</Place>
+			<Location>Porto</Location>
 			<Numeric>59</Numeric>
 			
 		</NE>
@@ -51,8 +51,8 @@
 			<Time>2003</Time>
 			<Time>2010</Time>
 			<Numeric>duas</Numeric>
-			<Place>Gondomar</Place>
-			<Place>Porto</Place>
+			<Location>Gondomar</Location>
+			<Location>Porto</Location>
 			<Numeric>60</Numeric>
 		</NE>
 	</sent5>

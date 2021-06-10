@@ -15,15 +15,15 @@
 	<sent1 desc="Uma idosa morreu, esta quinta-feira, na sequência de um assalto a um prédio no Cacém, no concelho de Sintra.">
 		<NE>
 			<Time>quinta-feira</Time>
-			<Place>Cacém</Place>
-			<Place>Sintra</Place>
+			<Location>Cacém</Location>
+			<Location>Sintra</Location>
 		</NE>
 	</sent1>
 	
 	<sent2 desc="O corpo foi encontrado pelas 14.30 horas desta quinta-feira nas escadas do edifício, localizado na Avenida dos Missionários, confirmou ao JN fonte oficial do Comando Metropolitano de Lisboa (Cometlis) da PSP.">
 		<NE>
 			<Time>14.30</Time>
-			<Place>Avenida dos Missionários</Place>
+			<Location>Avenida dos Missionários</Location>
 			<Organization>JN</Organization>
 			<Organization>Comando Metropolitano de Lisboa da PSP </Organization>
 		</NE>

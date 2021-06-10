@@ -21,7 +21,7 @@
 
 	<sent1 desc="Um casal que habita no Parque Nómada do Bolão foi esta tarde condenado a oito anos e meio e sete anos de prisão, respetivamente. ">	
 		<NE>
-			<Place>Parque Nómada do Bolão</Place>
+			<Location>Parque Nómada do Bolão</Location>
 			<Numeric>oito</Numeric>
 			<Numeric>sete</Numeric>
 		</NE>
@@ -57,7 +57,7 @@
 	</sent8>
 	<sent9 desc="Os problemas estenderam-se para a Rua da Sofia, onde um agente da PSP atirou dois tiros para o ar para tentar serenar os ânimos. ">
 		<NE>
-			<Place>Rua da Sofia</Place>
+			<Location>Rua da Sofia</Location>
 			<Organization>PSP</Organization>
 			<Numeric>dois</Numeric>
 		</NE>

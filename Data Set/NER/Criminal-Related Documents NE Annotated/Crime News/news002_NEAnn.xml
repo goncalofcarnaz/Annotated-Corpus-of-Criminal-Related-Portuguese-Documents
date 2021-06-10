@@ -29,7 +29,7 @@
 			<Numeric>sete anos</Numeric>
 			<Time>janeiro</Time>
 			<Time>quarta-feira</Time>
-			<Place>Paquistão</Place>
+			<Location>Paquistão</Location>
 		</NE>
 	</sent1>
 	<sent2 desc ="Ali, de 24 anos, foi enforcado às 05.30 horas locais (02 horas em Lisboa) na prisão de Lakhpat, na cidade de Lahore capital da província de Punjab, no leste do país, disse o porta-voz da prisão, Faraz Hussain, à agência de notícias espanhola EFE.">
@@ -38,11 +38,11 @@
 			<Time>05.30</Time>
 			<Numeric>02</Numeric>
 			<Numeric>24 anos</Numeric>
-			<Place>Lisboa</Place>
-			<Place>Lakhpat</Place>
-			<Place>Lahore</Place>
-			<Place>Punjab</Place>
-			<Place>Lisboa</Place>
+			<Location>Lisboa</Location>
+			<Location>Lakhpat</Location>
+			<Location>Lahore</Location>
+			<Location>Punjab</Location>
+			<Location>Lisboa</Location>
 			<Person>Faraz Hussain</Person>
 			<Organization>EFE</Organization>
 		</NE>
@@ -75,7 +75,7 @@
 	<sent7 desc ="Imran Ali foi preso suas semanas depois de o corpo da criança ter sido encontrado numa lixeira cinco dias após o seu desaparecimento, na cidade de Kasur.">
 		<NE>
 			<Person>Imran Ali</Person>
-			<Place>Kasur</Place>
+			<Location>Kasur</Location>
 		</NE>
 	</sent7>
 	<sent8 desc ="Ali foi sentenciado em fevereiro a pena de morte por sequestro, violação, assassínio e terrorismo, e a prisão perpétua por 'ato não natural' com uma criança de 7 anos, Zainab Ansari.">
@@ -109,7 +109,7 @@
 	<sent11 desc ="Zainab Ansari desapareceu quando estava sob os cuidados de um tio, enquanto os seus pais faziam uma peregrinação religiosa à Arábia Saudita.">
 		<NE>
 			<Person>Zainab Ansari</Person>
-			<Place>Arábia Saudita</Place>
+			<Location>Arábia Saudita</Location>
 		</NE>
 	</sent11>
 	<sent12 desc ="O aparecimento do corpo, cujo exame determinou que sofreu abuso sexual, desencadeou uma onda de protestos violentos em que duas pessoas morreram, além de manifestações e atos em diferentes partes do país. ">
@@ -119,7 +119,7 @@
 	</sent12>
 	<sent13 desc ="O Paquistão registou pelo menos 17.862 casos de abusos sexuais de menores entre 2013 e 2017, sendo 10.620 deles contra raparigas e os restantes 7242 contra rapazes, de acordo com um relatório do Ministério dos Direitos Humanos elaborado em conjunto com a organização não-governamental Sahil.">
 		<NE>
-			<Place>Paquistão</Place>
+			<Location>Paquistão</Location>
 			<Numeric>17.862</Numeric>
 			<Time>2013</Time>
 			<Time>2017</Time>
