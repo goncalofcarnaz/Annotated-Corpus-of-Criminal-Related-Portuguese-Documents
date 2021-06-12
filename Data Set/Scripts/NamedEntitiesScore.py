@@ -23,11 +23,11 @@ criminalrole = 0
 Organization = 0
 licenseplates = 0
 # In listdir (path to folders containing files) 
-for annotatedfile in os.listdir(r'D:\Python\NE\Files'):
+for annotatedfile in os.listdir(r'Path to Folder containing the Documents'):
     print('Counting NEs from document: %s' %annotatedfile) 
     FileNumber += 1
     # In parse (path to folders containing files) 
-    tree = ET.parse(r"D:\\Python\\NE\\Files\\" + annotatedfile)
+    tree = ET.parse(r"Path to Folder containing the Documents" + annotatedfile)
     root = tree.getroot()
     for elem in root:
         for subelem in elem:
