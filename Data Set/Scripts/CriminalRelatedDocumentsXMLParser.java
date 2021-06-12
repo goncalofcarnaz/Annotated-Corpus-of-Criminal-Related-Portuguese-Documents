@@ -1,3 +1,11 @@
+/***
+#
+# Authors: Gonçalo Carnaz PhD, Vitor B. Nogueira PhD, Mário Antunes PhD
+# Disclamer: This is part of Annotated-Corpus-of-Criminal-Related-Portuguese-Documents dataset 
+#            
+# Script Purpose: Create the XML files using the defined XML Schema
+*/
+
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import javax.xml.parsers.DocumentBuilder;
