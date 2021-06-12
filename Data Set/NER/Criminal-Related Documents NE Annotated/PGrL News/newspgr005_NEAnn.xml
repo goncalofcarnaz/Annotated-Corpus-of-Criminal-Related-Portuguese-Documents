@@ -18,24 +18,28 @@
 		<Orqanization>JIC</Orqanization>
 		<Time>04-11-2019</Time>
 		<crimetype> violência doméstica</crimetype>
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent1>
 
 <sent2 desc="Segundo os fortes indícios recolhidos, a arguida residiu com o ofendido cerca de 10 meses, em união de facto, estando atualmente separados.">
 	<NE>
 		<Numeric>10 meses</Numeric>
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent2>
 
 <sent3 desc="Desde a separação que a arguida molesta psicologicamente o ofendido, nomeadamente e de forma persistente, liga-lhe, envia-lhe mensagens de forma contínua, persegue-o, assim como profere constantes ameaças verbais nas quais se dirige sobretudo contra a vida profissional e familiar daquele.">
 	<NE>
 		<crimetype>ameaças</crimetype>
+		<criminalrole>arguida</criminalrole>
+		<criminalrole>ofendido</criminalrole>
 	</NE>
 </sent3>
 
 <sent4 desc="A arguida ficou sujeita à medida de coação de prisão preventiva, por se julgar verificado, em concreto, forte perigo de continuação da atividade criminosa.">
 	<NE>
-		
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent4>
 

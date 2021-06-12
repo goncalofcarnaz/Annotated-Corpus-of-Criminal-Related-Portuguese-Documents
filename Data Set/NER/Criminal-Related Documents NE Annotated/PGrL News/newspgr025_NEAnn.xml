@@ -5,8 +5,8 @@
     <title>Detenção. Tráfico de estupefacientes de menor gravidade. Resistência e coação sobre funcionário. Evasão. Medidas de coação. DIAP de Almada/Comarca de Lisboa.</title>
     <text>A PGDL informa que foi detido e, posteriormente, presente ao JIC, para primeiro interrogatório judicial, um arguido, que ficou fortemente indiciado pela prática de crimes de crimes de tráfico de menor gravidade, de resistência e coação sobre funcionário e de evasão.
 	Segundo os fortes indícios recolhidos, o arguido dedicava-se à venda de produtos estupefacientes (cocaína e heroína), na localidade do Monte da Caparica, em Almada. 
-	No dia 17/10/2019, cerca das 15H30, quando o arguido procedia à venda de cocaína, com o peso bruto de 0,3gr., recebendo como contrapartida quantia monetária, foi surpreendido por militares da GNR. 
-	O arguido encetou fuga, tendo arremessado contra um deles uma garrafa de vidro, a qual apenas não lhe acertou por facto alheio à sua vontade, por forma a impedir a ação de detenção. Ainda assim, veio instantes após a ser intercetado e, no momento em que já estava detido, algemado e sob a alçada da GNR, voltou a fugir, vindo mais tarde a ser intercetado por populares presentes no local.
+	No dia 17/10/2019, cerca das 15H30, quando o arguido procedia à venda de cocaína, com o peso bruto de 0,3gramas, recebendo como contrapartida quantia monetária, foi surpreendido por militares da Guarda Nacional Republicana. 
+	O arguido encetou fuga, tendo arremessado contra um deles uma garrafa de vidro, a qual apenas não lhe acertou por facto alheio à sua vontade, por forma a impedir a ação de detenção. Ainda assim, veio instantes após a ser intercetado e, no momento em que já estava detido, algemado e sob a alçada da Guarda Nacional Republicana, voltou a fugir, vindo mais tarde a ser intercetado por populares presentes no local.
 	Foi aplicada ao arguido a medida de coação de TIR, apresentações periódicas duas vezes por semana, proibição de permanência na rua onde foi encontrado a fazer a comercialização de produto estupefaciente e proibição de contactos com o consumidor.
 	O processo segue para julgamento sob a forma sumária.
 	A investigação prossegue sob a direção do MP do DIAP de Almada.
@@ -22,6 +22,7 @@
 			<crimetype>coação sobre funcionário</crimetype>
 			<Organization>PGDL</Organization>
 			<Organization>JIC</Organization>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 	
@@ -29,43 +30,54 @@
 		<NE>
 			<narcotics>cocaína</narcotics>
 			<narcotics>heroína</narcotics>
-			<Place>Monte da Caparica</Place>
-			<Place>Almada</Place>
+			<Location>Monte da Caparica</Location>
+			<Location>Almada</Location>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent2>
 		
-	<sent3 desc="No dia 17/10/2019, cerca das 15H30, quando o arguido procedia à venda de cocaína, com o peso bruto de 0,3 gr., recebendo como contrapartida quantia monetária, foi surpreendido por militares da GNR. ">
+	<sent3 desc="No dia 17/10/2019, cerca das 15H30, quando o arguido procedia à venda de cocaína, com o peso bruto de 0,3 gramas, recebendo como contrapartida quantia monetária, foi surpreendido por militares da Guarda Nacional Republicana. ">
 		<NE>
 			<Time>17/10/2019</Time>
 			<Time>15H30</Time>
-			<Numeric>0,3 gr.</Numeric>
-			<Organization>GNR</Organization>
+			<Numeric>0,3 gramas</Numeric>
+			<Organization>Guarda Nacional Republicana</Organization>
+			<criminalrole>arguido</criminalrole>
+			<narcotics>cocaína</narcotics>
 		</NE>
 	</sent3>
 	
-	<sent4 desc="O arguido encetou fuga, tendo arremessado contra um deles uma garrafa de vidro, a qual apenas não lhe acertou por facto alheio à sua vontade, por forma a impedir a ação de detenção. Ainda assim, veio instantes após a ser intercetado e, no momento em que já estava detido, algemado e sob a alçada da GNR, voltou a fugir, vindo mais tarde a ser intercetado por populares presentes no local.">
+	<sent4 desc="O arguido encetou fuga, tendo arremessado contra um deles uma garrafa de vidro, a qual apenas não lhe acertou por facto alheio à sua vontade, por forma a impedir a ação de detenção. ">
 		<NE>
-			<Organization>GNR</Organization>
+			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent4>
 		
-	<sent5 desc="Foi aplicada ao arguido a medida de coação de TIR, apresentações periódicas duas vezes por semana, proibição de permanência na rua onde foi encontrado a fazer a comercialização de produto estupefaciente e proibição de contactos com o consumidor.">
+	<sent5 desc="Ainda assim, veio instantes após a ser intercetado e, no momento em que já estava detido, algemado e sob a alçada da Guarda Nacional Republicana, voltou a fugir, vindo mais tarde a ser intercetado por populares presentes no local. ">
 		<NE>
-			<Organization>TIR</Organization>
+			<Organization>Guarda Nacional Republicana</Organization>
+			<criminalrole>populares</criminalrole>
 		</NE>
 	</sent5>
+	<sent6 desc="Foi aplicada ao arguido a medida de coação de TIR, apresentações periódicas duas vezes por semana, proibição de permanência na rua onde foi encontrado a fazer a comercialização de produto estupefaciente e proibição de contactos com o consumidor.">
+		<NE>
+			<Organization>TIR</Organization>
+			<criminalrole>consumidor</criminalrole>
+		</NE>
+	</sent6>
 
-	<sent6 desc="O processo segue para julgamento sob a forma sumária.">
+	<sent7 desc="O processo segue para julgamento sob a forma sumária.">
 		<NE>
 			
 		</NE>
-	</sent6>	
+	</sent7>	
 	
-	<sent7 desc="A investigação prossegue sob a direção do MP do DIAP de Almada.">
+	<sent8 desc="A investigação prossegue sob a direção do MP do DIAP de Almada.">
 		<NE>
 			<Organization>MP</Organization>
 			<Organization>DIAP de Almada</Organization>
 		</NE>
-	</sent7>	
+	</sent8>	
 	
 </newspgr025>

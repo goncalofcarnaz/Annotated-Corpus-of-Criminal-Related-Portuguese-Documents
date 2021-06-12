@@ -31,6 +31,7 @@
 			<Numeric>22</Numeric>
 			<Numeric>21</Numeric>
 			<Numeric>14</Numeric>
+			<criminalrole>arguida</criminalrole>
 		</NE>
 	</sent1>
 	
@@ -38,12 +39,14 @@
 		<NE>
 			<Time>2001</Time>
 			<Time>2016</Time>
+			<criminalrole>arguida</criminalrole>
+			<criminalrole>pessoas</criminalrole>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="Para tanto arguida aproveitou-se da circunstância de trabalhar como agente externa vinculada de um banco (competindo-lhe auxiliar e aconselhar os clientes acerca das condições dos investimentos financeiros), e de ter estabelecido uma relação de confiança com os ofendidos, criando neles a convicção de que as aplicações financeiras e apólices de seguros eram verdadeiros.">
 		<NE>
-			
+			<criminalrole>agente externa</criminalrole>
 		</NE>
 	</sent3>
 	
@@ -55,13 +58,13 @@
 	
 	<sent5 desc="Mais, elaborou documentos que sabia não corresponderem à realidade, com o propósito concretizado de convencer os ofendidos da veracidade da sua atuação, e utilizou códigos pessoais de acesso ao sistema homebanking das contas bancárias tituladas pelos ofendidos para, sem autorização, efetuar transferências bancárias para as suas próprias contas e para as contas bancárias de outros ofendidos, mediante a introdução dos respetivos códigos, bem sabendo tratarem-se de dados confidenciais protegidos por lei, para dessa forma encobrir a sua conduta.">
 		<NE>
-			
+			<criminalrole>ofendidos</criminalrole>
 		</NE>
 	</sent5>
 	
 	<sent6 desc="Com tal atuação a arguida logrou apropriar-se de elevadas quantias monetárias que usou em benefício próprio, por via do engano aos ofendidos.">
 		<NE>
-			
+			<criminalrole>arguida</criminalrole>
 		</NE>
 	</sent6>
 	

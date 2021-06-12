@@ -19,7 +19,7 @@
 			
 			<crimetype>furto qualificado</crimetype>
 			<crimetype>associação criminosa</crimetype>
-			<Place>Barcelona</Place>
+			<Location>Barcelona</Location>
 			<Organization>JIC</Organization>
 			<Time>10.10.2019</Time>
 		</NE>
@@ -28,10 +28,10 @@
 	<sent2 desc="No essencial, e segundo os fortes indícios recolhidos, a arguida, em co-autoria com outros cinco suspeitos já identificados, no dia 13 de Janeiro de 2019, no interior de um estabelecimento hospitalar sito em Lisboa, apropriou-se de nove equipamentos topo de gama de endoscopia e colonoscopia, avaliados em mais de 200 mil euros, numa prática criminosa organizada que também atuou em diversos países na europa e cujo valor dos furtos ascende a mais de 60 milhões de euros, equipamentos que teriam como destino vários países da América latina.">
 		<NE>
 			<Time>13 de Janeiro de 2019</Time>
-			<Place>Lisboa</Place>
+			<Location>Lisboa</Location>
 			<Numeric>200 mil</Numeric>
 			<Numeric>60 milhões</Numeric>
-			<Place>América Latina</Place>
+			<Location>América Latina</Location>
 			
 				
 		</NE>

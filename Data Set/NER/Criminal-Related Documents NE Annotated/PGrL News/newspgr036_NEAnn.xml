@@ -46,7 +46,7 @@
 			<Numeric>8</Numeric>
 			<Time>23 de Agosto de 2019</Time>
 			<Time>21h30m</Time>
-			<Place>Paio Pires</Place>
+			<Location>Paio Pires</Location>
 		</NE>
 	</sent3>	
 	
@@ -60,7 +60,7 @@
 	<sent5 desc="No seguimento destes acontecimentos, e como forma de retaliação, os arguidos, munidos de armas de fogo, deslocaram-se no dia 27 de Agosto de 2019, pelas 17h30m, a um prédio localizado em Paio Pires, com o intuito de matar o proprietário do estabelecimento onde haviam estado no dia 23 de Agosto de 2019.">
 		<NE>
 			<Time>27 de Agosto de 2019</Time>
-			<Place>Paio Pires</Place>
+			<Location>Paio Pires</Location>
 			<Time>23 de Agosto de 2019</Time>
 		</NE>
 	</sent5>	

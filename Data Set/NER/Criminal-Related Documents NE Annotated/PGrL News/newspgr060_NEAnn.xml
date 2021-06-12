@@ -38,9 +38,9 @@
 		<NE>
 			<Time>6 de setembro de 2019</Time>
 			<Organization>Mcdonalds</Organization>
-			<Place> Santo Amaro de Oeiras</Place>
+			<Location> Santo Amaro de Oeiras</Location>
 			<Numeric>24 anos</Numeric>
-			<Place>Lisboa</Place>
+			<Location>Lisboa</Location>
 			
 		</NE>
 	</sent3>

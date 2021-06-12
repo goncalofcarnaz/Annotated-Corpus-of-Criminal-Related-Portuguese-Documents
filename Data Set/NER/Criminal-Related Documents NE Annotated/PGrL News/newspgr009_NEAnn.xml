@@ -22,26 +22,33 @@ A investigação prossegue sob a direção do MP na 11. ª Secção do DIAP de L
 		<Time>28.10.2019</Time>
 		<crimetype>auxílio à imigração ilegal</crimetype>
 		<crimetype>associação de auxílio à imigração ilegal</crimetype>
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent1>
 
 <sent2 desc="Segundo os fortes indícios recolhidos, a arguida planeou e colocou em prática um esquema que consistia em, com regularidade, facilitar a entrada e permanência de cidadãos estrangeiros, que não reúnem as devidas condições, no espaço europeu, fazendo-o transitar por diversos locais, incluindo Portugal.">
 	<NE>
-		<Place>Portugal</Place>
+		<Location>Portugal</Location>
+		<criminalrole>arguida</criminalrole>
+		<criminalrole>cidadãos estrangeiros</criminalrole>
 	</NE>
 </sent2>
 
 <sent3 desc="Em execução do planeado, a arguida, de nacionalidade estrangeira e funcionária da TAP, adquiria passagens aéreas para um destino que não exigisse qualquer visto de entrada, com escala em Lisboa, de modo a permitir a cidadãos, à chegada ao nosso país, apresentarem-se junto das autoridades, sem documentos, requerendo proteção jurídica internacional, designadamente asilo.">
 	<NE>
 		<Organization>TAP</Organization>
-		<Place>Lisboa</Place>
+		<Location>Lisboa</Location>
+		<criminalrole>arguida</criminalrole>
+		<criminalrole>cidadãos</criminalrole>
 	</NE>
 </sent3>
 
 <sent4 desc="No dia 26-10-2019, pelo modo descrito, quatro cidadãos estrangeiros (dois maiores e dois menores de idade) chegaram ao Aeroporto de Lisboa, acompanhados pela arguida, as quais de imediato os deixou, dirigindo-se em seguida ao posto de fronteira, a fim de entrar em território nacional, levando consigo os passaportes e os cartões de embarque daquelas pessoas. ">
 	<NE>
 		<Time>26-10-2019</Time>
-		<Place>Aeroporto de Lisboa</Place>
+		<Location>Aeroporto de Lisboa</Location>
+		<Numeric>quatro</Numeric>
+		<criminalrole>cidadãos estrangeiros</criminalrole>
 		
 	</NE>
 </sent4>
@@ -49,12 +56,14 @@ A investigação prossegue sob a direção do MP na 11. ª Secção do DIAP de L
 <sent5 desc="Abordadas pelo SEF os cidadãos estrangeiros acabaram por identificar a arguida.">
 	<NE>
 		<Organization>SEF</Organization>
+		<criminalrole>cidadãos estrangeiros</criminalrole>
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent5>
 
 <sent6 desc="À arguida foi aplicada a medida de coação de prisão preventiva.">
 	<NE>
-	
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent6>
 

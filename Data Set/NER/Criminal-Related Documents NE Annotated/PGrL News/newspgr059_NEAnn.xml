@@ -36,7 +36,7 @@
 	
 	<sent3 desc="O grupo atuava concertadamente, em conjugação de esforços, sendo o arguido agora detido que recebia os pedidos via “darknet”, ou através de plataformas de conversação encriptada e transmitia a outros, residentes em Portugal, as “encomendas” (nome e moradas a quem devem ser enviadas as notas e sua quantidade).">
 		<NE>
-			<Place>Portugal</Place>
+			<Location>Portugal</Location>
 		</NE>
 	</sent3>
 	
@@ -50,7 +50,7 @@
 	
 	<sent5 desc="Após os factos o suspeito fugiu para a Colômbia vindo a ser detido em razão de cooperação internacional e da emissão, pelo Ministério Público, de Mandado de Detenção Internacional.">
 		<NE>
-			<Place>Colômbia</Place>
+			<Location>Colômbia</Location>
 			<Organization>Ministério Público</Organization>
 			
 		</NE>

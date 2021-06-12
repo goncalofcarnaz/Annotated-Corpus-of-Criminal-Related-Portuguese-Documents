@@ -30,13 +30,13 @@
 			<crimetype>furto qualificado</crimetype>
 			<Numeric>10</Numeric>
 			<Numeric>9</Numeric>
-			<Place>Sintra</Place>
-			<Place>Amadora</Place>
-			<Place>Mafra</Place>
-			<Place>Cascais</Place>
-			<Place> Loures</Place>
-			<Place> Lisboa</Place>
-			<Place>Tomar</Place>
+			<Location>Sintra</Location>
+			<Location>Amadora</Location>
+			<Location>Mafra</Location>
+			<Location>Cascais</Location>
+			<Location> Loures</Location>
+			<Location> Lisboa</Location>
+			<Location>Tomar</Location>
 			<Numeric>4</Numeric>
 		</NE>
 	</sent2>

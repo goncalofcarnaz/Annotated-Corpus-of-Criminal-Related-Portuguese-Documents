@@ -20,6 +20,7 @@
 			<Organization>JIC</Organization>
 			<Time>23-10-2019</Time>
 			<crimetype>violência doméstica agravado</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 	
@@ -27,18 +28,28 @@
 		<NE>
 			<Numeric>22 anos</Numeric>
 			<Numeric>19 anos</Numeric>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>mãe</criminalrole>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="Desde há cerca de 3 anos que o arguido tem infligido maus-tratos psicológicos à ofendida e ao irmão, perturbando-os na sua liberdade e segurança, tendo os mesmos medo de residir e de estar na sua própria casa.">
 		<NE>
 			<Numeric>3 anos</Numeric>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
+			<criminalrole>irmão</criminalrole>
 		</NE>
 	</sent3>
 	
 	<sent4 desc="O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a ofendida, sua mãe, e com o irmão, proibição de permanecer na residência e no local de trabalho da ofendida e nas proximidades destes e proibição de se aproximar da escola do irmão, por se julgar verificado, em concreto, os perigos de continuação da atividade criminosa e de perturbação do inquérito, nas vertentes de aquisição, conservação ou veracidade da prova.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
+			<criminalrole>mãe</criminalrole>
+			<criminalrole>irmão</criminalrole>
+			<criminalrole>irmão</criminalrole>
+			<Location>escola</Location>
 		</NE>
 	</sent4>
 	

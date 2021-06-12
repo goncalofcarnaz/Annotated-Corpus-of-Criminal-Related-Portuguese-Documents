@@ -19,6 +19,7 @@ A investigação prossegue sob direção do Ministério Público do Seixal do DI
 	<NE>
 		<Organization> Procuradoria-Geral Distrital de Lisboa</Organization>
 		<crimetype>tráfico de estupefacientes</crimetype>
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent1>
 
@@ -26,13 +27,15 @@ A investigação prossegue sob direção do Ministério Público do Seixal do DI
 	<NE>
 		<Time>2014</Time>
 		<narcotics>cocaína</narcotics>
-		<Place>Seixal</Place>
+		<Location>Seixal</Location>
+		<criminalrole>arguido</criminalrole>
+		<narcotics>cocaína</narcotics>
 	</NE>
 </sent2>
 
 <sent3 desc="Para o efeito, o arguido era contatado por telefone pelos vários consumidores, dirigindo-se depois para os locais combinados onde procedia à venda dos produtos estupefacientes.">
 	<NE>
-		
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent3>
 
@@ -40,12 +43,13 @@ A investigação prossegue sob direção do Ministério Público do Seixal do DI
 	<NE>
 		<narcotics>cocaína</narcotics>
 		<Numeric>€22.000,00</Numeric>
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent4>
 
 <sent5 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva.">
 	<NE>
-		
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent5>
 

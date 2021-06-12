@@ -28,6 +28,7 @@
 	<NE>
 		<Orqanization>JIC</Orqanization>
 		<crimetype> homicídio qualificado</crimetype>
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent2>
 
@@ -35,34 +36,37 @@
 	<NE>
 
 		<Time>27 de agosto de 2019</Time>
-		<Place> Quinta da Princesa</Place>
-		<Place> Cruz de Pau</Place>
+		<Location> Quinta da Princesa</Location>
+		<Location> Cruz de Pau</Location>
+		<criminalrole>arguido</criminalrole>
+		<criminalrole>ofendido</criminalrole>
 		
 	</NE>
 </sent3>
 
-<sent4 desc="Como consequência direta e necessária da conduta do arguido, resultaram para o ofendido lesões crânio-encefálicas que lhe determinaram a morte..">
+<sent4 desc="Como consequência direta e necessária da conduta do arguido, resultaram para o ofendido lesões crânio-encefálicas que lhe determinaram a morte.">
 	<NE>
-		
+		<criminalrole>arguido</criminalrole>
+		<criminalrole>ofendido</criminalrole>
 	</NE>
 </sent4>
 
 <sent5 desc="Após o disparo o arguido abandonou o local.">
 	<NE>
-		
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent5>
 
 <sent6 desc="Foi emitido um Mandado de Detenção Europeu tendo o arguido sido detido na Holanda. .">
 	<NE>
-		<Place>Holanda</Place>
+		<Location>Holanda</Location>
 	
 	</NE>
 </sent6>
 
 <sent7 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva..">
 	<NE>
-	
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent7>
 

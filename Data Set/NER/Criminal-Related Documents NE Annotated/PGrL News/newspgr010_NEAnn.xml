@@ -22,31 +22,36 @@ O Ministério Público foi coadjuvado, nesta investigação, pela Polícia Judic
 		<crimetype>homicídio qualificado</crimetype>
 		<crimetype>violência doméstica agravado</crimetype>
 		<crimetype>violação de domicílio agravado</crimetype>
+		<criminalrole>arguido</criminalrole>
 		
 	</NE>
 </sent1>
 
 <sent2 desc="No essencial está indiciado que o arguido, no decurso do relacionamento amoroso que manteve com a ofendida, agrediu-a física e psicologicamente, mesmo em frente dos filhos desta.">
 	<NE>
-	
+		<criminalrole>ofendida</criminalrole>
 	</NE>
 </sent2>
 
 <sent3 desc="Depois de terminada a relação, o arguido continuou a manter sentimentos de ciúmes e de posse relativamente à vítima, controlando os seus passos, entrando na sua residência, contra a sua vontade, telefonando-lhe com frequência, não aceitando o fim da relação nem que a vitima andasse com outro homem, ameaçando que a mataria.">
 	<NE>
-	
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent3>
 
 <sent4 desc="No entanto, a ofendida, no final de 2018, encetou relacionamento amoroso com outro individuo, o que fez com que o arguido, ao tomar conhecimento de tal facto, no dia 11.01.2019, se dirige-se à residência daquela, arrombou a porta de entrada, dirigiu-se à vitima, desferiu-lhe murros e pontapés nas pernas, tronco e face, atirou-a contra as paredes, móveis e eletrodomésticos e desferiu-lhe pancadas na cabeça, deixando-a inanimada na sala e a sangrar, abandonando de seguida o local, provocando-lhe lesões que lhe determinaram a morte.">
 	<NE>
 		<Time>2018</Time>
+		<Time>11.01.2019</Time>
+		<criminalrole>ofendida</criminalrole>
+		<criminalrole>arguido</criminalrole>
+		<criminalrole>vitima</criminalrole>
 	</NE>
 </sent4>
 
 <sent5 desc="O arguido encontra-se sujeito à medida de coação de Prisão Preventiva.">
 	<NE>
-	
+		<criminalrole>arguido</criminalrole>
 	</NE>
 </sent5>
 
@@ -62,7 +67,7 @@ O Ministério Público foi coadjuvado, nesta investigação, pela Polícia Judic
 	<NE>
 		<Organization>Ministério Público</Organization>
 		<Organization>Polícia Judiciária</Organization>
-		<Place>Setúbal</Place>
+		<Location>Setúbal</Location>
 	</NE>
 </sent7>
 

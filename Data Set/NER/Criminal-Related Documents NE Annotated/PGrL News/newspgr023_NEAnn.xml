@@ -27,20 +27,24 @@
 		<NE>
 			<crimetype>homicídio qualificado</crimetype>
 			<crimetype>detenção de arma proibida</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, no dia 9 de Junho de 2019, em Arrentela – Seixal, na sequência de uma troca de palavras com o ofendido, empunhou uma arma de fogo e efetuou um disparo na direção da vítima, atingindo-a na zona da anca, após o que abandonou o local.">
 		<NE>
 			<Time>9 de Junho de 2019</Time>
-			<Place> Arrentela</Place>
-			<Place> Seixal</Place>
+			<Location> Arrentela</Location>
+			<Location> Seixal</Location>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendido</criminalrole>
 		</NE>
 	</sent3>
 	
 	<sent4 desc="Em consequência da conduta do arguido o ofendido sofreu ferida perfurante na anca esquerda com fratura do osso ílio público, tendo o projétil ficado alojado na bacia. ">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendido</criminalrole>
 		</NE>
 	</sent4>
 	
@@ -52,7 +56,7 @@
 	
 	<sent6 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent6>
 	

@@ -26,10 +26,10 @@
 	<sent2 desc="O MP requereu o julgamento em tribunal coletivo de seis arguidos pela prática de crimes de tráfico de estupefacientes, de detenção de arma proibida, de coação e de introdução em lugar vedado ao público.">
 		<NE>
 			<Organization>MP</Organization>
-			<crimtype>tráfico de estupefacientes</crimtype>
-			<crimtype>detenção de arma proibida</crimtype>
-			<crimtype>coação</crimtype>
-			<crimtype>introdução em lugar vedado ao público</crimtype>
+			<crimetype>tráfico de estupefacientes</crimetype>
+			<crimetype>detenção de arma proibida</crimetype>
+			<crimetype>coação</crimetype>
+			<crimetype>introdução em lugar vedado ao público</crimetype>
 			
 			
 			

@@ -23,8 +23,8 @@
 		<NE>
 			<Organization>polícia espanhola</Organization>
 			<Numeric>16</Numeric>
-			<Place>Olot</Place>
-			<Place>Girona</Place>
+			<Location>Olot</Location>
+			<Location>Girona</Location>
 		</NE>
 	</sent1>
 	
@@ -87,7 +87,7 @@
 		<NE>
 			<Organization>Área de Investigação Criminal de Girona</Organization>
 			<Time>sexta-feira</Time>
-			<Place>Olot</Place>
+			<Location>Olot</Location>
 		</NE>
 	</sent11>
 	

@@ -10,7 +10,7 @@
 	Em consequência das agressões o ofendido sofreu várias lesões que foram causa direta e necessária da sua morte.
 	O arguido ficou sujeito à medida de coação de prisão preventiva.
 	A investigação prossegue sob a direção do Ministério Público do DIAP do Seixal da Comarca de Lisboa. 
-	O MP teve a coadjuvação da PJ de Setúbal.
+	O MP teve a coadjuvação da Policia Judiciária de Setúbal.
 	</text>
 	
 	<Sentences num="9">
@@ -22,59 +22,59 @@
 			<Organization>JIC</Organization>
 			<Time>22.10.2019</Time>
 			<crimetype>homicídio qualificado</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 	
 	<sent2 desc="No essencial, e segundo os fortes indícios recolhidos, o arguido, no dia 21 de Outubro de 2019, no Miratejo, após uma troca de palavras com o ofendido, agrediu-o com um murro na cara. ">
 		<NE>
 			<Time>21 de Outubro de 2019</Time>
-			<Place>Miratejo</Place>
+			<Location>Miratejo</Location>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendido</criminalrole>
 			
 		</NE>
 	</sent2>
 	
 	<sent3 desc="De seguida, o ofendido fugiu para o interior do seu prédio, tendo o arguido ido no seu encalço e quando o apanhou desferiu-lhe uma cabeçada, provocando a sua queda, ao que o arguido agarrou a vítima por uma das pernas, arrastando-o pelas escadas até ao exterior do edifício, tendo o ofendido durante o percurso embatido com a cabeça nos vários degraus.">
 		<NE>
-			
+			<criminalrole>ofendido</criminalrole>
 		</NE>
 	</sent3>
 	
-	<sent4 desc="De seguida, o ofendido fugiu para o interior do seu prédio, tendo o arguido ido no seu encalço e quando o apanhou desferiu-lhe uma cabeçada, provocando a sua queda, ao que o arguido agarrou a vítima por uma das pernas, arrastando-o pelas escadas até ao exterior do edifício, tendo o ofendido durante o percurso embatido com a cabeça nos vários degraus.">
+
+	
+	<sent4 desc="Já no exterior, enquanto o ofendido permanecia caído no chão, o arguido pegou em várias pedras da calçada e arremessou-as contra a cara e a cabeça daquele, bem como lhe desferiu vários pontapés na zona da cabeça.">
 		<NE>
-			
+			<criminalrole>ofendido</criminalrole>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent4>
 	
-	<sent5 desc="Já no exterior, enquanto o ofendido permanecia caído no chão, o arguido pegou em várias pedras da calçada e arremessou-as contra a cara e a cabeça daquele, bem como lhe desferiu vários pontapés na zona da cabeça.">
+	<sent5 desc="Em consequência das agressões o ofendido sofreu várias lesões que foram causa direta e necessária da sua morte.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent5>
 	
-	<sent6 desc="Em consequência das agressões o ofendido sofreu várias lesões que foram causa direta e necessária da sua morte.">
+	<sent6 desc="O arguido ficou sujeito à medida de coação de prisão preventiva.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent6>
 	
-	<sent7 desc="O arguido ficou sujeito à medida de coação de prisão preventiva.">
-		<NE>
-			
-		</NE>
-	</sent7>
-	
-	<sent8 desc="A investigação prossegue sob a direção do Ministério Público do DIAP do Seixal da Comarca de Lisboa. ">
+	<sent7 desc="A investigação prossegue sob a direção do Ministério Público do DIAP do Seixal da Comarca de Lisboa. ">
 		<NE>
 			<Organization>Ministério Público do DIAP do Seixal da Comarca de Lisboa</Organization>
 		</NE>
-	</sent8>
+	</sent7>
 	
-	<sent9 desc="O MP teve a coadjuvação da PJ de Setúbal.">
+	<sent8 desc="O MP teve a coadjuvação da Policia Judiciária de Setúbal.">
 		<NE>
 			<Organization>MP</Organization>
-			<Organization> PJ de Setúbal</Organization>
+			<Organization> Policia Judiciária de Setúbal</Organization>
 		</NE>
-	</sent9>
+	</sent8>
 	
 	
 </newspgr021>

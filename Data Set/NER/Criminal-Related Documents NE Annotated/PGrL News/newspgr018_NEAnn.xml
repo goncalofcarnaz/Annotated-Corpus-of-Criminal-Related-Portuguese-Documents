@@ -19,6 +19,7 @@
 			<Organization>JIC</Organization>
 			<Time>23.10.2019</Time>
 			<crimetype>violência doméstica</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 	
@@ -26,18 +27,23 @@
 		<NE>
 			<Time>novembro de 2016</Time>
 			<Time>outubro de 2018</Time>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="No decurso da relação entre ambos, bem como após o términus da mesma, o arguido, revela um ciúme em relação a todas as pessoas com quem a ofendida convive, perseguindo-a para todo o lado, assim como a agride física e psicologicamente.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>pessoas</criminalrole>
 		</NE>
 	</sent3>
 	
 	<sent4 desc="O arguido ficou sujeito à medida de coação de proibição de contactar, por qualquer meio, com a vitima, proibição de permanência na residência, no local de trabalho e nas proximidades destes, fixando- se uma distancia de 500 metros, com fiscalização através de meios de vigilância eletrónica por se verificarem, em concreto, os perigos de continuação da atividade criminosa e de perturbação da ordem e da tranquilidade públicas.">
 		<NE>
 			<Numeric>500 metros</Numeric>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>vitima</criminalrole>
 		</NE>
 	</sent4>
 	

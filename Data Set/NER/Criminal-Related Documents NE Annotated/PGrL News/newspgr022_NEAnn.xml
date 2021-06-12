@@ -19,18 +19,22 @@
 			<Time>22.10.2019</Time>
 			<crimetype>roubo</crimetype>
 			<crimetype>roubo</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 
 	<sent2 desc="No essencial ficou suficientemente indiciado que o arguido, de nacionalidade estrangeira, juntamente com outros indivíduos não identificados, no período compreendido entre 30.05.2019 e 02.10.2019, acordaram entre si abordar transeuntes na via pública para lhes subtrair valores monetários, se necessário agredindo-os fisicamente, de forma a neutralizarem-nos, o que fizeram, apropriando-se dos valores dos ofendidos que abordavam e molestando-lhes o corpo e a saúde.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>indivíduos não identificados</criminalrole>
+			<Time>30.05.2019</Time> 
+			<Time>02.10.2019</Time>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="O arguido ficou sujeito à medida de coação de prisão preventiva por se julgar verificado, em concreto, os perigos de continuação da atividade criminosa e perturbação grave da ordem e tranquilidade públicas.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent3>
 	

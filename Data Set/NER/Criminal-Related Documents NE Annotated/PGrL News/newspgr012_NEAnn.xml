@@ -20,39 +20,49 @@ A investigação prossegue sob a direção do MP do Núcleo de Mafra do DIAP da 
 			<Organization>JIC</Organization>
 			<Time>23-10-2019</Time>
 			<crimetype>violência doméstica agravado</crimetype>
+			<criminalrole>arguida</criminalrole>
 		</NE>
 	</sent1>
 	
 		
 <sent2 desc="Segundo os fortes indícios recolhidos, a arguida, de nacionalidade estrangeira, residiu com o ofendido cerca de um ano, em união de facto, estando atualmente separados.">
 		<NE>
-			
+			<criminalrole>arguida</criminalrole>
 		</NE>
 </sent2>
 
 	
-<sent3 desc="Desde o início do relacionamento e após a separação que a arguida molestou física e psicologicamente o ofendido. Numa das situações, a arguida atirou com álcool para o corpo do ofendido, tendo-o atingido com o líquido na cara, pescoço, mãos e braços e, logo de seguida, incendiou-o.">
+<sent3 desc="Desde o início do relacionamento e após a separação que a arguida molestou física e psicologicamente o ofendido. ">
 		<NE>
-			
+			<criminalrole>arguida</criminalrole>
+			<criminalrole>ofendido</criminalrole>
 		</NE>
 </sent3>
-	
-<sent4 desc="Em virtude da atuação da arguida o ofendido apresentava queimaduras de 2º grau na face direita, pescoço, braço direito e mãos e queimadura de cílios do olho direito.">
+
+<sent4 desc="Numa das situações, a arguida atirou com álcool para o corpo do ofendido, tendo-o atingido com o líquido na cara, pescoço, mãos e braços e, logo de seguida, incendiou-o.">
 		<NE>
-			<Numeric>2º</Numeric>
+			<criminalrole>arguida</criminalrole>
+			<criminalrole>ofendido</criminalrole>
 		</NE>
 </sent4>
 	
-<sent5 desc="A arguida ficou sujeita à medida de coação de prisão preventiva, proibição de contactos com o ofendido, mesmo em estado de reclusão, por se julgar verificado, em concreto, forte perigo de continuação da atividade criminosa e de fuga.">
+<sent5 desc="Em virtude da atuação da arguida o ofendido apresentava queimaduras de 2º grau na face direita, pescoço, braço direito e mãos e queimadura de cílios do olho direito.">
 		<NE>
-			
+			<Numeric>2º</Numeric>
 		</NE>
 </sent5>
 	
-<sent6 desc="A investigação prossegue sob a direção do MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste.">
+<sent6 desc="A arguida ficou sujeita à medida de coação de prisão preventiva, proibição de contactos com o ofendido, mesmo em estado de reclusão, por se julgar verificado, em concreto, forte perigo de continuação da atividade criminosa e de fuga.">
+		<NE>
+			<criminalrole>arguida</criminalrole>
+			<criminalrole>ofendido</criminalrole>
+		</NE>
+</sent6>
+	
+<sent7 desc="A investigação prossegue sob a direção do MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste.">
 		<NE>
 			<Organization>MP do Núcleo de Mafra do DIAP da Comarca de Lisboa Oeste</Organization>
 		</NE>
-</sent6>
+</sent7>
 
 </newspgr012>

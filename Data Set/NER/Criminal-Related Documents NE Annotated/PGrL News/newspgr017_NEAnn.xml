@@ -27,24 +27,29 @@
 			<Organization>JIC</Organization>
 			<Time>25.10.2019</Time>
 			<crimetype>violência doméstica agravada</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent2>
 	
 	<sent3 desc="Segundo os fortes indícios recolhidos, o arguido, do sexo masculino, casado com a ofendida, desde 2005 e com maior intensidade nos últimos anos, ameaça-a e agride-a física e psicologicamente (dirigindo-lhe palavras ofensivas da sua honra e consideração). ">
 		<NE>
 			<Time>2005</Time>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
 		</NE>
 	</sent3>
 	
 	<sent5 desc="Fá-lo no interior da residência e perante a filha de ambos.">
 		<NE>
-			
+			<criminalrole>filha</criminalrole>
 		</NE>
 	</sent5>
 	
 	<sent6 desc="Ao arguido foram aplicadas as medidas de coação de proibição de contactos, por qualquer meio, com a vítima e de permanência na residência e nas proximidades desta, fixando-se uma distância de 500 m, devendo tais medidas ser fiscalizadas com recurso a meios de vigilância eletrónica, em razão da verificação do perigo de continuação da atividade criminosa.">
 		<NE>
 			<Numeric>500 m</Numeric>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>vitima</criminalrole>
 		</NE>
 	</sent6>
 	

@@ -21,6 +21,7 @@
 			<Organization>JIC</Organization>
 			<Time>23-10-2019</Time>
 			<crimetype>violência doméstica</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 	</sent1>
 	
@@ -28,6 +29,9 @@
 		<NE>
 			<Numeric>5 anos</Numeric>
 			<Time>Janeiro de 2019</Time>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>companheira</criminalrole>
+			<criminalrole>marido</criminalrole>
 		</NE>
 	</sent2>
 	
@@ -36,6 +40,9 @@
 			<crimetype>violência doméstica</crimetype>
 			<crimetype>furto</crimetype>
 			<Time>17 de Setembro de 2019</Time>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>vítima</criminalrole>
 		</NE>
 	</sent3>
 	
@@ -48,12 +55,16 @@
 	<sent5 desc="Sucede que, não obstante tal medida de coação, o arguido nos dias 9 e 16 de Outubro de 2019, contactou a vítima, diretamente ou por interposta pessoa e dirigiu-lhe expressões intimidatórias, bem sabendo que desta forma causava temor e inquietação à vítima.">
 		<NE>
 			<Time>9 e 16 de Outubro de 2019</Time>
+			<criminalrole>vítima</criminalrole>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>vítima</criminalrole>
 		</NE>
 	</sent5>
 	
 	<sent6 desc="A 23 de outubro de 2019, foi o arguido submetido a novo interrogatório judicial tendo ficado sujeito à medida de coação de prisão preventiva e de proibição de contactos com a vítima, por se verificar em concreto o perigo de continuação da atividade criminosa.">
 		<NE>
 			<Time>23 de outubro de 2019</Time>
+			<criminalrole>vítima</criminalrole>
 		</NE>
 	</sent6>
 	

@@ -33,7 +33,7 @@
 	<sent3 desc="No essencial, e segundo os fortes indícios recolhidos, no dia 12 de agosto de 2019, em São Pedro de Sintra, o arguido, de 24 anos de idade, de nacionalidade estrangeira, o qual era conhecido da vítima, após uma altercação entre ambos, desferiu-lhe vários golpes de arma branca em zonas corporais vitais, as quais foram causa direta e necessária da sua morte.">
 		<NE>
 			<Time> 12 de agosto de 2019</Time>
-			<Place>São Pedro de Sintra</Place>
+			<Location>São Pedro de Sintra</Location>
 			<Numeric>24 anos</Numeric>
 		</NE>
 	</sent3>

@@ -27,11 +27,11 @@
 	<sent2 desc="Os arguidos são suspeitos de se dedicarem desde data não concretamente apurada, mas anterior a 18.06.2019, à atividade de venda de substâncias estupefacientes na zona do Monte da Caparica, Trafaria e Almada e, de no âmbito dessa atividade, terem acordado entre si na realização, por um deles, de uma viagem ao Brasil, com o objetivo de adquirir e transportar para Portugal cocaína em estado puro (pasta base), a qual após, já em território nacional seria devidamente preparada com outros produtos associados (redrate, neo-sineferina, cafeína e outros), por forma a fazer aumentar exponencialmente a sua quantidade, que após seria dividida e destinada à venda, em doses individuais (quartas) aos consumidores que os procurassem para o efeito.">
 		<NE>
 			<Time>18.06.2019</Time>
-			<Place>Monte da Caparica</Place>
-			<Place>Trafaria</Place>
-			<Place>Almada</Place>
-			<Place>Brasil</Place>
-			<Place>Portugal</Place>
+			<Location>Monte da Caparica</Location>
+			<Location>Trafaria</Location>
+			<Location>Almada</Location>
+			<Location>Brasil</Location>
+			<Location>Portugal</Location>
 			<narcotics>cocaína</narcotics>
 		</NE>
 	</sent2>	

@@ -24,7 +24,7 @@
 	
 	<sent2 desc="Foi detida, no Luxemburgo, uma arguida, no dia 22.10.2019, na sequência de mandados de detenção Europeus.">
 		<NE>
-			<Place>Luxemburgo</Place>
+			<Location>Luxemburgo</Location>
 			<Time>22.10.2019</Time>
 			
 		</NE>
@@ -35,18 +35,20 @@
 			<Organization>JIC</Organization>
 			<Time>24.10.2019</Time>
 			<crimetype>burla agravada</crimetype>
+			<criminalrole>arguida</criminalrole>
 		</NE>
 	</sent3>
 	
 	<sent4 desc="Segundo os fortes indícios recolhidos, a arguida juntamente com outros arguidos delineou um plano que consistia em vender a terceiros, ofendidos, diamantes que sabiam ser falsos, fazendo-os acreditar serem verdadeiros e um bom investimento, obtendo desse modo proveitos económicos a que sabiam não ter direito, causando o correspondente prejuízo aos ofendidos.">
 		<NE>
-			
+			<criminalrole>arguida</criminalrole>
+			<criminalrole>arguidos</criminalrole>
 		</NE>
 	</sent4>
 	
 	<sent5 desc="À arguida foi aplicada a medida de coação de prisão preventiva em razão da verificação do perigo de fuga.">
 		<NE>
-			
+			<criminalrole>arguida</criminalrole>
 		</NE>
 	</sent5>
 	

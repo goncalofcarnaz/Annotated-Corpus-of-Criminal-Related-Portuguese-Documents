@@ -32,60 +32,74 @@ A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sint
 		<crimetype>coação agravada</crimetype>
 		<crimetype>sequestro</crimetype>
 		<crimetype>falsificação</crimetype>
+		<Numeric>três</Numeric>
+		<criminalrole>arguidos</criminalrole>
 	</NE>
 	
 </sent1>
 
 <sent2 desc="Os arguidos são oriundos de Portugal e do Bangladesh.">
 	<NE>
-		<Place>Portugal</Place>
-		<Place>Bangladesh</Place>
+		<Location>Portugal</Location>
+		<Location>Bangladesh</Location>
+		<criminalrole>arguidos</criminalrole>
 	</NE>
 </sent2>
 
 <sent3 desc="Segundo os fortes indícios recolhidos, a arguida, em data não concretamente apurada, mas anterior a 2014, criou uma associação com o objetivo de favorecer, a troco de dinheiro, a entrada de cidadãos nacionais de países fora do Espaço Schengen em território nacional, que sabia que não podiam legitimamente residir, permanecer e trabalhar no nosso país, agindo com o propósito e consciência de facilitar que tais cidadãos obtivessem autorização para permanecer no nosso país, através da celebração de casamentos com portuguesas que angariava propositadamente para o efeito.">
 	<NE>
 		<Time>2014</Time>
+		<criminalrole>arguida</criminalrole>
 	</NE>
 </sent3>
 
 <sent4 desc="Na concretização do plano, dois dos arguidos, oriundos do Bangladesh, aderiram ao grupo, com vista a celebrarem casamento e beneficiarem do mesmo para regularizarem a sua situação em território de um qualquer país do Espaço Schengen, solicitando, para o efeito à arguida que lhes arranjassem duas jovens portuguesas com quem pudessem casar, como forma de regularizar a sua permanência em território nacional.">
 	<NE>
-		<Place>Bangladesh</Place>
+		<Location>Bangladesh</Location>
+		<Numeric>dois</Numeric>
+		<criminalrole>arguidos</criminalrole>
 	</NE>
 </sent4>
 
 <sent5 desc="Assim, em dezembro de 2014, a arguida apresentou uma proposta a dois indivíduos do sexo feminino que viviam em Portugal com dificuldades económicas, propondo-lhes que se deslocassem à Irlanda e aí casassem com uma pessoa estrangeira e ilegal em território europeu, recebendo em troca a quantia de € 5.000,00.">
 	<NE>
 		<Time>dezembro de 2014</Time>
-		<Place>Portugal</Place>
-		<Place>Irlanda</Place>
+		<Location>Portugal</Location>
+		<Location>Irlanda</Location>
 		<Numeric>€ 5.000,00</Numeric>
+		<criminalrole>indivíduos</criminalrole>
 	</NE>
 </sent5>
 
 <sent6 desc="Tais indivíduos do sexo feminino, viajaram algumas vezes até à Irlanda e, em 2015, casaram-se com os arguidos, recebendo, ambas em troca, cerca de €1.500,00.">
 	<NE>
-		<Place>Irlanda</Place>
+		<Location>Irlanda</Location>
 		<Time>2015</Time>
 		<Numeric>€1.500,00</Numeric>
+		<criminalrole>indivíduos</criminalrole>
+		<criminalrole>arguidos</criminalrole>
 	</NE>
 </sent6>
 
 <sent7 desc="As vezes que foram à Irlanda, as duas ofendidas, pernoitaram em casa dos arguidos, os quais, à noite, lhes fechavam a porta do quarto à chave, para que elas não fugissem e, durante o dia, quando não havia necessidade de se deslocarem a nenhum serviço para tratarem de documentos, fechavam a porta da residência à chave, ficando trancadas em casa contra a sua vontade.">
 	<NE>
-		<Place>Irlanda</Place>
+		<Location>Irlanda</Location>
+		<criminalrole>arguidos</criminalrole>
+		<criminalrole>ofendidas</criminalrole>
 		
 	</NE>
 </sent7>
 
 <sent8 desc="Após os casamentos, por diversas vezes e com propósito de enriquecer o seu património à custa das ofendidas, os arguidos, dirigiram expressões ameaçadoras, compelindo-as, por medo, a entregar-lhes dinheiro, por ter receio pela sua vida e dos seus familiares">
 	<NE>
+		<criminalrole>ofendidas</criminalrole>
+		<criminalrole>arguidos</criminalrole>
 	</NE>
 </sent8>
 
 <sent9 desc="No primeiro interrogatório foi aplicada aos arguidos a medida de coação de prisão preventiva por se julgar verificado, em concreto, o perigo de continuação da actividade criminosa e perigo de fuga.">
 	<NE>
+		<criminalrole>ofendidas</criminalrole>
 	</NE>
 </sent9>
 
@@ -98,7 +112,7 @@ A investigação prossegue sob a direção do MP da 4ª secção do DIAP de Sint
 	<NE>
 		<Organization>MP</Organization>
 		<Organization>4ª secção do DIAP de Sintra</Organization>
-		<Place>Sintra</Place>
+		<Location>Sintra</Location>
 		<Organization>PJ</Organization>
 	</NE>
 </sent11>

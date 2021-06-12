@@ -31,9 +31,9 @@
 		<NE>
 			<Time>4 de Junho</Time>
 			<Time>28 de Julho de 2019</Time>
-			<Place>Costa da Caparica</Place>
-			<Place>Almada</Place>
-			<Place>Charneca da Caparica</Place>
+			<Location>Costa da Caparica</Location>
+			<Location>Almada</Location>
+			<Location>Charneca da Caparica</Location>
 		</NE>
 	</sent3>
 	
@@ -41,7 +41,7 @@
 		<NE>
 			
 		</NE>
-	</sent1>
+	</sent4>
 	
 	<sent5 desc="O arguido ficou sujeito a prisão preventiva, conforme promoção do Ministério Público.">
 		<NE>

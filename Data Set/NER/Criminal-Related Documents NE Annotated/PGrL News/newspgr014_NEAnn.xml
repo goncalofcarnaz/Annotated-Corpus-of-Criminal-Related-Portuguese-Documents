@@ -24,6 +24,7 @@ O inquérito foi dirigido pela 2ª secção do MP do DIAP de Lisboa/Sede, com a 
 			<crimetype> abuso sexual de crianças</crimetype> 
 			<crimetype> sequestro</crimetype> 
 			<crimetype> perseguição</crimetype> 
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent1>
 
@@ -32,25 +33,27 @@ O inquérito foi dirigido pela 2ª secção do MP do DIAP de Lisboa/Sede, com a 
 			<Numeric> 20 anos</Numeric>
 			<Numeric>12 anos</Numeric>
 			<Time>janeiro de 2019</Time>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent2>
 
 <sent3 desc="A partir desta data, o arguido passou a abordar a menor em todos os locais onde esta se encontrava, perseguindo-a por diversas vezes com o propósito de assediar a menor, bem sabendo que com o seu comportamento lhe causava medo e inquietação.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent3>
 
 <sent4 desc="Em três situações o arguido manteve relações sexuais com a ofendida e numa das ocasiões, manteve-a no interior de um quarto, privando-a da sua liberdade, durante 3 dias, mesmo sabendo que os pais a procuravam e se encontravam preocupados com o seu bem-estar.">
 		<NE>
 			<Numeric>3 dias</Numeric>
+			<criminalrole>arguido</criminalrole>
 			
 		</NE>
 </sent4>
 
 <sent5 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva por se verificarem, em concreto, os perigos de continuação da atividade criminosa, de perturbação do decurso do inquérito e de fuga.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent5>
 

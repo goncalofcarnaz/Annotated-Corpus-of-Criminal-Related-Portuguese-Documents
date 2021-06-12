@@ -40,7 +40,7 @@
 	
 	<sent4 desc="Aí chegada e após ter encetado conversações com a psicóloga da instituição, empurrou-a, por forma a retirar o menor daquele local, colocando-se de imediato em fuga, levando-o para parte incerta, vindo o mesmo a ser encontrado, horas após, no Hospital da Estefânia em Lisboa.">
 		<NE>
-			<Place>Hospital da Estefânia em Lisboa</Place>
+			<Location>Hospital da Estefânia em Lisboa</Location>
 		</NE>
 	</sent4>
 	

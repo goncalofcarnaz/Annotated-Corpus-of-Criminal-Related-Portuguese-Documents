@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><newspgr013>
+<?xml version="1.0" encoding="UTF-8"?>
+<newspgr013>
     <docname>newspgr013</docname>
     <authors>Procudoria-Geral Distrital de Lisboa</authors>
     <publicationdate>28-10-2019</publicationdate>
@@ -25,16 +26,17 @@ A investigação prossegue sob a direção do DIAP do Ministério Público de Al
 			<Organization>JIC</Organization>
 			<crimetype>sequestro</crimetype>
 			<crimetype>roubo</crimetype>
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent1>	
 	
-		</NE>
-</sent1>	
+
 	
 <sent2 desc="Segundo os fortes indícios recolhidos, o arguido, no dia 23 de Julho de 2019, em comunhão de esforços e intentos, com outros indivíduos não identificados, encapuzados, de rosto tapado e de luvas calçadas, foram no encalço de um empregado de uma empresa tabaco, entrando em estabelecimento comercial em Almada.">
 		<NE>
 			<Time> 23 de Julho de 2019</Time>
-			<Place>Almada</Place>
+			<Location>Almada</Location>
+			<criminalrole>indivíduos não identificados</criminalrole>
 		</NE>
 </sent2>
 
@@ -46,13 +48,15 @@ A investigação prossegue sob a direção do DIAP do Ministério Público de Al
 	
 <sent4 desc="De seguida, entraram todos dentro da viatura e saíram do local, sendo que dois deles desferiram diversos pontapés no corpo da vítima. ">
 		<NE>
-			
+			<Numeric>dois</Numeric>
+			<criminalrole>vítima</criminalrole>
 		</NE>
 </sent4>
 
 <sent5 desc="Após, deslocaram-se até um local ermo, em Almada, retiraram a vítima do interior da viatura e colocaram-no de joelhos e cabeça debruçada, ao mesmo tempo que um deles lhe apontava a arma à cabeça.">
 		<NE>
-			<Place>Almada</Place>
+			<Location>Almada</Location>
+			<criminalrole>vítima</criminalrole>
 		</NE>
 </sent5>
 	
@@ -62,6 +66,7 @@ A investigação prossegue sob a direção do DIAP do Ministério Público de Al
 			<Numeric>€ 8514,10</Numeric>
 			<Numeric>990,00</Numeric>
 			<Organization>BCE</Organization>
+			<criminalrole>indivíduos</criminalrole>
 		</NE>
 </sent6>
 	
@@ -76,7 +81,7 @@ A investigação prossegue sob a direção do DIAP do Ministério Público de Al
 
 <sent8 desc="Ao arguido foi aplicada a medida de coação de prisão preventiva.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent8>
 

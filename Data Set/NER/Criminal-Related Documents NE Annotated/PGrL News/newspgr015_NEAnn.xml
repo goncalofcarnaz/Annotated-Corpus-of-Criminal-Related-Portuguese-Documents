@@ -22,13 +22,16 @@ O inquérito foi dirigido pelo MP da 4.ª secção do DIAP de Sintra/Comarca de 
 			<Time> 23.10.2019</Time>
 			 <crimetype>violação</crimetype>
 			 <crimetype>roubo</crimetype>
+			 <criminalrole>arguido</criminalrole>
 		</NE>
 </sent1>
 
 <sent2 desc="Segundo os fortes indícios recolhidos, o arguido, no dia 18.10.2019, contactou a ofendida através de um anúncio, combinando um encontro no Linhó, onde a obrigou a manter relações sexuais de cópula completa e de coito oral, sem o consentimento da vítima.">
 		<NE>
 			<Time>18.10.2019</Time>
-			<Place>Linhó</Place>
+			<Location>Linhó</Location>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
 		</NE>
 </sent2>
 
@@ -36,19 +39,21 @@ O inquérito foi dirigido pelo MP da 4.ª secção do DIAP de Sintra/Comarca de 
 		<NE>
 			<Numeric>€ 3.000,00</Numeric>
 			<Numeric>€ 10,00</Numeric>
+			<criminalrole>arguido</criminalrole>
+			<criminalrole>ofendida</criminalrole>
 			
 		</NE>
 </sent3>
 
 <sent4 desc="O arguido já tinha sido condenado por crimes da mesma natureza e cumpriu pena de prisão">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent4>
 
 <sent5 desc="O arguido ficou sujeito à medida de coação de prisão preventiva, por se verificar, em concreto, o perigo de continuação da atividade criminosa.">
 		<NE>
-			
+			<criminalrole>arguido</criminalrole>
 		</NE>
 </sent5>
 
