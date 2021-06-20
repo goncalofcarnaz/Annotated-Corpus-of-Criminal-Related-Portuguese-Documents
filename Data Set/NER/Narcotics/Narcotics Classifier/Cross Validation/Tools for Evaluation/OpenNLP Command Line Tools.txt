@@ -1,0 +1,8 @@
+# 1) Install OpenNLP (https://opennlp.apache.org/), and go to /bin folder using command line app.
+
+# 2 ) Train the models
+opennlp TokenNameFinderTrainer -encoding UTF-8 -model <path to new model>  -data <path to train dataset> -lang pt -params PerceptronTrainerParams.txt
+
+# 3) Test the models
+opennlp TokenNameFinderEvaluator -encoding UTF-8 -model <path to created model> -data <path to test dataset> 
+
