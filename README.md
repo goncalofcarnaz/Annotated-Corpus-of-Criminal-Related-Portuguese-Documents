@@ -32,6 +32,8 @@ Mário Antunes, Professor at Computers Engineering Dept., School of Technology a
 
 # Publications
 
+Carnaz G, Antunes M, Nogueira VB. An Annotated Corpus of Crime-Related Portuguese Documents for NLP and Machine Learning Processing. Data. 2021; 6(7):71. (URL: https://www.mdpi.com/2306-5729/6/7/71)
+
 Carnaz G, Nogueira VB, Antunes M. A Graph Database Representation of Portuguese Criminal-Related Documents. Informatics. 2021; 8(2):37 (URL: https://www.mdpi.com/1137858)
 
 Gonçalo Carnaz, Vitor Nogueira, Mário Antunes; "Knowledge Representation of Crime-Related Events: a Preliminary Approach"; 8th Symposium on Languages, Applications and Technologies (SLATE'19); ISBN: 978-3-95977-114-6; vol.74; pp. 13:1-13:8; June 2019; Coimbra, Portugal (URL: https://drops.dagstuhl.de/opus/volltexte/2019/10880/pdf/OASIcs-SLATE-2019-13.pdf)
