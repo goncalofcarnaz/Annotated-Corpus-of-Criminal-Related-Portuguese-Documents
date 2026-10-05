@@ -20,7 +20,7 @@ Documents were retrieved from the following repositories:
 
 Please DO NOT modify this file directly. (this repo will be updated continuously, maintaining a file named as change_tracker)
 
-The annotated corpus aims to contribute for Machine Learning and Natural Language Processing tasks. 
+The annotated corpus aims to contribute for Machine Learning and Natural Language Processing tasks (not for commercial purposes, only for research purposes). 
 
 # Authors
 
